@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+ol { list-style: none; }
+
+td.game_date, td.game_time_et, td.away_team, td.home_team {
+  border: none;
+}
+
+td.game_time_et {
+  text-align: right;
+  padding-right: 20px;
+}
+
+td.away_team, td.home_team {
+  text-align: center;
+}
