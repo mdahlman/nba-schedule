@@ -5,8 +5,18 @@
 
 ol { list-style: none; }
 
-td.game_date, td.game_time_et, td.away_team, td.home_team {
+.logos_header {
+  text-align: center;
+}
+
+td.game_date, td.game_time_et, td.logos, td.away_team, td.home_team {
   border: none;
+  vertical-align: middle;
+  padding: 0;
+}
+
+td.game_date {
+  padding-left: 10px;
 }
 
 td.game_time_et {
@@ -16,4 +26,30 @@ td.game_time_et {
 
 td.away_team, td.home_team {
   text-align: center;
+}
+
+.game_date {
+    color: #f2f2f2; /* section background color */
+}
+
+.game_date.g1 {
+    color: inherit; /* only the first row on each day shows the day */
+}
+
+.game_time_et {
+    color: #f2f2f2; /* section background color */
+}
+
+.game_time_et.g1 {
+    color: inherit; /* only the first row on each day shows the day */
+}
+
+td.logos > img {
+  width: 40px;
+  vertical-align: middle;
+  background: transparent;
+  box-shadow: none;
+  margin:  0;
+  border:  0;
+  padding: 0;
 }
