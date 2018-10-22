@@ -1,9 +1,8 @@
 # NBA Schedule 2018-19
-The Complete NBA Regular Season Schedule for 2018-2019.<br />
-Here's the [background information](background) and raw data.
+[Home]({{ site.baseurl }}{% link index.md %})
 
-Other versions of the NBA Schedule:
-[Basic]({{ site.baseurl }}{% link nba-schedule-2018-2019-basic.md %})
+This is the most boring no-frills table possible. I love it.
+
 <table>
   <thead>
     <tr>
