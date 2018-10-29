@@ -12,6 +12,7 @@ ol { list-style: none; }
 td.game_date, td.game_time_et, td.logos, td.away_team, td.home_team {
   border: none;
   vertical-align: middle;
+  white-space: nowrap;
   padding: 0;
 }
 
