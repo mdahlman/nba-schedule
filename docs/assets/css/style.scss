@@ -22,11 +22,22 @@ td.game_date {
 
 td.game_time_et {
   text-align: right;
-  padding-right: 20px;
+  padding-right: 10px;
 }
 
-td.away_team, td.home_team {
+td.logos {
+  padding-right: 10px;
+}
+
+td.away_team, td.home_team, th.away_team_header, th.home_team_header {
+  display: none; /* that's right! not displayed by default */
+}
+
+@media only screen and (min-width: 480px)  {
+  td.away_team, td.home_team, th.away_team_header, th.home_team_header {
   text-align: center;
+  display: table-cell; /* only display these if we're spoiled for space */
+  }
 }
 
 .game_date {
