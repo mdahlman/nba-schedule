@@ -36,7 +36,9 @@ Other versions of the NBA Schedule:
 $(document).ready(function(){
   $("#TodayButton").click(function () {
     var w = $(window);
-    var row = $('table').find('tr.2018-10-30').first();
+    var d = new Date();
+    var selectorString = 'tr.' + d.getFullYear() + '-' + ("0" + (d.getMonth() + 1)).slice(-2) + '-' + ("0" + d.getDate()).slice(-2);
+    var row = $('table').find(selectorString).first();
 
     if (row.length){
         $('html,body').animate({scrollTop: row.offset().top - (w.height()/4)}, 1000 );
