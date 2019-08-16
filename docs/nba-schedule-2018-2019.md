@@ -1,9 +1,9 @@
-# NBA Schedule 2019-2020
-The Complete NBA Regular Season Schedule for 2019-2020.<br />
+# NBA Schedule 2018-19
+The Complete NBA Regular Season Schedule for 2018-2019.<br />
 [Background information](background) and raw data.
 
 Other versions of the NBA Schedule:
-[Basic]({{ site.baseurl }}{% link nba-schedule-2019-2020-basic.md %})
+[Basic]({{ site.baseurl }}{% link nba-schedule-2018-2019-basic.md %})
 
 <input type="button" value="today" id="TodayButton" />
 
@@ -17,7 +17,7 @@ Other versions of the NBA Schedule:
       <th class="home_team_header">Home</th>
     </tr>
   </thead>
-{% for game in site.data.NBA-Full-Schedule-frills-2019-2020 %}
+{% for game in site.data.NBA-Full-Schedule-frills-2018-2019 %}
   <tr class="{{ game.game_date }} g{{ game.game_number_this_day }}">
     <td class="game_date g{{ game.game_number_this_day }}">{{ game.game_date }}</td>
     <td class="game_time_et g{{ game.game_number_this_day_and_time }}">{{ game.game_time_et }}</td>
