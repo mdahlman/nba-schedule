@@ -14,8 +14,8 @@ This is the most boring no-frills table possible. I love it.
   </thead>
 {% for game in site.data.NBA-Full-Schedule-no-frills-2019-2020 %}
   <tr>
-    <td class="game_date">{{ game.game_date }}</td>
-    <td class="game_time_et">{{ game.game_time_et }}</td>
+    <td class="game_date g1">{{ game.game_date }}</td>
+    <td class="game_time_et g1">{{ game.game_time_et }}</td>
     <td class="away_team">{{ game.away_team }}</td>
     <td class="home_team">{{ game.home_team }}</td>
   </tr>
