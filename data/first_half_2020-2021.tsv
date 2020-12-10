@@ -1,0 +1,559 @@
+game_id	url	TV	game_date	game_time_et	away_team	home_team	away_team_full_name	home_team_full_name	game_number_this_day	game_number_this_day_and_time	arena	city	away_team_espn_abbr	home_team_espn_abbr
+1	https://www.nba.com/game/gsw-vs-bkn-0022000001	TNT	12/22/20	7:00 PM ET	GSW	BKN	Golden State Warriors	Brooklyn Nets	1	1	Barclays Center	"Brooklyn, NY"	gsw	bkn
+2	https://www.nba.com/game/lac-vs-lal-0022000002	TNT	12/22/20	10:00 PM ET	LAC	LAL	LA Clippers	Los Angeles Lakers	2	1	Staples Center	"Los Angeles, CA"	lac	lal
+10	https://www.nba.com/game/cha-vs-cle-0022000010		12/23/20	7:00 PM ET	CHA	CLE	Charlotte Hornets	Cleveland Cavaliers	3	1	Rocket Mortgage FieldHouse	"Cleveland, OH"	cha	cle
+11	https://www.nba.com/game/nyk-vs-ind-0022000011		12/23/20	7:00 PM ET	NYK	IND	New York Knicks	Indiana Pacers	4	2	Bankers Life Fieldhouse	"Indianapolis, IN"	nyk	ind
+12	https://www.nba.com/game/mia-vs-orl-0022000012		12/23/20	7:00 PM ET	MIA	ORL	Miami Heat	Orlando Magic	5	3	Amway Center	"Orlando, FL"	mia	orl
+13	https://www.nba.com/game/was-vs-phi-0022000013		12/23/20	7:00 PM ET	WAS	PHI	Washington Wizards	Philadelphia 76ers	6	4	Wells Fargo Center	"Philadelphia, PA"	was	phi
+3	https://www.nba.com/game/mil-vs-bos-0022000003	TNT	12/23/20	7:30 PM ET	MIL	BOS	Milwaukee Bucks	Boston Celtics	1	1	TD Garden	"Boston, MA"	mil	bos
+14	https://www.nba.com/game/nop-vs-tor-0022000014		12/23/20	7:30 PM ET	NOP	TOR	New Orleans Pelicans	Toronto Raptors	7	2	Amalie Arena	"Tampa, FL"	no	tor
+15	https://www.nba.com/game/atl-vs-chi-0022000015		12/23/20	8:00 PM ET	ATL	CHI	Atlanta Hawks	Chicago Bulls	8	1	United Center	"Chicago, IL"	atl	chi
+16	https://www.nba.com/game/okc-vs-hou-0022000016	Fox Sports Oklahoma	12/23/20	8:00 PM ET	OKC	HOU	Oklahoma City Thunder	Houston Rockets	9	2	Toyota Center	"Houston, TX"	okc	hou
+17	https://www.nba.com/game/sas-vs-mem-0022000017		12/23/20	8:00 PM ET	SAS	MEM	San Antonio Spurs	Memphis Grizzlies	10	3	FedExForum	"Memphis, TN"	sas	mem
+18	https://www.nba.com/game/det-vs-min-0022000018		12/23/20	8:00 PM ET	DET	MIN	Detroit Pistons	Minnesota Timberwolves	11	4	Target Center	"Minneapolis, MN"	det	min
+19	https://www.nba.com/game/sac-vs-den-0022000019		12/23/20	9:00 PM ET	SAC	DEN	Sacramento Kings	Denver Nuggets	12	1	Ball Arena	"Denver, CO"	sac	den
+20	https://www.nba.com/game/uta-vs-por-0022000020	NBC Sports Northwest	12/23/20	10:00 PM ET	UTA	POR	Utah Jazz	Portland Trail Blazers	13	1	Moda Center	"Portland, OR"	uth	por
+4	https://www.nba.com/game/dal-vs-phx-0022000004	ESPN	12/23/20	10:30 PM ET	DAL	PHX	Dallas Mavericks	Phoenix Suns	2	1	PHX Arena	"Phoenix, AZ"	dal	phx
+6	https://www.nba.com/game/gsw-vs-mil-0022000006	ABC	12/25/20	2:30 PM ET	GSW	MIL	Golden State Warriors	Milwaukee Bucks	2	1	Fiserv Forum	"Milwaukee, WI"	gsw	mil
+7	https://www.nba.com/game/bkn-vs-bos-0022000007	ABC	12/25/20	5:00 PM ET	BKN	BOS	Brooklyn Nets	Boston Celtics	3	1	TD Garden	"Boston, MA"	bkn	bos
+8	https://www.nba.com/game/dal-vs-lal-0022000008	ABC/ESPN	12/25/20	8:00 PM ET	DAL	LAL	Dallas Mavericks	Los Angeles Lakers	4	1	Staples Center	"Los Angeles, CA"	dal	lal
+9	https://www.nba.com/game/lac-vs-den-0022000009	"ESPN, Fox Sports Prime Tic"	12/25/20	10:30 PM ET	LAC	DEN	LA Clippers	Denver Nuggets	5	1	Ball Arena	"Denver, CO"	lac	den
+5	https://www.nba.com/game/nop-vs-mia-0022000005	ESPN	12/25/20	12:00 PM ET	NOP	MIA	New Orleans Pelicans	Miami Heat	1	1	AmericanAirlines Arena	"Miami, FL"	no	mia
+21	https://www.nba.com/game/atl-vs-mem-0022000021	NBA TV	12/26/20	5:00 PM ET	ATL	MEM	Atlanta Hawks	Memphis Grizzlies	1	1	FedExForum	"Memphis, TN"	atl	mem
+22	https://www.nba.com/game/okc-vs-cha-0022000022	Fox Sports Oklahoma	12/26/20	7:00 PM ET	OKC	CHA	Oklahoma City Thunder	Charlotte Hornets	2	1	Spectrum Center	"Charlotte, NC"	okc	cha
+23	https://www.nba.com/game/cle-vs-det-0022000023		12/26/20	7:00 PM ET	CLE	DET	Cleveland Cavaliers	Detroit Pistons	3	2	Little Caesars Arena	"Detroit, MI"	cle	det
+24	https://www.nba.com/game/orl-vs-was-0022000024		12/26/20	7:00 PM ET	ORL	WAS	Orlando Magic	Washington Wizards	4	3	Capital One Arena	"Washington, DC"	orl	was
+25	https://www.nba.com/game/phi-vs-nyk-0022000025	NBA TV	12/26/20	7:30 PM ET	PHI	NYK	Philadelphia 76ers	New York Knicks	5	1	Madison Square Garden	"New York, NY"	phi	nyk
+26	https://www.nba.com/game/ind-vs-chi-0022000026		12/26/20	8:00 PM ET	IND	CHI	Indiana Pacers	Chicago Bulls	6	1	United Center	"Chicago, IL"	ind	chi
+27	https://www.nba.com/game/tor-vs-sas-0022000027		12/26/20	8:30 PM ET	TOR	SAS	Toronto Raptors	San Antonio Spurs	7	1	AT&T Center	"San Antonio, TX"	tor	sas
+28	https://www.nba.com/game/min-vs-uta-0022000028		12/26/20	9:00 PM ET	MIN	UTA	Minnesota Timberwolves	Utah Jazz	8	1	Vivint Smart Home Arena	"Salt Lake City, UT"	min	uth
+29	https://www.nba.com/game/hou-vs-por-0022000029	"NBA TV, NBC Sports Northwest"	12/26/20	10:00 PM ET	HOU	POR	Houston Rockets	Portland Trail Blazers	9	1	Moda Center	"Portland, OR"	hou	por
+30	https://www.nba.com/game/phx-vs-sac-0022000030		12/26/20	10:00 PM ET	PHX	SAC	Phoenix Suns	Sacramento Kings	10	2	Golden 1 Center	"Sacramento, CA"	phx	sac
+31	https://www.nba.com/game/dal-vs-lac-0022000031	"NBA TV, Fox Sports Prime Tic"	12/27/20	3:30 PM ET	DAL	LAC	Dallas Mavericks	LA Clippers	1	1	Staples Center	"Los Angeles, CA"	dal	lac
+32	https://www.nba.com/game/bkn-vs-cha-0022000032	NBA TV	12/27/20	7:00 PM ET	BKN	CHA	Brooklyn Nets	Charlotte Hornets	2	1	Spectrum Center	"Charlotte, NC"	bkn	cha
+33	https://www.nba.com/game/orl-vs-was-0022000033		12/27/20	7:00 PM ET	ORL	WAS	Orlando Magic	Washington Wizards	3	2	Capital One Arena	"Washington, DC"	orl	was
+34	https://www.nba.com/game/sas-vs-nop-0022000034		12/27/20	7:00 PM ET	SAS	NOP	San Antonio Spurs	New Orleans Pelicans	4	3	Smoothie King Center	"New Orleans, LA"	sas	no
+35	https://www.nba.com/game/phi-vs-cle-0022000035		12/27/20	7:30 PM ET	PHI	CLE	Philadelphia 76ers	Cleveland Cavaliers	5	1	Rocket Mortgage FieldHouse	"Cleveland, OH"	phi	cle
+36	https://www.nba.com/game/mil-vs-nyk-0022000036		12/27/20	7:30 PM ET	MIL	NYK	Milwaukee Bucks	New York Knicks	6	2	Madison Square Garden	"New York, NY"	mil	nyk
+37	https://www.nba.com/game/bos-vs-ind-0022000037		12/27/20	8:00 PM ET	BOS	IND	Boston Celtics	Indiana Pacers	7	1	Bankers Life Fieldhouse	"Indianapolis, IN"	bos	ind
+38	https://www.nba.com/game/gsw-vs-chi-0022000038		12/27/20	8:00 PM ET	GSW	CHI	Golden State Warriors	Chicago Bulls	8	2	United Center	"Chicago, IL"	gsw	chi
+39	https://www.nba.com/game/phx-vs-sac-0022000039		12/27/20	9:00 PM ET	PHX	SAC	Phoenix Suns	Sacramento Kings	9	1	Golden 1 Center	"Sacramento, CA"	phx	sac
+40	https://www.nba.com/game/min-vs-lal-0022000040	"NBA TV, Spectrum SportsNet"	12/27/20	10:00 PM ET	MIN	LAL	Minnesota Timberwolves	Los Angeles Lakers	10	1	Staples Center	"Los Angeles, CA"	min	lal
+41	https://www.nba.com/game/det-vs-atl-0022000041		12/28/20	7:30 PM ET	DET	ATL	Detroit Pistons	Atlanta Hawks	1	1	State Farm Arena	"Atlanta, GA"	det	atl
+42	https://www.nba.com/game/mem-vs-bkn-0022000042	NBA TV	12/28/20	7:30 PM ET	MEM	BKN	Memphis Grizzlies	Brooklyn Nets	2	2	Barclays Center	"Brooklyn, NY"	mem	bkn
+43	https://www.nba.com/game/uta-vs-okc-0022000043	Fox Sports Oklahoma	12/28/20	8:00 PM ET	UTA	OKC	Utah Jazz	Oklahoma City Thunder	3	1	Chesapeake Energy Arena	"Oklahoma City, OK"	uth	okc
+44	https://www.nba.com/game/hou-vs-den-0022000044		12/28/20	9:00 PM ET	HOU	DEN	Houston Rockets	Denver Nuggets	4	1	Ball Arena	"Denver, CO"	hou	den
+45	https://www.nba.com/game/por-vs-lal-0022000045	"NBA TV, Spectrum SportsNet, NBC Sports Northwest"	12/28/20	10:00 PM ET	POR	LAL	Portland Trail Blazers	Los Angeles Lakers	5	1	Staples Center	"Los Angeles, CA"	por	lal
+46	https://www.nba.com/game/nyk-vs-cle-0022000046		12/29/20	7:00 PM ET	NYK	CLE	New York Knicks	Cleveland Cavaliers	1	1	Rocket Mortgage FieldHouse	"Cleveland, OH"	nyk	cle
+47	https://www.nba.com/game/gsw-vs-det-0022000047		12/29/20	7:00 PM ET	GSW	DET	Golden State Warriors	Detroit Pistons	2	2	Little Caesars Arena	"Detroit, MI"	gsw	det
+48	https://www.nba.com/game/bos-vs-ind-0022000048		12/29/20	7:00 PM ET	BOS	IND	Boston Celtics	Indiana Pacers	3	3	Bankers Life Fieldhouse	"Indianapolis, IN"	bos	ind
+49	https://www.nba.com/game/tor-vs-phi-0022000049		12/29/20	7:00 PM ET	TOR	PHI	Toronto Raptors	Philadelphia 76ers	4	4	Wells Fargo Center	"Philadelphia, PA"	tor	phi
+50	https://www.nba.com/game/chi-vs-was-0022000050		12/29/20	7:00 PM ET	CHI	WAS	Chicago Bulls	Washington Wizards	5	5	Capital One Arena	"Washington, DC"	chi	was
+51	https://www.nba.com/game/mil-vs-mia-0022000051	TNT	12/29/20	7:30 PM ET	MIL	MIA	Milwaukee Bucks	Miami Heat	6	1	AmericanAirlines Arena	"Miami, FL"	mil	mia
+52	https://www.nba.com/game/orl-vs-okc-0022000052	Fox Sports Oklahoma	12/29/20	8:00 PM ET	ORL	OKC	Orlando Magic	Oklahoma City Thunder	7	1	Chesapeake Energy Arena	"Oklahoma City, OK"	orl	okc
+53	https://www.nba.com/game/nop-vs-phx-0022000053	TNT	12/29/20	10:00 PM ET	NOP	PHX	New Orleans Pelicans	Phoenix Suns	8	1	PHX Arena	"Phoenix, AZ"	no	phx
+54	https://www.nba.com/game/min-vs-lac-0022000054	Fox Sports Prime Tic	12/29/20	10:00 PM ET	MIN	LAC	Minnesota Timberwolves	LA Clippers	9	2	Staples Center	"Los Angeles, CA"	min	lac
+55	https://www.nba.com/game/den-vs-sac-0022000055		12/29/20	10:00 PM ET	DEN	SAC	Denver Nuggets	Sacramento Kings	10	3	Golden 1 Center	"Sacramento, CA"	den	sac
+56	https://www.nba.com/game/mem-vs-bos-0022000056		12/30/20	7:30 PM ET	MEM	BOS	Memphis Grizzlies	Boston Celtics	1	1	TD Garden	"Boston, MA"	mem	bos
+57	https://www.nba.com/game/atl-vs-bkn-0022000057		12/30/20	7:30 PM ET	ATL	BKN	Atlanta Hawks	Brooklyn Nets	2	2	Barclays Center	"Brooklyn, NY"	atl	bkn
+58	https://www.nba.com/game/mil-vs-mia-0022000058	NBA TV	12/30/20	7:30 PM ET	MIL	MIA	Milwaukee Bucks	Miami Heat	3	3	AmericanAirlines Arena	"Miami, FL"	mil	mia
+59	https://www.nba.com/game/cha-vs-dal-0022000059		12/30/20	8:30 PM ET	CHA	DAL	Charlotte Hornets	Dallas Mavericks	4	1	American Airlines Center	"Dallas, TX"	cha	dal
+60	https://www.nba.com/game/lal-vs-sas-0022000060	Spectrum SportsNet	12/30/20	8:30 PM ET	LAL	SAS	Los Angeles Lakers	San Antonio Spurs	5	2	AT&T Center	"San Antonio, TX"	lal	sas
+61	https://www.nba.com/game/por-vs-lac-0022000061	"NBA TV, Fox Sports Prime Tic, NBC Sports Northwest"	12/30/20	10:00 PM ET	POR	LAC	Portland Trail Blazers	LA Clippers	6	1	Staples Center	"Los Angeles, CA"	por	lac
+62	https://www.nba.com/game/cle-vs-ind-0022000062		12/31/20	3:00 PM ET	CLE	IND	Cleveland Cavaliers	Indiana Pacers	1	1	Bankers Life Fieldhouse	"Indianapolis, IN"	cle	ind
+63	https://www.nba.com/game/chi-vs-was-0022000063		12/31/20	5:00 PM ET	CHI	WAS	Chicago Bulls	Washington Wizards	2	1	Capital One Arena	"Washington, DC"	chi	was
+64	https://www.nba.com/game/phi-vs-orl-0022000064	NBA TV	12/31/20	6:30 PM ET	PHI	ORL	Philadelphia 76ers	Orlando Magic	3	1	Amway Center	"Orlando, FL"	phi	orl
+65	https://www.nba.com/game/sac-vs-hou-0022000065		12/31/20	7:00 PM ET	SAC	HOU	Sacramento Kings	Houston Rockets	4	1	Toyota Center	"Houston, TX"	sac	hou
+66	https://www.nba.com/game/nyk-vs-tor-0022000066		12/31/20	7:30 PM ET	NYK	TOR	New York Knicks	Toronto Raptors	5	1	Amalie Arena	"Tampa, FL"	nyk	tor
+67	https://www.nba.com/game/nop-vs-okc-0022000067	Fox Sports Oklahoma	12/31/20	8:00 PM ET	NOP	OKC	New Orleans Pelicans	Oklahoma City Thunder	6	1	Chesapeake Energy Arena	"Oklahoma City, OK"	no	okc
+68	https://www.nba.com/game/phx-vs-uta-0022000068	NBA TV	12/31/20	9:00 PM ET	PHX	UTA	Phoenix Suns	Utah Jazz	7	1	Vivint Smart Home Arena	"Salt Lake City, UT"	phx	uth
+69	https://www.nba.com/game/mem-vs-cha-0022000069		1/1/21	7:00 PM ET	MEM	CHA	Memphis Grizzlies	Charlotte Hornets	1	1	Spectrum Center	"Charlotte, NC"	mem	cha
+70	https://www.nba.com/game/bos-vs-det-0022000070		1/1/21	7:00 PM ET	BOS	DET	Boston Celtics	Detroit Pistons	2	2	Little Caesars Arena	"Detroit, MI"	bos	det
+71	https://www.nba.com/game/mia-vs-dal-0022000071		1/1/21	7:00 PM ET	MIA	DAL	Miami Heat	Dallas Mavericks	3	3	American Airlines Center	"Dallas, TX"	mia	dal
+72	https://www.nba.com/game/atl-vs-bkn-0022000072		1/1/21	7:30 PM ET	ATL	BKN	Atlanta Hawks	Brooklyn Nets	4	1	Barclays Center	"Brooklyn, NY"	atl	bkn
+73	https://www.nba.com/game/chi-vs-mil-0022000073		1/1/21	8:00 PM ET	CHI	MIL	Chicago Bulls	Milwaukee Bucks	5	1	Fiserv Forum	"Milwaukee, WI"	chi	mil
+74	https://www.nba.com/game/was-vs-min-0022000074		1/1/21	8:00 PM ET	WAS	MIN	Washington Wizards	Minnesota Timberwolves	6	2	Target Center	"Minneapolis, MN"	was	min
+75	https://www.nba.com/game/lal-vs-sas-0022000075	"NBA TV, Spectrum SportsNet"	1/1/21	8:00 PM ET	LAL	SAS	Los Angeles Lakers	San Antonio Spurs	7	3	AT&T Center	"San Antonio, TX"	lal	sas
+76	https://www.nba.com/game/phx-vs-den-0022000076		1/1/21	9:00 PM ET	PHX	DEN	Phoenix Suns	Denver Nuggets	8	1	Ball Arena	"Denver, CO"	phx	den
+77	https://www.nba.com/game/lac-vs-uta-0022000077	Fox Sports Prime Tic	1/1/21	9:00 PM ET	LAC	UTA	LA Clippers	Utah Jazz	9	2	Vivint Smart Home Arena	"Salt Lake City, UT"	lac	uth
+78	https://www.nba.com/game/por-vs-gsw-0022000078	"NBA TV, NBC Sports Northwest"	1/1/21	10:30 PM ET	POR	GSW	Portland Trail Blazers	Golden State Warriors	10	1	Chase Center	"San Francisco, CA"	por	gsw
+79	https://www.nba.com/game/sac-vs-hou-0022000079	NBA TV	1/2/21	5:00 PM ET	SAC	HOU	Sacramento Kings	Houston Rockets	1	1	Toyota Center	"Houston, TX"	sac	hou
+80	https://www.nba.com/game/nyk-vs-ind-0022000080		1/2/21	7:00 PM ET	NYK	IND	New York Knicks	Indiana Pacers	2	1	Bankers Life Fieldhouse	"Indianapolis, IN"	nyk	ind
+81	https://www.nba.com/game/okc-vs-orl-0022000081	Fox Sports Oklahoma	1/2/21	7:00 PM ET	OKC	ORL	Oklahoma City Thunder	Orlando Magic	3	2	Amway Center	"Orlando, FL"	okc	orl
+82	https://www.nba.com/game/cha-vs-phi-0022000082		1/2/21	7:00 PM ET	CHA	PHI	Charlotte Hornets	Philadelphia 76ers	4	3	Wells Fargo Center	"Philadelphia, PA"	cha	phi
+83	https://www.nba.com/game/cle-vs-atl-0022000083		1/2/21	7:30 PM ET	CLE	ATL	Cleveland Cavaliers	Atlanta Hawks	5	1	State Farm Arena	"Atlanta, GA"	cle	atl
+84	https://www.nba.com/game/tor-vs-nop-0022000084	NBA TV	1/2/21	7:30 PM ET	TOR	NOP	Toronto Raptors	New Orleans Pelicans	6	2	Smoothie King Center	"New Orleans, LA"	tor	no
+85	https://www.nba.com/game/bos-vs-det-0022000085	NBA TV	1/3/21	3:00 PM ET	BOS	DET	Boston Celtics	Detroit Pistons	1	1	Little Caesars Arena	"Detroit, MI"	bos	det
+86	https://www.nba.com/game/was-vs-bkn-0022000086	NBA TV	1/3/21	6:00 PM ET	WAS	BKN	Washington Wizards	Brooklyn Nets	2	1	Barclays Center	"Brooklyn, NY"	was	bkn
+87	https://www.nba.com/game/lal-vs-mem-0022000087	Spectrum SportsNet	1/3/21	6:00 PM ET	LAL	MEM	Los Angeles Lakers	Memphis Grizzlies	3	2	FedExForum	"Memphis, TN"	lal	mem
+88	https://www.nba.com/game/den-vs-min-0022000088		1/3/21	7:00 PM ET	DEN	MIN	Denver Nuggets	Minnesota Timberwolves	4	1	Target Center	"Minneapolis, MN"	den	min
+89	https://www.nba.com/game/uta-vs-sas-0022000089		1/3/21	7:00 PM ET	UTA	SAS	Utah Jazz	San Antonio Spurs	5	2	AT&T Center	"San Antonio, TX"	uth	sas
+90	https://www.nba.com/game/dal-vs-chi-0022000090		1/3/21	8:00 PM ET	DAL	CHI	Dallas Mavericks	Chicago Bulls	6	1	United Center	"Chicago, IL"	dal	chi
+91	https://www.nba.com/game/lac-vs-phx-0022000091	Fox Sports Prime Tic	1/3/21	8:00 PM ET	LAC	PHX	LA Clippers	Phoenix Suns	7	2	PHX Arena	"Phoenix, AZ"	lac	phx
+92	https://www.nba.com/game/por-vs-gsw-0022000092	"NBA TV, NBC Sports Northwest"	1/3/21	8:30 PM ET	POR	GSW	Portland Trail Blazers	Golden State Warriors	8	1	Chase Center	"San Francisco, CA"	por	gsw
+93	https://www.nba.com/game/cle-vs-orl-0022000093		1/4/21	7:00 PM ET	CLE	ORL	Cleveland Cavaliers	Orlando Magic	1	1	Amway Center	"Orlando, FL"	cle	orl
+94	https://www.nba.com/game/cha-vs-phi-0022000094		1/4/21	7:00 PM ET	CHA	PHI	Charlotte Hornets	Philadelphia 76ers	2	2	Wells Fargo Center	"Philadelphia, PA"	cha	phi
+95	https://www.nba.com/game/nyk-vs-atl-0022000095		1/4/21	7:30 PM ET	NYK	ATL	New York Knicks	Atlanta Hawks	3	1	State Farm Arena	"Atlanta, GA"	nyk	atl
+96	https://www.nba.com/game/okc-vs-mia-0022000096	Fox Sports Oklahoma	1/4/21	7:30 PM ET	OKC	MIA	Oklahoma City Thunder	Miami Heat	4	2	AmericanAirlines Arena	"Miami, FL"	okc	mia
+97	https://www.nba.com/game/bos-vs-tor-0022000097		1/4/21	7:30 PM ET	BOS	TOR	Boston Celtics	Toronto Raptors	5	3	Amalie Arena	"Tampa, FL"	bos	tor
+98	https://www.nba.com/game/dal-vs-hou-0022000098		1/4/21	8:00 PM ET	DAL	HOU	Dallas Mavericks	Houston Rockets	6	1	Toyota Center	"Houston, TX"	dal	hou
+99	https://www.nba.com/game/det-vs-mil-0022000099		1/4/21	8:00 PM ET	DET	MIL	Detroit Pistons	Milwaukee Bucks	7	2	Fiserv Forum	"Milwaukee, WI"	det	mil
+100	https://www.nba.com/game/ind-vs-nop-0022000100		1/4/21	8:00 PM ET	IND	NOP	Indiana Pacers	New Orleans Pelicans	8	3	Smoothie King Center	"New Orleans, LA"	ind	no
+101	https://www.nba.com/game/sac-vs-gsw-0022000101		1/4/21	10:00 PM ET	SAC	GSW	Sacramento Kings	Golden State Warriors	9	1	Chase Center	"San Francisco, CA"	sac	gsw
+102	https://www.nba.com/game/uta-vs-bkn-0022000102		1/5/21	7:30 PM ET	UTA	BKN	Utah Jazz	Brooklyn Nets	1	1	Barclays Center	"Brooklyn, NY"	uth	bkn
+103	https://www.nba.com/game/lal-vs-mem-0022000103	"NBA TV, Spectrum SportsNet"	1/5/21	8:00 PM ET	LAL	MEM	Los Angeles Lakers	Memphis Grizzlies	2	1	FedExForum	"Memphis, TN"	lal	mem
+104	https://www.nba.com/game/min-vs-den-0022000104		1/5/21	9:00 PM ET	MIN	DEN	Minnesota Timberwolves	Denver Nuggets	3	1	Ball Arena	"Denver, CO"	min	den
+105	https://www.nba.com/game/sas-vs-lac-0022000105	Fox Sports Prime Tic	1/5/21	10:00 PM ET	SAS	LAC	San Antonio Spurs	LA Clippers	4	1	Staples Center	"Los Angeles, CA"	sas	lac
+106	https://www.nba.com/game/chi-vs-por-0022000106	"NBA TV, NBC Sports Northwest"	1/5/21	10:30 PM ET	CHI	POR	Chicago Bulls	Portland Trail Blazers	5	1	Moda Center	"Portland, OR"	chi	por
+107	https://www.nba.com/game/hou-vs-ind-0022000107		1/6/21	7:00 PM ET	HOU	IND	Houston Rockets	Indiana Pacers	1	1	Bankers Life Fieldhouse	"Indianapolis, IN"	hou	ind
+108	https://www.nba.com/game/cle-vs-orl-0022000108		1/6/21	7:00 PM ET	CLE	ORL	Cleveland Cavaliers	Orlando Magic	2	2	Amway Center	"Orlando, FL"	cle	orl
+109	https://www.nba.com/game/was-vs-phi-0022000109		1/6/21	7:00 PM ET	WAS	PHI	Washington Wizards	Philadelphia 76ers	3	3	Wells Fargo Center	"Philadelphia, PA"	was	phi
+110	https://www.nba.com/game/cha-vs-atl-0022000110		1/6/21	7:30 PM ET	CHA	ATL	Charlotte Hornets	Atlanta Hawks	4	1	State Farm Arena	"Atlanta, GA"	cha	atl
+111	https://www.nba.com/game/bos-vs-mia-0022000111	ESPN	1/6/21	7:30 PM ET	BOS	MIA	Boston Celtics	Miami Heat	5	2	AmericanAirlines Arena	"Miami, FL"	bos	mia
+112	https://www.nba.com/game/uta-vs-nyk-0022000112		1/6/21	7:30 PM ET	UTA	NYK	Utah Jazz	New York Knicks	6	3	Madison Square Garden	"New York, NY"	uth	nyk
+113	https://www.nba.com/game/det-vs-mil-0022000113		1/6/21	8:00 PM ET	DET	MIL	Detroit Pistons	Milwaukee Bucks	7	1	Fiserv Forum	"Milwaukee, WI"	det	mil
+114	https://www.nba.com/game/okc-vs-nop-0022000114	Fox Sports Oklahoma	1/6/21	8:00 PM ET	OKC	NOP	Oklahoma City Thunder	New Orleans Pelicans	8	2	Smoothie King Center	"New Orleans, LA"	okc	no
+115	https://www.nba.com/game/tor-vs-phx-0022000115		1/6/21	9:00 PM ET	TOR	PHX	Toronto Raptors	Phoenix Suns	9	1	PHX Arena	"Phoenix, AZ"	tor	phx
+116	https://www.nba.com/game/lac-vs-gsw-0022000116	"ESPN, Fox Sports Prime Tic"	1/6/21	10:00 PM ET	LAC	GSW	LA Clippers	Golden State Warriors	10	1	Chase Center	"San Francisco, CA"	lac	gsw
+117	https://www.nba.com/game/chi-vs-sac-0022000117		1/6/21	10:00 PM ET	CHI	SAC	Chicago Bulls	Sacramento Kings	11	2	Golden 1 Center	"Sacramento, CA"	chi	sac
+118	https://www.nba.com/game/phi-vs-bkn-0022000118	TNT	1/7/21	7:30 PM ET	PHI	BKN	Philadelphia 76ers	Brooklyn Nets	1	1	Barclays Center	"Brooklyn, NY"	phi	bkn
+119	https://www.nba.com/game/cle-vs-mem-0022000119		1/7/21	8:00 PM ET	CLE	MEM	Cleveland Cavaliers	Memphis Grizzlies	2	1	FedExForum	"Memphis, TN"	cle	mem
+120	https://www.nba.com/game/dal-vs-den-0022000120	TNT	1/7/21	10:00 PM ET	DAL	DEN	Dallas Mavericks	Denver Nuggets	3	1	Ball Arena	"Denver, CO"	dal	den
+121	https://www.nba.com/game/sas-vs-lal-0022000121	Spectrum SportsNet	1/7/21	10:00 PM ET	SAS	LAL	San Antonio Spurs	Los Angeles Lakers	4	2	Staples Center	"Los Angeles, CA"	sas	lal
+122	https://www.nba.com/game/min-vs-por-0022000122	NBC Sports Northwest	1/7/21	10:00 PM ET	MIN	POR	Minnesota Timberwolves	Portland Trail Blazers	5	3	Moda Center	"Portland, OR"	min	por
+123	https://www.nba.com/game/phx-vs-det-0022000123		1/8/21	7:00 PM ET	PHX	DET	Phoenix Suns	Detroit Pistons	1	1	Little Caesars Arena	"Detroit, MI"	phx	det
+124	https://www.nba.com/game/was-vs-bos-0022000124		1/8/21	7:30 PM ET	WAS	BOS	Washington Wizards	Boston Celtics	2	1	TD Garden	"Boston, MA"	was	bos
+125	https://www.nba.com/game/okc-vs-nyk-0022000125	Fox Sports Oklahoma	1/8/21	7:30 PM ET	OKC	NYK	Oklahoma City Thunder	New York Knicks	3	2	Madison Square Garden	"New York, NY"	okc	nyk
+126	https://www.nba.com/game/cha-vs-nop-0022000126	ESPN	1/8/21	7:30 PM ET	CHA	NOP	Charlotte Hornets	New Orleans Pelicans	4	3	Smoothie King Center	"New Orleans, LA"	cha	no
+127	https://www.nba.com/game/orl-vs-hou-0022000127		1/8/21	8:00 PM ET	ORL	HOU	Orlando Magic	Houston Rockets	5	1	Toyota Center	"Houston, TX"	orl	hou
+128	https://www.nba.com/game/bkn-vs-mem-0022000128		1/8/21	8:00 PM ET	BKN	MEM	Brooklyn Nets	Memphis Grizzlies	6	2	FedExForum	"Memphis, TN"	bkn	mem
+129	https://www.nba.com/game/uta-vs-mil-0022000129		1/8/21	8:00 PM ET	UTA	MIL	Utah Jazz	Milwaukee Bucks	7	3	Fiserv Forum	"Milwaukee, WI"	uth	mil
+130	https://www.nba.com/game/lac-vs-gsw-0022000130	ESPN	1/8/21	10:00 PM ET	LAC	GSW	LA Clippers	Golden State Warriors	8	1	Chase Center	"San Francisco, CA"	lac	gsw
+131	https://www.nba.com/game/chi-vs-lal-0022000131	Spectrum SportsNet	1/8/21	10:00 PM ET	CHI	LAL	Chicago Bulls	Los Angeles Lakers	9	2	Staples Center	"Los Angeles, CA"	chi	lal
+132	https://www.nba.com/game/tor-vs-sac-0022000132		1/8/21	10:00 PM ET	TOR	SAC	Toronto Raptors	Sacramento Kings	10	3	Golden 1 Center	"Sacramento, CA"	tor	sac
+133	https://www.nba.com/game/den-vs-phi-0022000133	NBA TV	1/9/21	3:00 PM ET	DEN	PHI	Denver Nuggets	Philadelphia 76ers	1	1	Wells Fargo Center	"Philadelphia, PA"	den	phi
+134	https://www.nba.com/game/atl-vs-cha-0022000134		1/9/21	7:00 PM ET	ATL	CHA	Atlanta Hawks	Charlotte Hornets	2	1	Spectrum Center	"Charlotte, NC"	atl	cha
+135	https://www.nba.com/game/phx-vs-ind-0022000135		1/9/21	7:00 PM ET	PHX	IND	Phoenix Suns	Indiana Pacers	3	2	Bankers Life Fieldhouse	"Indianapolis, IN"	phx	ind
+136	https://www.nba.com/game/mia-vs-was-0022000136	NBA TV	1/9/21	7:00 PM ET	MIA	WAS	Miami Heat	Washington Wizards	4	3	Capital One Arena	"Washington, DC"	mia	was
+137	https://www.nba.com/game/cle-vs-mil-0022000137		1/9/21	8:00 PM ET	CLE	MIL	Cleveland Cavaliers	Milwaukee Bucks	5	1	Fiserv Forum	"Milwaukee, WI"	cle	mil
+138	https://www.nba.com/game/sas-vs-min-0022000138		1/9/21	8:00 PM ET	SAS	MIN	San Antonio Spurs	Minnesota Timberwolves	6	2	Target Center	"Minneapolis, MN"	sas	min
+139	https://www.nba.com/game/orl-vs-dal-0022000139		1/9/21	8:30 PM ET	ORL	DAL	Orlando Magic	Dallas Mavericks	7	1	American Airlines Center	"Dallas, TX"	orl	dal
+140	https://www.nba.com/game/por-vs-sac-0022000140	NBC Sports Northwest	1/9/21	10:00 PM ET	POR	SAC	Portland Trail Blazers	Sacramento Kings	8	1	Golden 1 Center	"Sacramento, CA"	por	sac
+141	https://www.nba.com/game/uta-vs-det-0022000141	NBA TV	1/10/21	3:00 PM ET	UTA	DET	Utah Jazz	Detroit Pistons	1	1	Little Caesars Arena	"Detroit, MI"	uth	det
+142	https://www.nba.com/game/chi-vs-lac-0022000142	Fox Sports Prime Tic	1/10/21	4:00 PM ET	CHI	LAC	Chicago Bulls	LA Clippers	2	1	Staples Center	"Los Angeles, CA"	chi	lac
+143	https://www.nba.com/game/okc-vs-bkn-0022000143	Fox Sports Oklahoma	1/10/21	6:00 PM ET	OKC	BKN	Oklahoma City Thunder	Brooklyn Nets	3	1	Barclays Center	"Brooklyn, NY"	okc	bkn
+144	https://www.nba.com/game/den-vs-nyk-0022000144		1/10/21	6:00 PM ET	DEN	NYK	Denver Nuggets	New York Knicks	4	2	Madison Square Garden	"New York, NY"	den	nyk
+145	https://www.nba.com/game/mia-vs-bos-0022000145	NBA TV	1/10/21	7:00 PM ET	MIA	BOS	Miami Heat	Boston Celtics	5	1	TD Garden	"Boston, MA"	mia	bos
+146	https://www.nba.com/game/lal-vs-hou-0022000146	Spectrum SportsNet	1/10/21	7:00 PM ET	LAL	HOU	Los Angeles Lakers	Houston Rockets	6	2	Toyota Center	"Houston, TX"	lal	hou
+147	https://www.nba.com/game/sas-vs-min-0022000147		1/10/21	8:00 PM ET	SAS	MIN	San Antonio Spurs	Minnesota Timberwolves	7	1	Target Center	"Minneapolis, MN"	sas	min
+148	https://www.nba.com/game/tor-vs-gsw-0022000148		1/10/21	8:30 PM ET	TOR	GSW	Toronto Raptors	Golden State Warriors	8	1	Chase Center	"San Francisco, CA"	tor	gsw
+149	https://www.nba.com/game/nyk-vs-cha-0022000149		1/11/21	7:00 PM ET	NYK	CHA	New York Knicks	Charlotte Hornets	1	1	Spectrum Center	"Charlotte, NC"	nyk	cha
+150	https://www.nba.com/game/mem-vs-cle-0022000150		1/11/21	7:00 PM ET	MEM	CLE	Memphis Grizzlies	Cleveland Cavaliers	2	2	Rocket Mortgage FieldHouse	"Cleveland, OH"	mem	cle
+151	https://www.nba.com/game/mil-vs-orl-0022000151		1/11/21	7:00 PM ET	MIL	ORL	Milwaukee Bucks	Orlando Magic	3	3	Amway Center	"Orlando, FL"	mil	orl
+152	https://www.nba.com/game/phx-vs-was-0022000152		1/11/21	7:00 PM ET	PHX	WAS	Phoenix Suns	Washington Wizards	4	4	Capital One Arena	"Washington, DC"	phx	was
+153	https://www.nba.com/game/phi-vs-atl-0022000153		1/11/21	7:30 PM ET	PHI	ATL	Philadelphia 76ers	Atlanta Hawks	5	1	State Farm Arena	"Atlanta, GA"	phi	atl
+154	https://www.nba.com/game/nop-vs-dal-0022000154	NBA TV	1/11/21	8:30 PM ET	NOP	DAL	New Orleans Pelicans	Dallas Mavericks	6	1	American Airlines Center	"Dallas, TX"	no	dal
+155	https://www.nba.com/game/tor-vs-por-0022000155	NBC Sports Northwest	1/11/21	10:00 PM ET	TOR	POR	Toronto Raptors	Portland Trail Blazers	7	1	Moda Center	"Portland, OR"	tor	por
+156	https://www.nba.com/game/ind-vs-sac-0022000156		1/11/21	10:00 PM ET	IND	SAC	Indiana Pacers	Sacramento Kings	8	2	Golden 1 Center	"Sacramento, CA"	ind	sac
+157	https://www.nba.com/game/mia-vs-phi-0022000157		1/12/21	7:00 PM ET	MIA	PHI	Miami Heat	Philadelphia 76ers	1	1	Wells Fargo Center	"Philadelphia, PA"	mia	phi
+158	https://www.nba.com/game/den-vs-bkn-0022000158		1/12/21	7:30 PM ET	DEN	BKN	Denver Nuggets	Brooklyn Nets	2	1	Barclays Center	"Brooklyn, NY"	den	bkn
+159	https://www.nba.com/game/uta-vs-cle-0022000159		1/12/21	7:30 PM ET	UTA	CLE	Utah Jazz	Cleveland Cavaliers	3	2	Rocket Mortgage FieldHouse	"Cleveland, OH"	uth	cle
+160	https://www.nba.com/game/bos-vs-chi-0022000160		1/12/21	8:00 PM ET	BOS	CHI	Boston Celtics	Chicago Bulls	4	1	United Center	"Chicago, IL"	bos	chi
+161	https://www.nba.com/game/lal-vs-hou-0022000161	"NBA TV, Spectrum SportsNet"	1/12/21	8:00 PM ET	LAL	HOU	Los Angeles Lakers	Houston Rockets	5	2	Toyota Center	"Houston, TX"	lal	hou
+162	https://www.nba.com/game/sas-vs-okc-0022000162	Fox Sports Oklahoma	1/12/21	8:00 PM ET	SAS	OKC	San Antonio Spurs	Oklahoma City Thunder	6	3	Chesapeake Energy Arena	"Oklahoma City, OK"	sas	okc
+163	https://www.nba.com/game/ind-vs-gsw-0022000163	NBA TV	1/12/21	10:30 PM ET	IND	GSW	Indiana Pacers	Golden State Warriors	7	1	Chase Center	"San Francisco, CA"	ind	gsw
+164	https://www.nba.com/game/dal-vs-cha-0022000164		1/13/21	7:00 PM ET	DAL	CHA	Dallas Mavericks	Charlotte Hornets	1	1	Spectrum Center	"Charlotte, NC"	dal	cha
+165	https://www.nba.com/game/mil-vs-det-0022000165		1/13/21	7:00 PM ET	MIL	DET	Milwaukee Bucks	Detroit Pistons	2	2	Little Caesars Arena	"Detroit, MI"	mil	det
+166	https://www.nba.com/game/uta-vs-was-0022000166		1/13/21	7:00 PM ET	UTA	WAS	Utah Jazz	Washington Wizards	3	3	Capital One Arena	"Washington, DC"	uth	was
+167	https://www.nba.com/game/orl-vs-bos-0022000167		1/13/21	7:30 PM ET	ORL	BOS	Orlando Magic	Boston Celtics	4	1	TD Garden	"Boston, MA"	orl	bos
+168	https://www.nba.com/game/bkn-vs-nyk-0022000168	ESPN	1/13/21	7:30 PM ET	BKN	NYK	Brooklyn Nets	New York Knicks	5	2	Madison Square Garden	"New York, NY"	bkn	nyk
+169	https://www.nba.com/game/mem-vs-min-0022000169		1/13/21	8:00 PM ET	MEM	MIN	Memphis Grizzlies	Minnesota Timberwolves	6	1	Target Center	"Minneapolis, MN"	mem	min
+170	https://www.nba.com/game/lal-vs-okc-0022000170	"Fox Sports Oklahoma, Spectrum SportsNet"	1/13/21	8:00 PM ET	LAL	OKC	Los Angeles Lakers	Oklahoma City Thunder	7	2	Chesapeake Energy Arena	"Oklahoma City, OK"	lal	okc
+171	https://www.nba.com/game/atl-vs-phx-0022000171		1/13/21	9:00 PM ET	ATL	PHX	Atlanta Hawks	Phoenix Suns	8	1	PHX Arena	"Phoenix, AZ"	atl	phx
+172	https://www.nba.com/game/nop-vs-lac-0022000172	"ESPN, Fox Sports Prime Tic"	1/13/21	10:00 PM ET	NOP	LAC	New Orleans Pelicans	LA Clippers	9	1	Staples Center	"Los Angeles, CA"	no	lac
+173	https://www.nba.com/game/por-vs-sac-0022000173	NBC Sports Northwest	1/13/21	10:00 PM ET	POR	SAC	Portland Trail Blazers	Sacramento Kings	10	2	Golden 1 Center	"Sacramento, CA"	por	sac
+174	https://www.nba.com/game/mia-vs-phi-0022000174	TNT	1/14/21	7:30 PM ET	MIA	PHI	Miami Heat	Philadelphia 76ers	1	1	Wells Fargo Center	"Philadelphia, PA"	mia	phi
+175	https://www.nba.com/game/cha-vs-tor-0022000175		1/14/21	7:30 PM ET	CHA	TOR	Charlotte Hornets	Toronto Raptors	2	2	Amalie Arena	"Tampa, FL"	cha	tor
+176	https://www.nba.com/game/hou-vs-sas-0022000176		1/14/21	8:30 PM ET	HOU	SAS	Houston Rockets	San Antonio Spurs	3	1	AT&T Center	"San Antonio, TX"	hou	sas
+177	https://www.nba.com/game/gsw-vs-den-0022000177	TNT	1/14/21	10:00 PM ET	GSW	DEN	Golden State Warriors	Denver Nuggets	4	1	Ball Arena	"Denver, CO"	gsw	den
+178	https://www.nba.com/game/ind-vs-por-0022000178	NBC Sports Northwest	1/14/21	10:00 PM ET	IND	POR	Indiana Pacers	Portland Trail Blazers	5	2	Moda Center	"Portland, OR"	ind	por
+179	https://www.nba.com/game/was-vs-det-0022000179		1/15/21	7:00 PM ET	WAS	DET	Washington Wizards	Detroit Pistons	1	1	Little Caesars Arena	"Detroit, MI"	was	det
+180	https://www.nba.com/game/orl-vs-bos-0022000180		1/15/21	7:30 PM ET	ORL	BOS	Orlando Magic	Boston Celtics	2	1	TD Garden	"Boston, MA"	orl	bos
+181	https://www.nba.com/game/nyk-vs-cle-0022000181		1/15/21	7:30 PM ET	NYK	CLE	New York Knicks	Cleveland Cavaliers	3	2	Rocket Mortgage FieldHouse	"Cleveland, OH"	nyk	cle
+182	https://www.nba.com/game/dal-vs-mil-0022000182	ESPN	1/15/21	7:30 PM ET	DAL	MIL	Dallas Mavericks	Milwaukee Bucks	4	3	Fiserv Forum	"Milwaukee, WI"	dal	mil
+183	https://www.nba.com/game/mem-vs-min-0022000183		1/15/21	8:00 PM ET	MEM	MIN	Memphis Grizzlies	Minnesota Timberwolves	5	1	Target Center	"Minneapolis, MN"	mem	min
+184	https://www.nba.com/game/chi-vs-okc-0022000184	Fox Sports Oklahoma	1/15/21	8:00 PM ET	CHI	OKC	Chicago Bulls	Oklahoma City Thunder	6	2	Chesapeake Energy Arena	"Oklahoma City, OK"	chi	okc
+185	https://www.nba.com/game/gsw-vs-phx-0022000185		1/15/21	9:00 PM ET	GSW	PHX	Golden State Warriors	Phoenix Suns	7	1	PHX Arena	"Phoenix, AZ"	gsw	phx
+186	https://www.nba.com/game/atl-vs-uta-0022000186		1/15/21	9:00 PM ET	ATL	UTA	Atlanta Hawks	Utah Jazz	8	2	Vivint Smart Home Arena	"Salt Lake City, UT"	atl	uth
+187	https://www.nba.com/game/nop-vs-lal-0022000187	"ESPN, Spectrum SportsNet"	1/15/21	10:00 PM ET	NOP	LAL	New Orleans Pelicans	Los Angeles Lakers	9	1	Staples Center	"Los Angeles, CA"	no	lal
+188	https://www.nba.com/game/lac-vs-sac-0022000188	Fox Sports Prime Tic	1/15/21	10:00 PM ET	LAC	SAC	LA Clippers	Sacramento Kings	10	2	Golden 1 Center	"Sacramento, CA"	lac	sac
+189	https://www.nba.com/game/hou-vs-sas-0022000189	NBA TV	1/16/21	5:00 PM ET	HOU	SAS	Houston Rockets	San Antonio Spurs	1	1	AT&T Center	"San Antonio, TX"	hou	sas
+190	https://www.nba.com/game/orl-vs-bkn-0022000190		1/16/21	6:00 PM ET	ORL	BKN	Orlando Magic	Brooklyn Nets	2	1	Barclays Center	"Brooklyn, NY"	orl	bkn
+191	https://www.nba.com/game/cha-vs-tor-0022000191	NBA TV	1/16/21	7:30 PM ET	CHA	TOR	Charlotte Hornets	Toronto Raptors	3	1	Amalie Arena	"Tampa, FL"	cha	tor
+192	https://www.nba.com/game/det-vs-mia-0022000192		1/16/21	8:00 PM ET	DET	MIA	Detroit Pistons	Miami Heat	4	1	AmericanAirlines Arena	"Miami, FL"	det	mia
+193	https://www.nba.com/game/phi-vs-mem-0022000193		1/16/21	8:00 PM ET	PHI	MEM	Philadelphia 76ers	Memphis Grizzlies	5	2	FedExForum	"Memphis, TN"	phi	mem
+194	https://www.nba.com/game/ind-vs-phx-0022000194		1/16/21	9:00 PM ET	IND	PHX	Indiana Pacers	Phoenix Suns	6	1	PHX Arena	"Phoenix, AZ"	ind	phx
+195	https://www.nba.com/game/atl-vs-por-0022000195	NBC Sports Northwest	1/16/21	10:00 PM ET	ATL	POR	Atlanta Hawks	Portland Trail Blazers	7	1	Moda Center	"Portland, OR"	atl	por
+196	https://www.nba.com/game/nyk-vs-bos-0022000196	NBA TV	1/17/21	1:00 PM ET	NYK	BOS	New York Knicks	Boston Celtics	1	1	TD Garden	"Boston, MA"	nyk	bos
+197	https://www.nba.com/game/cle-vs-was-0022000197		1/17/21	2:00 PM ET	CLE	WAS	Cleveland Cavaliers	Washington Wizards	2	1	Capital One Arena	"Washington, DC"	cle	was
+198	https://www.nba.com/game/chi-vs-dal-0022000198		1/17/21	3:00 PM ET	CHI	DAL	Chicago Bulls	Dallas Mavericks	3	1	American Airlines Center	"Dallas, TX"	chi	dal
+199	https://www.nba.com/game/phi-vs-okc-0022000199	"NBA TV, Fox Sports Oklahoma"	1/17/21	7:00 PM ET	PHI	OKC	Philadelphia 76ers	Oklahoma City Thunder	4	1	Chesapeake Energy Arena	"Oklahoma City, OK"	phi	okc
+200	https://www.nba.com/game/uta-vs-den-0022000200		1/17/21	8:00 PM ET	UTA	DEN	Utah Jazz	Denver Nuggets	5	1	Ball Arena	"Denver, CO"	uth	den
+201	https://www.nba.com/game/nop-vs-sac-0022000201		1/17/21	9:00 PM ET	NOP	SAC	New Orleans Pelicans	Sacramento Kings	6	1	Golden 1 Center	"Sacramento, CA"	no	sac
+202	https://www.nba.com/game/ind-vs-lac-0022000202	"NBA TV, Fox Sports Prime Tic"	1/17/21	10:00 PM ET	IND	LAC	Indiana Pacers	LA Clippers	7	1	Staples Center	"Los Angeles, CA"	ind	lac
+204	https://www.nba.com/game/cle-vs-was-0022000204		1/18/21	2:00 PM ET	CLE	WAS	Cleveland Cavaliers	Washington Wizards	2	1	Capital One Arena	"Washington, DC"	cle	was
+205	https://www.nba.com/game/min-vs-atl-0022000205	NBA TV	1/18/21	2:30 PM ET	MIN	ATL	Minnesota Timberwolves	Atlanta Hawks	3	1	State Farm Arena	"Atlanta, GA"	min	atl
+206	https://www.nba.com/game/det-vs-mia-0022000206		1/18/21	3:00 PM ET	DET	MIA	Detroit Pistons	Miami Heat	4	1	AmericanAirlines Arena	"Miami, FL"	det	mia
+207	https://www.nba.com/game/sas-vs-por-0022000207	NBC Sports Northwest	1/18/21	3:00 PM ET	SAS	POR	San Antonio Spurs	Portland Trail Blazers	5	2	Moda Center	"Portland, OR"	sas	por
+208	https://www.nba.com/game/phx-vs-mem-0022000208	TNT	1/18/21	5:00 PM ET	PHX	MEM	Phoenix Suns	Memphis Grizzlies	6	1	FedExForum	"Memphis, TN"	phx	mem
+209	https://www.nba.com/game/mil-vs-bkn-0022000209	TNT	1/18/21	7:30 PM ET	MIL	BKN	Milwaukee Bucks	Brooklyn Nets	7	1	Barclays Center	"Brooklyn, NY"	mil	bkn
+210	https://www.nba.com/game/dal-vs-tor-0022000210		1/18/21	7:30 PM ET	DAL	TOR	Dallas Mavericks	Toronto Raptors	8	2	Amalie Arena	"Tampa, FL"	dal	tor
+211	https://www.nba.com/game/hou-vs-chi-0022000211		1/18/21	8:00 PM ET	HOU	CHI	Houston Rockets	Chicago Bulls	9	1	United Center	"Chicago, IL"	hou	chi
+212	https://www.nba.com/game/gsw-vs-lal-0022000212	TNT	1/18/21	10:00 PM ET	GSW	LAL	Golden State Warriors	Los Angeles Lakers	10	1	Staples Center	"Los Angeles, CA"	gsw	lal
+203	https://www.nba.com/game/orl-vs-nyk-0022000203	NBA TV	1/18/21	12:00 PM ET	ORL	NYK	Orlando Magic	New York Knicks	1	1	Madison Square Garden	"New York, NY"	orl	nyk
+213	https://www.nba.com/game/okc-vs-den-0022000213	Fox Sports Oklahoma	1/19/21	9:00 PM ET	OKC	DEN	Oklahoma City Thunder	Denver Nuggets	1	1	Ball Arena	"Denver, CO"	okc	den
+214	https://www.nba.com/game/nop-vs-uta-0022000214	NBA TV	1/19/21	9:00 PM ET	NOP	UTA	New Orleans Pelicans	Utah Jazz	2	2	Vivint Smart Home Arena	"Salt Lake City, UT"	no	uth
+215	https://www.nba.com/game/was-vs-cha-0022000215		1/20/21	7:00 PM ET	WAS	CHA	Washington Wizards	Charlotte Hornets	1	1	Spectrum Center	"Charlotte, NC"	was	cha
+216	https://www.nba.com/game/bkn-vs-cle-0022000216		1/20/21	7:00 PM ET	BKN	CLE	Brooklyn Nets	Cleveland Cavaliers	2	2	Rocket Mortgage FieldHouse	"Cleveland, OH"	bkn	cle
+217	https://www.nba.com/game/dal-vs-ind-0022000217		1/20/21	7:00 PM ET	DAL	IND	Dallas Mavericks	Indiana Pacers	3	3	Bankers Life Fieldhouse	"Indianapolis, IN"	dal	ind
+218	https://www.nba.com/game/bos-vs-phi-0022000218	ESPN	1/20/21	7:00 PM ET	BOS	PHI	Boston Celtics	Philadelphia 76ers	4	4	Wells Fargo Center	"Philadelphia, PA"	bos	phi
+219	https://www.nba.com/game/det-vs-atl-0022000219		1/20/21	7:30 PM ET	DET	ATL	Detroit Pistons	Atlanta Hawks	5	1	State Farm Arena	"Atlanta, GA"	det	atl
+220	https://www.nba.com/game/mia-vs-tor-0022000220		1/20/21	7:30 PM ET	MIA	TOR	Miami Heat	Toronto Raptors	6	2	Amalie Arena	"Tampa, FL"	mia	tor
+221	https://www.nba.com/game/orl-vs-min-0022000221		1/20/21	8:00 PM ET	ORL	MIN	Orlando Magic	Minnesota Timberwolves	7	1	Target Center	"Minneapolis, MN"	orl	min
+222	https://www.nba.com/game/phx-vs-hou-0022000222	ESPN	1/20/21	9:30 PM ET	PHX	HOU	Phoenix Suns	Houston Rockets	8	1	Toyota Center	"Houston, TX"	phx	hou
+223	https://www.nba.com/game/sas-vs-gsw-0022000223		1/20/21	10:00 PM ET	SAS	GSW	San Antonio Spurs	Golden State Warriors	9	1	Chase Center	"San Francisco, CA"	sas	gsw
+224	https://www.nba.com/game/sac-vs-lac-0022000224	Fox Sports Prime Tic	1/20/21	10:00 PM ET	SAC	LAC	Sacramento Kings	LA Clippers	10	2	Staples Center	"Los Angeles, CA"	sac	lac
+225	https://www.nba.com/game/mem-vs-por-0022000225	NBC Sports Northwest	1/20/21	10:00 PM ET	MEM	POR	Memphis Grizzlies	Portland Trail Blazers	11	3	Moda Center	"Portland, OR"	mem	por
+226	https://www.nba.com/game/lal-vs-mil-0022000226	"TNT, Spectrum SportsNet"	1/21/21	7:30 PM ET	LAL	MIL	Los Angeles Lakers	Milwaukee Bucks	1	1	Fiserv Forum	"Milwaukee, WI"	lal	mil
+227	https://www.nba.com/game/nop-vs-uta-0022000227	TNT	1/21/21	10:00 PM ET	NOP	UTA	New Orleans Pelicans	Utah Jazz	2	1	Vivint Smart Home Arena	"Salt Lake City, UT"	no	uth
+228	https://www.nba.com/game/nyk-vs-gsw-0022000228		1/21/21	10:00 PM ET	NYK	GSW	New York Knicks	Golden State Warriors	3	2	Chase Center	"San Francisco, CA"	nyk	gsw
+229	https://www.nba.com/game/chi-vs-cha-0022000229		1/22/21	7:00 PM ET	CHI	CHA	Chicago Bulls	Charlotte Hornets	1	1	Spectrum Center	"Charlotte, NC"	chi	cha
+230	https://www.nba.com/game/hou-vs-det-0022000230		1/22/21	7:00 PM ET	HOU	DET	Houston Rockets	Detroit Pistons	2	2	Little Caesars Arena	"Detroit, MI"	hou	det
+231	https://www.nba.com/game/orl-vs-ind-0022000231		1/22/21	7:00 PM ET	ORL	IND	Orlando Magic	Indiana Pacers	3	3	Bankers Life Fieldhouse	"Indianapolis, IN"	orl	ind
+232	https://www.nba.com/game/bkn-vs-cle-0022000232		1/22/21	7:30 PM ET	BKN	CLE	Brooklyn Nets	Cleveland Cavaliers	4	1	Rocket Mortgage FieldHouse	"Cleveland, OH"	bkn	cle
+233	https://www.nba.com/game/bos-vs-phi-0022000233	ESPN	1/22/21	7:30 PM ET	BOS	PHI	Boston Celtics	Philadelphia 76ers	5	2	Wells Fargo Center	"Philadelphia, PA"	bos	phi
+234	https://www.nba.com/game/mia-vs-tor-0022000234		1/22/21	7:30 PM ET	MIA	TOR	Miami Heat	Toronto Raptors	6	3	Amalie Arena	"Tampa, FL"	mia	tor
+235	https://www.nba.com/game/was-vs-mil-0022000235		1/22/21	8:00 PM ET	WAS	MIL	Washington Wizards	Milwaukee Bucks	7	1	Fiserv Forum	"Milwaukee, WI"	was	mil
+236	https://www.nba.com/game/atl-vs-min-0022000236		1/22/21	8:00 PM ET	ATL	MIN	Atlanta Hawks	Minnesota Timberwolves	8	2	Target Center	"Minneapolis, MN"	atl	min
+237	https://www.nba.com/game/dal-vs-sas-0022000237		1/22/21	8:30 PM ET	DAL	SAS	Dallas Mavericks	San Antonio Spurs	9	1	AT&T Center	"San Antonio, TX"	dal	sas
+238	https://www.nba.com/game/den-vs-phx-0022000238	ESPN	1/22/21	10:00 PM ET	DEN	PHX	Denver Nuggets	Phoenix Suns	10	1	PHX Arena	"Phoenix, AZ"	den	phx
+239	https://www.nba.com/game/okc-vs-lac-0022000239	"Fox Sports Prime Tic, Fox Sports Oklahoma"	1/22/21	10:00 PM ET	OKC	LAC	Oklahoma City Thunder	LA Clippers	11	2	Staples Center	"Los Angeles, CA"	okc	lac
+240	https://www.nba.com/game/mem-vs-por-0022000240	NBC Sports Northwest	1/22/21	10:00 PM ET	MEM	POR	Memphis Grizzlies	Portland Trail Blazers	12	3	Moda Center	"Portland, OR"	mem	por
+241	https://www.nba.com/game/nyk-vs-sac-0022000241		1/22/21	10:00 PM ET	NYK	SAC	New York Knicks	Sacramento Kings	13	4	Golden 1 Center	"Sacramento, CA"	nyk	sac
+242	https://www.nba.com/game/gsw-vs-uta-0022000242	NBA TV	1/23/21	5:00 PM ET	GSW	UTA	Golden State Warriors	Utah Jazz	1	1	Vivint Smart Home Arena	"Salt Lake City, UT"	gsw	uth
+243	https://www.nba.com/game/phi-vs-det-0022000243		1/23/21	7:00 PM ET	PHI	DET	Philadelphia 76ers	Detroit Pistons	2	1	Little Caesars Arena	"Detroit, MI"	phi	det
+244	https://www.nba.com/game/mia-vs-bkn-0022000244	NBA TV	1/23/21	7:30 PM ET	MIA	BKN	Miami Heat	Brooklyn Nets	3	1	Barclays Center	"Brooklyn, NY"	mia	bkn
+245	https://www.nba.com/game/lal-vs-chi-0022000245	Spectrum SportsNet	1/23/21	8:00 PM ET	LAL	CHI	Los Angeles Lakers	Chicago Bulls	4	1	United Center	"Chicago, IL"	lal	chi
+246	https://www.nba.com/game/nop-vs-min-0022000246		1/23/21	8:00 PM ET	NOP	MIN	New Orleans Pelicans	Minnesota Timberwolves	5	2	Target Center	"Minneapolis, MN"	no	min
+247	https://www.nba.com/game/hou-vs-dal-0022000247		1/23/21	8:30 PM ET	HOU	DAL	Houston Rockets	Dallas Mavericks	6	1	American Airlines Center	"Dallas, TX"	hou	dal
+248	https://www.nba.com/game/den-vs-phx-0022000248		1/23/21	9:00 PM ET	DEN	PHX	Denver Nuggets	Phoenix Suns	7	1	PHX Arena	"Phoenix, AZ"	den	phx
+249	https://www.nba.com/game/tor-vs-ind-0022000249	NBA TV	1/24/21	3:30 PM ET	TOR	IND	Toronto Raptors	Indiana Pacers	1	1	Bankers Life Fieldhouse	"Indianapolis, IN"	tor	ind
+250	https://www.nba.com/game/cle-vs-bos-0022000250		1/24/21	4:00 PM ET	CLE	BOS	Cleveland Cavaliers	Boston Celtics	2	1	TD Garden	"Boston, MA"	cle	bos
+251	https://www.nba.com/game/okc-vs-lac-0022000251	"Fox Sports Prime Tic, Fox Sports Oklahoma"	1/24/21	4:00 PM ET	OKC	LAC	Oklahoma City Thunder	LA Clippers	3	2	Staples Center	"Los Angeles, CA"	okc	lac
+252	https://www.nba.com/game/cha-vs-orl-0022000252		1/24/21	6:00 PM ET	CHA	ORL	Charlotte Hornets	Orlando Magic	4	1	Amway Center	"Orlando, FL"	cha	orl
+253	https://www.nba.com/game/was-vs-sas-0022000253		1/24/21	7:00 PM ET	WAS	SAS	Washington Wizards	San Antonio Spurs	5	1	AT&T Center	"San Antonio, TX"	was	sas
+254	https://www.nba.com/game/atl-vs-mil-0022000254	NBA TV	1/24/21	7:30 PM ET	ATL	MIL	Atlanta Hawks	Milwaukee Bucks	6	1	Fiserv Forum	"Milwaukee, WI"	atl	mil
+255	https://www.nba.com/game/sac-vs-mem-0022000255		1/24/21	8:00 PM ET	SAC	MEM	Sacramento Kings	Memphis Grizzlies	7	1	FedExForum	"Memphis, TN"	sac	mem
+256	https://www.nba.com/game/nyk-vs-por-0022000256	NBC Sports Northwest	1/24/21	9:00 PM ET	NYK	POR	New York Knicks	Portland Trail Blazers	8	1	Moda Center	"Portland, OR"	nyk	por
+257	https://www.nba.com/game/phi-vs-det-0022000257		1/25/21	7:00 PM ET	PHI	DET	Philadelphia 76ers	Detroit Pistons	1	1	Little Caesars Arena	"Detroit, MI"	phi	det
+258	https://www.nba.com/game/tor-vs-ind-0022000258		1/25/21	7:00 PM ET	TOR	IND	Toronto Raptors	Indiana Pacers	2	2	Bankers Life Fieldhouse	"Indianapolis, IN"	tor	ind
+259	https://www.nba.com/game/cha-vs-orl-0022000259		1/25/21	7:00 PM ET	CHA	ORL	Charlotte Hornets	Orlando Magic	3	3	Amway Center	"Orlando, FL"	cha	orl
+260	https://www.nba.com/game/mia-vs-bkn-0022000260	NBA TV	1/25/21	7:30 PM ET	MIA	BKN	Miami Heat	Brooklyn Nets	4	1	Barclays Center	"Brooklyn, NY"	mia	bkn
+261	https://www.nba.com/game/lal-vs-cle-0022000261	Spectrum SportsNet	1/25/21	7:30 PM ET	LAL	CLE	Los Angeles Lakers	Cleveland Cavaliers	5	2	Rocket Mortgage FieldHouse	"Cleveland, OH"	lal	cle
+262	https://www.nba.com/game/bos-vs-chi-0022000262		1/25/21	8:00 PM ET	BOS	CHI	Boston Celtics	Chicago Bulls	6	1	United Center	"Chicago, IL"	bos	chi
+263	https://www.nba.com/game/sac-vs-mem-0022000263		1/25/21	8:00 PM ET	SAC	MEM	Sacramento Kings	Memphis Grizzlies	7	2	FedExForum	"Memphis, TN"	sac	mem
+264	https://www.nba.com/game/sas-vs-nop-0022000264		1/25/21	8:00 PM ET	SAS	NOP	San Antonio Spurs	New Orleans Pelicans	8	3	Smoothie King Center	"New Orleans, LA"	sas	no
+265	https://www.nba.com/game/den-vs-dal-0022000265		1/25/21	8:30 PM ET	DEN	DAL	Denver Nuggets	Dallas Mavericks	9	1	American Airlines Center	"Dallas, TX"	den	dal
+266	https://www.nba.com/game/min-vs-gsw-0022000266	NBA TV	1/25/21	10:00 PM ET	MIN	GSW	Minnesota Timberwolves	Golden State Warriors	10	1	Chase Center	"San Francisco, CA"	min	gsw
+267	https://www.nba.com/game/okc-vs-por-0022000267	"NBC Sports Northwest, Fox Sports Oklahoma"	1/25/21	10:00 PM ET	OKC	POR	Oklahoma City Thunder	Portland Trail Blazers	11	2	Moda Center	"Portland, OR"	okc	por
+268	https://www.nba.com/game/lac-vs-atl-0022000268	Fox Sports Prime Tic	1/26/21	7:30 PM ET	LAC	ATL	LA Clippers	Atlanta Hawks	1	1	State Farm Arena	"Atlanta, GA"	lac	atl
+269	https://www.nba.com/game/was-vs-hou-0022000269	NBA TV	1/26/21	8:00 PM ET	WAS	HOU	Washington Wizards	Houston Rockets	2	1	Toyota Center	"Houston, TX"	was	hou
+270	https://www.nba.com/game/nyk-vs-uta-0022000270		1/26/21	9:00 PM ET	NYK	UTA	New York Knicks	Utah Jazz	3	1	Vivint Smart Home Arena	"Salt Lake City, UT"	nyk	uth
+271	https://www.nba.com/game/ind-vs-cha-0022000271		1/27/21	7:00 PM ET	IND	CHA	Indiana Pacers	Charlotte Hornets	1	1	Spectrum Center	"Charlotte, NC"	ind	cha
+272	https://www.nba.com/game/det-vs-cle-0022000272		1/27/21	7:00 PM ET	DET	CLE	Detroit Pistons	Cleveland Cavaliers	2	2	Rocket Mortgage FieldHouse	"Cleveland, OH"	det	cle
+273	https://www.nba.com/game/sac-vs-orl-0022000273		1/27/21	7:00 PM ET	SAC	ORL	Sacramento Kings	Orlando Magic	3	3	Amway Center	"Orlando, FL"	sac	orl
+274	https://www.nba.com/game/bkn-vs-atl-0022000274		1/27/21	7:30 PM ET	BKN	ATL	Brooklyn Nets	Atlanta Hawks	4	1	State Farm Arena	"Atlanta, GA"	bkn	atl
+275	https://www.nba.com/game/den-vs-mia-0022000275		1/27/21	7:30 PM ET	DEN	MIA	Denver Nuggets	Miami Heat	5	2	AmericanAirlines Arena	"Miami, FL"	den	mia
+276	https://www.nba.com/game/lal-vs-phi-0022000276	"ESPN, Spectrum SportsNet"	1/27/21	7:30 PM ET	LAL	PHI	Los Angeles Lakers	Philadelphia 76ers	6	3	Wells Fargo Center	"Philadelphia, PA"	lal	phi
+277	https://www.nba.com/game/mil-vs-tor-0022000277		1/27/21	7:30 PM ET	MIL	TOR	Milwaukee Bucks	Toronto Raptors	7	4	Amalie Arena	"Tampa, FL"	mil	tor
+278	https://www.nba.com/game/chi-vs-mem-0022000278		1/27/21	8:00 PM ET	CHI	MEM	Chicago Bulls	Memphis Grizzlies	8	1	FedExForum	"Memphis, TN"	chi	mem
+279	https://www.nba.com/game/was-vs-nop-0022000279		1/27/21	8:00 PM ET	WAS	NOP	Washington Wizards	New Orleans Pelicans	9	2	Smoothie King Center	"New Orleans, LA"	was	no
+280	https://www.nba.com/game/bos-vs-sas-0022000280		1/27/21	8:30 PM ET	BOS	SAS	Boston Celtics	San Antonio Spurs	10	1	AT&T Center	"San Antonio, TX"	bos	sas
+281	https://www.nba.com/game/okc-vs-phx-0022000281	Fox Sports Oklahoma	1/27/21	9:00 PM ET	OKC	PHX	Oklahoma City Thunder	Phoenix Suns	11	1	PHX Arena	"Phoenix, AZ"	okc	phx
+282	https://www.nba.com/game/dal-vs-uta-0022000282		1/27/21	9:00 PM ET	DAL	UTA	Dallas Mavericks	Utah Jazz	12	2	Vivint Smart Home Arena	"Salt Lake City, UT"	dal	uth
+283	https://www.nba.com/game/min-vs-gsw-0022000283	ESPN	1/27/21	10:00 PM ET	MIN	GSW	Minnesota Timberwolves	Golden State Warriors	13	1	Chase Center	"San Francisco, CA"	min	gsw
+284	https://www.nba.com/game/lal-vs-det-0022000284	Spectrum SportsNet	1/28/21	7:00 PM ET	LAL	DET	Los Angeles Lakers	Detroit Pistons	1	1	Little Caesars Arena	"Detroit, MI"	lal	det
+285	https://www.nba.com/game/lac-vs-mia-0022000285	"TNT, Fox Sports Prime Tic"	1/28/21	7:00 PM ET	LAC	MIA	LA Clippers	Miami Heat	2	2	AmericanAirlines Arena	"Miami, FL"	lac	mia
+286	https://www.nba.com/game/gsw-vs-phx-0022000286		1/28/21	9:00 PM ET	GSW	PHX	Golden State Warriors	Phoenix Suns	3	1	PHX Arena	"Phoenix, AZ"	gsw	phx
+287	https://www.nba.com/game/por-vs-hou-0022000287	TNT	1/28/21	9:30 PM ET	POR	HOU	Portland Trail Blazers	Houston Rockets	4	1	Toyota Center	"Houston, TX"	por	hou
+288	https://www.nba.com/game/ind-vs-cha-0022000288		1/29/21	7:00 PM ET	IND	CHA	Indiana Pacers	Charlotte Hornets	1	1	Spectrum Center	"Charlotte, NC"	ind	cha
+289	https://www.nba.com/game/lac-vs-orl-0022000289	Fox Sports Prime Tic	1/29/21	7:00 PM ET	LAC	ORL	LA Clippers	Orlando Magic	2	2	Amway Center	"Orlando, FL"	lac	orl
+290	https://www.nba.com/game/atl-vs-was-0022000290		1/29/21	7:00 PM ET	ATL	WAS	Atlanta Hawks	Washington Wizards	3	3	Capital One Arena	"Washington, DC"	atl	was
+291	https://www.nba.com/game/cle-vs-nyk-0022000291		1/29/21	7:30 PM ET	CLE	NYK	Cleveland Cavaliers	New York Knicks	4	1	Madison Square Garden	"New York, NY"	cle	nyk
+292	https://www.nba.com/game/sac-vs-tor-0022000292		1/29/21	7:30 PM ET	SAC	TOR	Sacramento Kings	Toronto Raptors	5	2	Amalie Arena	"Tampa, FL"	sac	tor
+293	https://www.nba.com/game/mil-vs-nop-0022000293	ESPN	1/29/21	7:30 PM ET	MIL	NOP	Milwaukee Bucks	New Orleans Pelicans	6	3	Smoothie King Center	"New Orleans, LA"	mil	no
+294	https://www.nba.com/game/phi-vs-min-0022000294		1/29/21	8:00 PM ET	PHI	MIN	Philadelphia 76ers	Minnesota Timberwolves	7	1	Target Center	"Minneapolis, MN"	phi	min
+295	https://www.nba.com/game/bkn-vs-okc-0022000295	Fox Sports Oklahoma	1/29/21	8:00 PM ET	BKN	OKC	Brooklyn Nets	Oklahoma City Thunder	8	2	Chesapeake Energy Arena	"Oklahoma City, OK"	bkn	okc
+296	https://www.nba.com/game/den-vs-sas-0022000296		1/29/21	8:30 PM ET	DEN	SAS	Denver Nuggets	San Antonio Spurs	9	1	AT&T Center	"San Antonio, TX"	den	sas
+297	https://www.nba.com/game/dal-vs-uta-0022000297	ESPN	1/29/21	10:00 PM ET	DAL	UTA	Dallas Mavericks	Utah Jazz	10	1	Vivint Smart Home Arena	"Salt Lake City, UT"	dal	uth
+298	https://www.nba.com/game/por-vs-chi-0022000298	NBC Sports Northwest	1/30/21	5:00 PM ET	POR	CHI	Portland Trail Blazers	Chicago Bulls	1	1	United Center	"Chicago, IL"	por	chi
+299	https://www.nba.com/game/mil-vs-cha-0022000299		1/30/21	7:00 PM ET	MIL	CHA	Milwaukee Bucks	Charlotte Hornets	2	1	Spectrum Center	"Charlotte, NC"	mil	cha
+300	https://www.nba.com/game/hou-vs-nop-0022000300		1/30/21	7:00 PM ET	HOU	NOP	Houston Rockets	New Orleans Pelicans	3	2	Smoothie King Center	"New Orleans, LA"	hou	no
+301	https://www.nba.com/game/sac-vs-mia-0022000301		1/30/21	8:00 PM ET	SAC	MIA	Sacramento Kings	Miami Heat	4	1	AmericanAirlines Arena	"Miami, FL"	sac	mia
+302	https://www.nba.com/game/lal-vs-bos-0022000302	ABC	1/30/21	8:30 PM ET	LAL	BOS	Los Angeles Lakers	Boston Celtics	5	1	TD Garden	"Boston, MA"	lal	bos
+303	https://www.nba.com/game/phx-vs-dal-0022000303		1/30/21	8:30 PM ET	PHX	DAL	Phoenix Suns	Dallas Mavericks	6	2	American Airlines Center	"Dallas, TX"	phx	dal
+304	https://www.nba.com/game/mem-vs-sas-0022000304		1/30/21	8:30 PM ET	MEM	SAS	Memphis Grizzlies	San Antonio Spurs	7	3	AT&T Center	"San Antonio, TX"	mem	sas
+305	https://www.nba.com/game/det-vs-gsw-0022000305		1/30/21	8:30 PM ET	DET	GSW	Detroit Pistons	Golden State Warriors	8	4	Chase Center	"San Francisco, CA"	det	gsw
+306	https://www.nba.com/game/uta-vs-den-0022000306	NBA TV	1/31/21	3:30 PM ET	UTA	DEN	Utah Jazz	Denver Nuggets	1	1	Ball Arena	"Denver, CO"	uth	den
+307	https://www.nba.com/game/phi-vs-ind-0022000307		1/31/21	5:00 PM ET	PHI	IND	Philadelphia 76ers	Indiana Pacers	2	1	Bankers Life Fieldhouse	"Indianapolis, IN"	phi	ind
+308	https://www.nba.com/game/lac-vs-nyk-0022000308	Fox Sports Prime Tic	1/31/21	5:00 PM ET	LAC	NYK	LA Clippers	New York Knicks	3	2	Madison Square Garden	"New York, NY"	lac	nyk
+309	https://www.nba.com/game/orl-vs-tor-0022000309		1/31/21	6:00 PM ET	ORL	TOR	Orlando Magic	Toronto Raptors	4	1	Amalie Arena	"Tampa, FL"	orl	tor
+310	https://www.nba.com/game/bkn-vs-was-0022000310	NBA TV	1/31/21	7:00 PM ET	BKN	WAS	Brooklyn Nets	Washington Wizards	5	1	Capital One Arena	"Washington, DC"	bkn	was
+311	https://www.nba.com/game/cle-vs-min-0022000311		1/31/21	7:30 PM ET	CLE	MIN	Cleveland Cavaliers	Minnesota Timberwolves	6	1	Target Center	"Minneapolis, MN"	cle	min
+312	https://www.nba.com/game/min-vs-cle-0022000312		2/1/21	7:00 PM ET	MIN	CLE	Minnesota Timberwolves	Cleveland Cavaliers	1	1	Rocket Mortgage FieldHouse	"Cleveland, OH"	min	cle
+313	https://www.nba.com/game/lal-vs-atl-0022000313	Spectrum SportsNet	2/1/21	7:30 PM ET	LAL	ATL	Los Angeles Lakers	Atlanta Hawks	2	1	State Farm Arena	"Atlanta, GA"	lal	atl
+314	https://www.nba.com/game/cha-vs-mia-0022000314		2/1/21	7:30 PM ET	CHA	MIA	Charlotte Hornets	Miami Heat	3	2	AmericanAirlines Arena	"Miami, FL"	cha	mia
+315	https://www.nba.com/game/nyk-vs-chi-0022000315		2/1/21	8:00 PM ET	NYK	CHI	New York Knicks	Chicago Bulls	4	1	United Center	"Chicago, IL"	nyk	chi
+316	https://www.nba.com/game/por-vs-mil-0022000316	NBC Sports Northwest	2/1/21	8:00 PM ET	POR	MIL	Portland Trail Blazers	Milwaukee Bucks	5	2	Fiserv Forum	"Milwaukee, WI"	por	mil
+317	https://www.nba.com/game/sac-vs-nop-0022000317		2/1/21	8:00 PM ET	SAC	NOP	Sacramento Kings	New Orleans Pelicans	6	3	Smoothie King Center	"New Orleans, LA"	sac	no
+318	https://www.nba.com/game/hou-vs-okc-0022000318	Fox Sports Oklahoma	2/1/21	8:00 PM ET	HOU	OKC	Houston Rockets	Oklahoma City Thunder	7	4	Chesapeake Energy Arena	"Oklahoma City, OK"	hou	okc
+319	https://www.nba.com/game/phx-vs-dal-0022000319	NBA TV	2/1/21	8:30 PM ET	PHX	DAL	Phoenix Suns	Dallas Mavericks	8	1	American Airlines Center	"Dallas, TX"	phx	dal
+320	https://www.nba.com/game/mem-vs-sas-0022000320		2/1/21	8:30 PM ET	MEM	SAS	Memphis Grizzlies	San Antonio Spurs	9	2	AT&T Center	"San Antonio, TX"	mem	sas
+321	https://www.nba.com/game/det-vs-den-0022000321		2/1/21	9:00 PM ET	DET	DEN	Detroit Pistons	Denver Nuggets	10	1	Ball Arena	"Denver, CO"	det	den
+322	https://www.nba.com/game/mem-vs-ind-0022000322		2/2/21	7:00 PM ET	MEM	IND	Memphis Grizzlies	Indiana Pacers	1	1	Bankers Life Fieldhouse	"Indianapolis, IN"	mem	ind
+323	https://www.nba.com/game/tor-vs-orl-0022000323		2/2/21	7:00 PM ET	TOR	ORL	Toronto Raptors	Orlando Magic	2	2	Amway Center	"Orlando, FL"	tor	orl
+324	https://www.nba.com/game/lac-vs-bkn-0022000324	"TNT, Fox Sports Prime Tic"	2/2/21	7:30 PM ET	LAC	BKN	LA Clippers	Brooklyn Nets	3	1	Barclays Center	"Brooklyn, NY"	lac	bkn
+325	https://www.nba.com/game/det-vs-uta-0022000325		2/2/21	9:00 PM ET	DET	UTA	Detroit Pistons	Utah Jazz	4	1	Vivint Smart Home Arena	"Salt Lake City, UT"	det	uth
+326	https://www.nba.com/game/bos-vs-gsw-0022000326	TNT	2/2/21	10:00 PM ET	BOS	GSW	Boston Celtics	Golden State Warriors	5	1	Chase Center	"San Francisco, CA"	bos	gsw
+327	https://www.nba.com/game/phi-vs-cha-0022000327		2/3/21	7:00 PM ET	PHI	CHA	Philadelphia 76ers	Charlotte Hornets	1	1	Spectrum Center	"Charlotte, NC"	phi	cha
+328	https://www.nba.com/game/lac-vs-cle-0022000328	Fox Sports Prime Tic	2/3/21	7:00 PM ET	LAC	CLE	LA Clippers	Cleveland Cavaliers	2	2	Rocket Mortgage FieldHouse	"Cleveland, OH"	lac	cle
+329	https://www.nba.com/game/ind-vs-mil-0022000329	ESPN	2/3/21	7:00 PM ET	IND	MIL	Indiana Pacers	Milwaukee Bucks	3	3	Fiserv Forum	"Milwaukee, WI"	ind	mil
+330	https://www.nba.com/game/dal-vs-atl-0022000330		2/3/21	7:30 PM ET	DAL	ATL	Dallas Mavericks	Atlanta Hawks	4	1	State Farm Arena	"Atlanta, GA"	dal	atl
+331	https://www.nba.com/game/was-vs-mia-0022000331		2/3/21	7:30 PM ET	WAS	MIA	Washington Wizards	Miami Heat	5	2	AmericanAirlines Arena	"Miami, FL"	was	mia
+332	https://www.nba.com/game/nyk-vs-chi-0022000332		2/3/21	8:00 PM ET	NYK	CHI	New York Knicks	Chicago Bulls	6	1	United Center	"Chicago, IL"	nyk	chi
+333	https://www.nba.com/game/hou-vs-okc-0022000333	Fox Sports Oklahoma	2/3/21	8:00 PM ET	HOU	OKC	Houston Rockets	Oklahoma City Thunder	7	2	Chesapeake Energy Arena	"Oklahoma City, OK"	hou	okc
+334	https://www.nba.com/game/min-vs-sas-0022000334		2/3/21	8:30 PM ET	MIN	SAS	Minnesota Timberwolves	San Antonio Spurs	8	1	AT&T Center	"San Antonio, TX"	min	sas
+335	https://www.nba.com/game/phx-vs-nop-0022000335	ESPN	2/3/21	9:30 PM ET	PHX	NOP	Phoenix Suns	New Orleans Pelicans	9	1	Smoothie King Center	"New Orleans, LA"	phx	no
+336	https://www.nba.com/game/bos-vs-sac-0022000336		2/3/21	10:00 PM ET	BOS	SAC	Boston Celtics	Sacramento Kings	10	1	Golden 1 Center	"Sacramento, CA"	bos	sac
+337	https://www.nba.com/game/por-vs-phi-0022000337	NBC Sports Northwest	2/4/21	7:00 PM ET	POR	PHI	Portland Trail Blazers	Philadelphia 76ers	1	1	Wells Fargo Center	"Philadelphia, PA"	por	phi
+338	https://www.nba.com/game/uta-vs-atl-0022000338		2/4/21	7:30 PM ET	UTA	ATL	Utah Jazz	Atlanta Hawks	2	1	State Farm Arena	"Atlanta, GA"	uth	atl
+339	https://www.nba.com/game/gsw-vs-dal-0022000339	TNT	2/4/21	7:30 PM ET	GSW	DAL	Golden State Warriors	Dallas Mavericks	3	2	American Airlines Center	"Dallas, TX"	gsw	dal
+340	https://www.nba.com/game/hou-vs-mem-0022000340		2/4/21	8:00 PM ET	HOU	MEM	Houston Rockets	Memphis Grizzlies	4	1	FedExForum	"Memphis, TN"	hou	mem
+341	https://www.nba.com/game/den-vs-lal-0022000341	"TNT, Spectrum SportsNet"	2/4/21	10:00 PM ET	DEN	LAL	Denver Nuggets	Los Angeles Lakers	5	1	Staples Center	"Los Angeles, CA"	den	lal
+342	https://www.nba.com/game/uta-vs-cha-0022000342		2/5/21	7:00 PM ET	UTA	CHA	Utah Jazz	Charlotte Hornets	1	1	Spectrum Center	"Charlotte, NC"	uth	cha
+343	https://www.nba.com/game/nop-vs-ind-0022000343		2/5/21	7:00 PM ET	NOP	IND	New Orleans Pelicans	Indiana Pacers	2	2	Bankers Life Fieldhouse	"Indianapolis, IN"	no	ind
+344	https://www.nba.com/game/chi-vs-orl-0022000344		2/5/21	7:00 PM ET	CHI	ORL	Chicago Bulls	Orlando Magic	3	3	Amway Center	"Orlando, FL"	chi	orl
+345	https://www.nba.com/game/tor-vs-bkn-0022000345	ESPN	2/5/21	7:30 PM ET	TOR	BKN	Toronto Raptors	Brooklyn Nets	4	1	Barclays Center	"Brooklyn, NY"	tor	bkn
+346	https://www.nba.com/game/mil-vs-cle-0022000346		2/5/21	7:30 PM ET	MIL	CLE	Milwaukee Bucks	Cleveland Cavaliers	5	2	Rocket Mortgage FieldHouse	"Cleveland, OH"	mil	cle
+347	https://www.nba.com/game/was-vs-mia-0022000347		2/5/21	8:00 PM ET	WAS	MIA	Washington Wizards	Miami Heat	6	1	AmericanAirlines Arena	"Miami, FL"	was	mia
+348	https://www.nba.com/game/min-vs-okc-0022000348	Fox Sports Oklahoma	2/5/21	8:00 PM ET	MIN	OKC	Minnesota Timberwolves	Oklahoma City Thunder	7	2	Chesapeake Energy Arena	"Oklahoma City, OK"	min	okc
+349	https://www.nba.com/game/det-vs-phx-0022000349		2/5/21	9:00 PM ET	DET	PHX	Detroit Pistons	Phoenix Suns	8	1	PHX Arena	"Phoenix, AZ"	det	phx
+350	https://www.nba.com/game/bos-vs-lac-0022000350	"ESPN, Fox Sports Prime Tic"	2/5/21	10:00 PM ET	BOS	LAC	Boston Celtics	LA Clippers	9	1	Staples Center	"Los Angeles, CA"	bos	lac
+351	https://www.nba.com/game/por-vs-nyk-0022000351	NBC Sports Northwest	2/6/21	1:00 PM ET	POR	NYK	Portland Trail Blazers	New York Knicks	1	1	Madison Square Garden	"New York, NY"	por	nyk
+352	https://www.nba.com/game/den-vs-sac-0022000352	NBA TV	2/6/21	5:00 PM ET	DEN	SAC	Denver Nuggets	Sacramento Kings	2	1	Golden 1 Center	"Sacramento, CA"	den	sac
+353	https://www.nba.com/game/chi-vs-orl-0022000353		2/6/21	7:00 PM ET	CHI	ORL	Chicago Bulls	Orlando Magic	3	1	Amway Center	"Orlando, FL"	chi	orl
+354	https://www.nba.com/game/bkn-vs-phi-0022000354		2/6/21	7:00 PM ET	BKN	PHI	Brooklyn Nets	Philadelphia 76ers	4	2	Wells Fargo Center	"Philadelphia, PA"	bkn	phi
+355	https://www.nba.com/game/mem-vs-nop-0022000355		2/6/21	7:00 PM ET	MEM	NOP	Memphis Grizzlies	New Orleans Pelicans	5	3	Smoothie King Center	"New Orleans, LA"	mem	no
+356	https://www.nba.com/game/tor-vs-atl-0022000356		2/6/21	7:30 PM ET	TOR	ATL	Toronto Raptors	Atlanta Hawks	6	1	State Farm Arena	"Atlanta, GA"	tor	atl
+357	https://www.nba.com/game/mil-vs-cle-0022000357		2/6/21	8:00 PM ET	MIL	CLE	Milwaukee Bucks	Cleveland Cavaliers	7	1	Rocket Mortgage FieldHouse	"Cleveland, OH"	mil	cle
+358	https://www.nba.com/game/sas-vs-hou-0022000358		2/6/21	8:00 PM ET	SAS	HOU	San Antonio Spurs	Houston Rockets	8	2	Toyota Center	"Houston, TX"	sas	hou
+359	https://www.nba.com/game/min-vs-okc-0022000359	Fox Sports Oklahoma	2/6/21	8:00 PM ET	MIN	OKC	Minnesota Timberwolves	Oklahoma City Thunder	9	3	Chesapeake Energy Arena	"Oklahoma City, OK"	min	okc
+360	https://www.nba.com/game/gsw-vs-dal-0022000360	ABC	2/6/21	8:30 PM ET	GSW	DAL	Golden State Warriors	Dallas Mavericks	10	1	American Airlines Center	"Dallas, TX"	gsw	dal
+361	https://www.nba.com/game/det-vs-lal-0022000361	Spectrum SportsNet	2/6/21	10:00 PM ET	DET	LAL	Detroit Pistons	Los Angeles Lakers	11	1	Staples Center	"Los Angeles, CA"	det	lal
+362	https://www.nba.com/game/por-vs-cha-0022000362	NBC Sports Northwest	2/7/21	1:00 PM ET	POR	CHA	Portland Trail Blazers	Charlotte Hornets	1	1	Spectrum Center	"Charlotte, NC"	por	cha
+363	https://www.nba.com/game/uta-vs-ind-0022000363		2/7/21	1:00 PM ET	UTA	IND	Utah Jazz	Indiana Pacers	2	2	Bankers Life Fieldhouse	"Indianapolis, IN"	uth	ind
+364	https://www.nba.com/game/mia-vs-nyk-0022000364		2/7/21	1:00 PM ET	MIA	NYK	Miami Heat	New York Knicks	3	3	Madison Square Garden	"New York, NY"	mia	nyk
+365	https://www.nba.com/game/bos-vs-phx-0022000365	NBA TV	2/7/21	2:00 PM ET	BOS	PHX	Boston Celtics	Phoenix Suns	4	1	PHX Arena	"Phoenix, AZ"	bos	phx
+366	https://www.nba.com/game/sac-vs-lac-0022000366	Fox Sports Prime Tic	2/7/21	3:00 PM ET	SAC	LAC	Sacramento Kings	LA Clippers	5	1	Staples Center	"Los Angeles, CA"	sac	lac
+367	https://www.nba.com/game/hou-vs-cha-0022000367	NBA TV	2/8/21	7:00 PM ET	HOU	CHA	Houston Rockets	Charlotte Hornets	1	1	Spectrum Center	"Charlotte, NC"	hou	cha
+368	https://www.nba.com/game/was-vs-chi-0022000368		2/8/21	8:00 PM ET	WAS	CHI	Washington Wizards	Chicago Bulls	2	1	United Center	"Chicago, IL"	was	chi
+369	https://www.nba.com/game/tor-vs-mem-0022000369		2/8/21	8:00 PM ET	TOR	MEM	Toronto Raptors	Memphis Grizzlies	3	2	FedExForum	"Memphis, TN"	tor	mem
+370	https://www.nba.com/game/min-vs-dal-0022000370		2/8/21	8:30 PM ET	MIN	DAL	Minnesota Timberwolves	Dallas Mavericks	4	1	American Airlines Center	"Dallas, TX"	min	dal
+371	https://www.nba.com/game/gsw-vs-sas-0022000371		2/8/21	8:30 PM ET	GSW	SAS	Golden State Warriors	San Antonio Spurs	5	2	AT&T Center	"San Antonio, TX"	gsw	sas
+372	https://www.nba.com/game/cle-vs-phx-0022000372		2/8/21	9:00 PM ET	CLE	PHX	Cleveland Cavaliers	Phoenix Suns	6	1	PHX Arena	"Phoenix, AZ"	cle	phx
+373	https://www.nba.com/game/mil-vs-den-0022000373	NBA TV	2/8/21	9:30 PM ET	MIL	DEN	Milwaukee Bucks	Denver Nuggets	7	1	Ball Arena	"Denver, CO"	mil	den
+374	https://www.nba.com/game/okc-vs-lal-0022000374	"Spectrum SportsNet, Fox Sports Oklahoma"	2/8/21	10:00 PM ET	OKC	LAL	Oklahoma City Thunder	Los Angeles Lakers	8	1	Staples Center	"Los Angeles, CA"	okc	lal
+375	https://www.nba.com/game/bkn-vs-det-0022000375		2/9/21	7:00 PM ET	BKN	DET	Brooklyn Nets	Detroit Pistons	1	1	Little Caesars Arena	"Detroit, MI"	bkn	det
+376	https://www.nba.com/game/nyk-vs-mia-0022000376		2/9/21	7:30 PM ET	NYK	MIA	New York Knicks	Miami Heat	2	1	AmericanAirlines Arena	"Miami, FL"	nyk	mia
+377	https://www.nba.com/game/hou-vs-nop-0022000377	TNT	2/9/21	7:30 PM ET	HOU	NOP	Houston Rockets	New Orleans Pelicans	3	2	Smoothie King Center	"New Orleans, LA"	hou	no
+378	https://www.nba.com/game/gsw-vs-sas-0022000378		2/9/21	8:30 PM ET	GSW	SAS	Golden State Warriors	San Antonio Spurs	4	1	AT&T Center	"San Antonio, TX"	gsw	sas
+379	https://www.nba.com/game/bos-vs-uta-0022000379	TNT	2/9/21	10:00 PM ET	BOS	UTA	Boston Celtics	Utah Jazz	5	1	Vivint Smart Home Arena	"Salt Lake City, UT"	bos	uth
+380	https://www.nba.com/game/orl-vs-por-0022000380	NBC Sports Northwest	2/9/21	10:00 PM ET	ORL	POR	Orlando Magic	Portland Trail Blazers	6	2	Moda Center	"Portland, OR"	orl	por
+381	https://www.nba.com/game/phi-vs-sac-0022000381		2/9/21	10:00 PM ET	PHI	SAC	Philadelphia 76ers	Sacramento Kings	7	3	Golden 1 Center	"Sacramento, CA"	phi	sac
+382	https://www.nba.com/game/tor-vs-was-0022000382		2/10/21	7:00 PM ET	TOR	WAS	Toronto Raptors	Washington Wizards	1	1	Capital One Arena	"Washington, DC"	tor	was
+383	https://www.nba.com/game/ind-vs-bkn-0022000383		2/10/21	7:30 PM ET	IND	BKN	Indiana Pacers	Brooklyn Nets	2	1	Barclays Center	"Brooklyn, NY"	ind	bkn
+384	https://www.nba.com/game/atl-vs-dal-0022000384	ESPN	2/10/21	7:30 PM ET	ATL	DAL	Atlanta Hawks	Dallas Mavericks	3	2	American Airlines Center	"Dallas, TX"	atl	dal
+385	https://www.nba.com/game/nop-vs-chi-0022000385		2/10/21	8:00 PM ET	NOP	CHI	New Orleans Pelicans	Chicago Bulls	4	1	United Center	"Chicago, IL"	no	chi
+386	https://www.nba.com/game/cha-vs-mem-0022000386		2/10/21	8:00 PM ET	CHA	MEM	Charlotte Hornets	Memphis Grizzlies	5	2	FedExForum	"Memphis, TN"	cha	mem
+387	https://www.nba.com/game/lac-vs-min-0022000387	Fox Sports Prime Tic	2/10/21	8:00 PM ET	LAC	MIN	LA Clippers	Minnesota Timberwolves	6	3	Target Center	"Minneapolis, MN"	lac	min
+388	https://www.nba.com/game/cle-vs-den-0022000388		2/10/21	9:00 PM ET	CLE	DEN	Cleveland Cavaliers	Denver Nuggets	7	1	Ball Arena	"Denver, CO"	cle	den
+389	https://www.nba.com/game/mil-vs-phx-0022000389	ESPN	2/10/21	10:00 PM ET	MIL	PHX	Milwaukee Bucks	Phoenix Suns	8	1	PHX Arena	"Phoenix, AZ"	mil	phx
+390	https://www.nba.com/game/okc-vs-lal-0022000390	"Spectrum SportsNet, Fox Sports Oklahoma"	2/10/21	10:00 PM ET	OKC	LAL	Oklahoma City Thunder	Los Angeles Lakers	9	2	Staples Center	"Los Angeles, CA"	okc	lal
+391	https://www.nba.com/game/ind-vs-det-0022000391		2/11/21	7:00 PM ET	IND	DET	Indiana Pacers	Detroit Pistons	1	1	Little Caesars Arena	"Detroit, MI"	ind	det
+392	https://www.nba.com/game/mia-vs-hou-0022000392	TNT	2/11/21	7:30 PM ET	MIA	HOU	Miami Heat	Houston Rockets	2	1	Toyota Center	"Houston, TX"	mia	hou
+393	https://www.nba.com/game/orl-vs-gsw-0022000393		2/11/21	10:00 PM ET	ORL	GSW	Orlando Magic	Golden State Warriors	3	1	Chase Center	"San Francisco, CA"	orl	gsw
+394	https://www.nba.com/game/phi-vs-por-0022000394	TNT	2/11/21	10:00 PM ET	PHI	POR	Philadelphia 76ers	Portland Trail Blazers	4	2	Moda Center	"Portland, OR"	phi	por
+395	https://www.nba.com/game/min-vs-cha-0022000395		2/12/21	7:00 PM ET	MIN	CHA	Minnesota Timberwolves	Charlotte Hornets	1	1	Spectrum Center	"Charlotte, NC"	min	cha
+396	https://www.nba.com/game/nyk-vs-was-0022000396		2/12/21	7:00 PM ET	NYK	WAS	New York Knicks	Washington Wizards	2	2	Capital One Arena	"Washington, DC"	nyk	was
+397	https://www.nba.com/game/sas-vs-atl-0022000397		2/12/21	7:30 PM ET	SAS	ATL	San Antonio Spurs	Atlanta Hawks	3	1	State Farm Arena	"Atlanta, GA"	sas	atl
+398	https://www.nba.com/game/tor-vs-bos-0022000398		2/12/21	7:30 PM ET	TOR	BOS	Toronto Raptors	Boston Celtics	4	2	TD Garden	"Boston, MA"	tor	bos
+399	https://www.nba.com/game/nop-vs-dal-0022000399	ESPN	2/12/21	7:30 PM ET	NOP	DAL	New Orleans Pelicans	Dallas Mavericks	5	3	American Airlines Center	"Dallas, TX"	no	dal
+400	https://www.nba.com/game/lac-vs-chi-0022000400	Fox Sports Prime Tic	2/12/21	8:00 PM ET	LAC	CHI	LA Clippers	Chicago Bulls	6	1	United Center	"Chicago, IL"	lac	chi
+401	https://www.nba.com/game/okc-vs-den-0022000401	Fox Sports Oklahoma	2/12/21	9:00 PM ET	OKC	DEN	Oklahoma City Thunder	Denver Nuggets	7	1	Ball Arena	"Denver, CO"	okc	den
+402	https://www.nba.com/game/mil-vs-uta-0022000402		2/12/21	9:00 PM ET	MIL	UTA	Milwaukee Bucks	Utah Jazz	8	2	Vivint Smart Home Arena	"Salt Lake City, UT"	mil	uth
+403	https://www.nba.com/game/mem-vs-lal-0022000403	"ESPN, Spectrum SportsNet"	2/12/21	10:00 PM ET	MEM	LAL	Memphis Grizzlies	Los Angeles Lakers	9	1	Staples Center	"Los Angeles, CA"	mem	lal
+404	https://www.nba.com/game/cle-vs-por-0022000404	NBC Sports Northwest	2/12/21	10:00 PM ET	CLE	POR	Cleveland Cavaliers	Portland Trail Blazers	10	2	Moda Center	"Portland, OR"	cle	por
+405	https://www.nba.com/game/orl-vs-sac-0022000405		2/12/21	10:00 PM ET	ORL	SAC	Orlando Magic	Sacramento Kings	11	3	Golden 1 Center	"Sacramento, CA"	orl	sac
+406	https://www.nba.com/game/phi-vs-phx-0022000406	NBA TV	2/13/21	5:00 PM ET	PHI	PHX	Philadelphia 76ers	Phoenix Suns	1	1	PHX Arena	"Phoenix, AZ"	phi	phx
+407	https://www.nba.com/game/ind-vs-atl-0022000407		2/13/21	7:30 PM ET	IND	ATL	Indiana Pacers	Atlanta Hawks	2	1	State Farm Arena	"Atlanta, GA"	ind	atl
+408	https://www.nba.com/game/hou-vs-nyk-0022000408		2/13/21	7:30 PM ET	HOU	NYK	Houston Rockets	New York Knicks	3	2	Madison Square Garden	"New York, NY"	hou	nyk
+409	https://www.nba.com/game/bkn-vs-gsw-0022000409	ABC	2/13/21	8:30 PM ET	BKN	GSW	Brooklyn Nets	Golden State Warriors	4	1	Chase Center	"San Francisco, CA"	bkn	gsw
+410	https://www.nba.com/game/mia-vs-uta-0022000410		2/13/21	9:00 PM ET	MIA	UTA	Miami Heat	Utah Jazz	5	1	Vivint Smart Home Arena	"Salt Lake City, UT"	mia	uth
+411	https://www.nba.com/game/por-vs-dal-0022000411	NBC Sports Northwest	2/14/21	3:30 PM ET	POR	DAL	Portland Trail Blazers	Dallas Mavericks	1	1	American Airlines Center	"Dallas, TX"	por	dal
+412	https://www.nba.com/game/det-vs-bos-0022000412		2/14/21	6:00 PM ET	DET	BOS	Detroit Pistons	Boston Celtics	2	1	TD Garden	"Boston, MA"	det	bos
+413	https://www.nba.com/game/min-vs-tor-0022000413		2/14/21	6:00 PM ET	MIN	TOR	Minnesota Timberwolves	Toronto Raptors	3	2	Amalie Arena	"Tampa, FL"	min	tor
+414	https://www.nba.com/game/sas-vs-cha-0022000414		2/14/21	7:00 PM ET	SAS	CHA	San Antonio Spurs	Charlotte Hornets	4	1	Spectrum Center	"Charlotte, NC"	sas	cha
+415	https://www.nba.com/game/mil-vs-okc-0022000415	Fox Sports Oklahoma	2/14/21	7:00 PM ET	MIL	OKC	Milwaukee Bucks	Oklahoma City Thunder	5	2	Chesapeake Energy Arena	"Oklahoma City, OK"	mil	okc
+416	https://www.nba.com/game/lal-vs-den-0022000416	"NBA TV, Spectrum SportsNet"	2/14/21	7:30 PM ET	LAL	DEN	Los Angeles Lakers	Denver Nuggets	6	1	Ball Arena	"Denver, CO"	lal	den
+417	https://www.nba.com/game/orl-vs-phx-0022000417		2/14/21	8:00 PM ET	ORL	PHX	Orlando Magic	Phoenix Suns	7	1	PHX Arena	"Phoenix, AZ"	orl	phx
+418	https://www.nba.com/game/mem-vs-sac-0022000418		2/14/21	9:00 PM ET	MEM	SAC	Memphis Grizzlies	Sacramento Kings	8	1	Golden 1 Center	"Sacramento, CA"	mem	sac
+419	https://www.nba.com/game/cle-vs-lac-0022000419	"NBA TV, Fox Sports Prime Tic"	2/14/21	10:00 PM ET	CLE	LAC	Cleveland Cavaliers	LA Clippers	9	1	Staples Center	"Los Angeles, CA"	cle	lac
+420	https://www.nba.com/game/chi-vs-ind-0022000420		2/15/21	7:00 PM ET	CHI	IND	Chicago Bulls	Indiana Pacers	1	1	Bankers Life Fieldhouse	"Indianapolis, IN"	chi	ind
+421	https://www.nba.com/game/hou-vs-was-0022000421	NBA TV	2/15/21	7:00 PM ET	HOU	WAS	Houston Rockets	Washington Wizards	2	2	Capital One Arena	"Washington, DC"	hou	was
+422	https://www.nba.com/game/atl-vs-nyk-0022000422		2/15/21	7:30 PM ET	ATL	NYK	Atlanta Hawks	New York Knicks	3	1	Madison Square Garden	"New York, NY"	atl	nyk
+423	https://www.nba.com/game/phi-vs-uta-0022000423		2/15/21	9:00 PM ET	PHI	UTA	Philadelphia 76ers	Utah Jazz	4	1	Vivint Smart Home Arena	"Salt Lake City, UT"	phi	uth
+424	https://www.nba.com/game/cle-vs-gsw-0022000424		2/15/21	10:00 PM ET	CLE	GSW	Cleveland Cavaliers	Golden State Warriors	5	1	Chase Center	"San Francisco, CA"	cle	gsw
+425	https://www.nba.com/game/mia-vs-lac-0022000425	"NBA TV, Fox Sports Prime Tic"	2/15/21	10:00 PM ET	MIA	LAC	Miami Heat	LA Clippers	6	2	Staples Center	"Los Angeles, CA"	mia	lac
+426	https://www.nba.com/game/bkn-vs-sac-0022000426		2/15/21	10:00 PM ET	BKN	SAC	Brooklyn Nets	Sacramento Kings	7	3	Golden 1 Center	"Sacramento, CA"	bkn	sac
+427	https://www.nba.com/game/den-vs-bos-0022000427		2/16/21	7:00 PM ET	DEN	BOS	Denver Nuggets	Boston Celtics	1	1	TD Garden	"Boston, MA"	den	bos
+428	https://www.nba.com/game/sas-vs-det-0022000428		2/16/21	7:00 PM ET	SAS	DET	San Antonio Spurs	Detroit Pistons	2	2	Little Caesars Arena	"Detroit, MI"	sas	det
+429	https://www.nba.com/game/nop-vs-mem-0022000429	TNT	2/16/21	7:30 PM ET	NOP	MEM	New Orleans Pelicans	Memphis Grizzlies	3	1	FedExForum	"Memphis, TN"	no	mem
+430	https://www.nba.com/game/tor-vs-mil-0022000430		2/16/21	8:00 PM ET	TOR	MIL	Toronto Raptors	Milwaukee Bucks	4	1	Fiserv Forum	"Milwaukee, WI"	tor	mil
+431	https://www.nba.com/game/lal-vs-min-0022000431	Spectrum SportsNet	2/16/21	8:00 PM ET	LAL	MIN	Los Angeles Lakers	Minnesota Timberwolves	5	2	Target Center	"Minneapolis, MN"	lal	min
+432	https://www.nba.com/game/por-vs-okc-0022000432	"Fox Sports Oklahoma, NBC Sports Northwest"	2/16/21	8:00 PM ET	POR	OKC	Portland Trail Blazers	Oklahoma City Thunder	6	3	Chesapeake Energy Arena	"Oklahoma City, OK"	por	okc
+433	https://www.nba.com/game/bkn-vs-phx-0022000433	TNT	2/16/21	10:00 PM ET	BKN	PHX	Brooklyn Nets	Phoenix Suns	7	1	PHX Arena	"Phoenix, AZ"	bkn	phx
+434	https://www.nba.com/game/chi-vs-cha-0022000434		2/17/21	7:00 PM ET	CHI	CHA	Chicago Bulls	Charlotte Hornets	1	1	Spectrum Center	"Charlotte, NC"	chi	cha
+435	https://www.nba.com/game/sas-vs-cle-0022000435		2/17/21	7:00 PM ET	SAS	CLE	San Antonio Spurs	Cleveland Cavaliers	2	2	Rocket Mortgage FieldHouse	"Cleveland, OH"	sas	cle
+436	https://www.nba.com/game/nyk-vs-orl-0022000436		2/17/21	7:00 PM ET	NYK	ORL	New York Knicks	Orlando Magic	3	3	Amway Center	"Orlando, FL"	nyk	orl
+437	https://www.nba.com/game/den-vs-was-0022000437		2/17/21	7:00 PM ET	DEN	WAS	Denver Nuggets	Washington Wizards	4	4	Capital One Arena	"Washington, DC"	den	was
+438	https://www.nba.com/game/atl-vs-bos-0022000438		2/17/21	7:30 PM ET	ATL	BOS	Atlanta Hawks	Boston Celtics	5	1	TD Garden	"Boston, MA"	atl	bos
+439	https://www.nba.com/game/hou-vs-phi-0022000439	ESPN	2/17/21	7:30 PM ET	HOU	PHI	Houston Rockets	Philadelphia 76ers	6	2	Wells Fargo Center	"Philadelphia, PA"	hou	phi
+440	https://www.nba.com/game/ind-vs-min-0022000440		2/17/21	8:00 PM ET	IND	MIN	Indiana Pacers	Minnesota Timberwolves	7	1	Target Center	"Minneapolis, MN"	ind	min
+441	https://www.nba.com/game/por-vs-nop-0022000441	NBC Sports Northwest	2/17/21	8:00 PM ET	POR	NOP	Portland Trail Blazers	New Orleans Pelicans	8	2	Smoothie King Center	"New Orleans, LA"	por	no
+442	https://www.nba.com/game/det-vs-dal-0022000442		2/17/21	8:30 PM ET	DET	DAL	Detroit Pistons	Dallas Mavericks	9	1	American Airlines Center	"Dallas, TX"	det	dal
+443	https://www.nba.com/game/mia-vs-gsw-0022000443	ESPN	2/17/21	10:00 PM ET	MIA	GSW	Miami Heat	Golden State Warriors	10	1	Chase Center	"San Francisco, CA"	mia	gsw
+444	https://www.nba.com/game/uta-vs-lac-0022000444	Fox Sports Prime Tic	2/17/21	10:00 PM ET	UTA	LAC	Utah Jazz	LA Clippers	11	2	Staples Center	"Los Angeles, CA"	uth	lac
+445	https://www.nba.com/game/tor-vs-mil-0022000445	TNT	2/18/21	7:30 PM ET	TOR	MIL	Toronto Raptors	Milwaukee Bucks	1	1	Fiserv Forum	"Milwaukee, WI"	tor	mil
+446	https://www.nba.com/game/bkn-vs-lal-0022000446	TNT	2/18/21	10:00 PM ET	BKN	LAL	Brooklyn Nets	Los Angeles Lakers	2	1	Staples Center	"Los Angeles, CA"	bkn	lal
+447	https://www.nba.com/game/mia-vs-sac-0022000447		2/18/21	10:00 PM ET	MIA	SAC	Miami Heat	Sacramento Kings	3	2	Golden 1 Center	"Sacramento, CA"	mia	sac
+448	https://www.nba.com/game/den-vs-cha-0022000448		2/19/21	7:00 PM ET	DEN	CHA	Denver Nuggets	Charlotte Hornets	1	1	Spectrum Center	"Charlotte, NC"	den	cha
+449	https://www.nba.com/game/gsw-vs-orl-0022000449		2/19/21	7:00 PM ET	GSW	ORL	Golden State Warriors	Orlando Magic	2	2	Amway Center	"Orlando, FL"	gsw	orl
+450	https://www.nba.com/game/chi-vs-phi-0022000450	ESPN	2/19/21	7:00 PM ET	CHI	PHI	Chicago Bulls	Philadelphia 76ers	3	3	Wells Fargo Center	"Philadelphia, PA"	chi	phi
+451	https://www.nba.com/game/atl-vs-bos-0022000451		2/19/21	7:30 PM ET	ATL	BOS	Atlanta Hawks	Boston Celtics	4	1	TD Garden	"Boston, MA"	atl	bos
+452	https://www.nba.com/game/det-vs-mem-0022000452		2/19/21	8:00 PM ET	DET	MEM	Detroit Pistons	Memphis Grizzlies	5	1	FedExForum	"Memphis, TN"	det	mem
+453	https://www.nba.com/game/okc-vs-mil-0022000453	Fox Sports Oklahoma	2/19/21	8:00 PM ET	OKC	MIL	Oklahoma City Thunder	Milwaukee Bucks	6	2	Fiserv Forum	"Milwaukee, WI"	okc	mil
+454	https://www.nba.com/game/tor-vs-min-0022000454		2/19/21	8:00 PM ET	TOR	MIN	Toronto Raptors	Minnesota Timberwolves	7	3	Target Center	"Minneapolis, MN"	tor	min
+455	https://www.nba.com/game/phx-vs-nop-0022000455		2/19/21	8:00 PM ET	PHX	NOP	Phoenix Suns	New Orleans Pelicans	8	4	Smoothie King Center	"New Orleans, LA"	phx	no
+456	https://www.nba.com/game/dal-vs-hou-0022000456	ESPN	2/19/21	9:30 PM ET	DAL	HOU	Dallas Mavericks	Houston Rockets	9	1	Toyota Center	"Houston, TX"	dal	hou
+457	https://www.nba.com/game/uta-vs-lac-0022000457	Fox Sports Prime Tic	2/19/21	10:00 PM ET	UTA	LAC	Utah Jazz	LA Clippers	10	1	Staples Center	"Los Angeles, CA"	uth	lac
+458	https://www.nba.com/game/sas-vs-nyk-0022000458	NBA TV	2/20/21	5:00 PM ET	SAS	NYK	San Antonio Spurs	New York Knicks	1	1	Madison Square Garden	"New York, NY"	sas	nyk
+459	https://www.nba.com/game/gsw-vs-cha-0022000459		2/20/21	7:00 PM ET	GSW	CHA	Golden State Warriors	Charlotte Hornets	2	1	Spectrum Center	"Charlotte, NC"	gsw	cha
+460	https://www.nba.com/game/sac-vs-chi-0022000460		2/20/21	8:00 PM ET	SAC	CHI	Sacramento Kings	Chicago Bulls	3	1	United Center	"Chicago, IL"	sac	chi
+461	https://www.nba.com/game/ind-vs-hou-0022000461		2/20/21	8:00 PM ET	IND	HOU	Indiana Pacers	Houston Rockets	4	2	Toyota Center	"Houston, TX"	ind	hou
+462	https://www.nba.com/game/phx-vs-mem-0022000462		2/20/21	8:00 PM ET	PHX	MEM	Phoenix Suns	Memphis Grizzlies	5	3	FedExForum	"Memphis, TN"	phx	mem
+463	https://www.nba.com/game/mia-vs-lal-0022000463	ABC	2/20/21	8:30 PM ET	MIA	LAL	Miami Heat	Los Angeles Lakers	6	1	Staples Center	"Los Angeles, CA"	mia	lal
+464	https://www.nba.com/game/was-vs-por-0022000464	NBC Sports Northwest	2/20/21	10:00 PM ET	WAS	POR	Washington Wizards	Portland Trail Blazers	7	1	Moda Center	"Portland, OR"	was	por
+465	https://www.nba.com/game/bos-vs-nop-0022000465	ABC	2/21/21	3:30 PM ET	BOS	NOP	Boston Celtics	New Orleans Pelicans	1	1	Smoothie King Center	"New Orleans, LA"	bos	no
+466	https://www.nba.com/game/okc-vs-cle-0022000466	Fox Sports Oklahoma	2/21/21	6:00 PM ET	OKC	CLE	Oklahoma City Thunder	Cleveland Cavaliers	2	1	Rocket Mortgage FieldHouse	"Cleveland, OH"	okc	cle
+467	https://www.nba.com/game/det-vs-orl-0022000467		2/21/21	6:00 PM ET	DET	ORL	Detroit Pistons	Orlando Magic	3	2	Amway Center	"Orlando, FL"	det	orl
+468	https://www.nba.com/game/phi-vs-tor-0022000468		2/21/21	6:00 PM ET	PHI	TOR	Philadelphia 76ers	Toronto Raptors	4	3	Amalie Arena	"Tampa, FL"	phi	tor
+469	https://www.nba.com/game/min-vs-nyk-0022000469		2/21/21	7:00 PM ET	MIN	NYK	Minnesota Timberwolves	New York Knicks	5	1	Madison Square Garden	"New York, NY"	min	nyk
+470	https://www.nba.com/game/den-vs-atl-0022000470		2/21/21	7:30 PM ET	DEN	ATL	Denver Nuggets	Atlanta Hawks	6	1	State Farm Arena	"Atlanta, GA"	den	atl
+471	https://www.nba.com/game/sac-vs-mil-0022000471		2/21/21	8:00 PM ET	SAC	MIL	Sacramento Kings	Milwaukee Bucks	7	1	Fiserv Forum	"Milwaukee, WI"	sac	mil
+472	https://www.nba.com/game/bkn-vs-lac-0022000472	"ESPN, Fox Sports Prime Tic"	2/21/21	8:00 PM ET	BKN	LAC	Brooklyn Nets	LA Clippers	8	2	Staples Center	"Los Angeles, CA"	bkn	lac
+473	https://www.nba.com/game/sas-vs-ind-0022000473	NBA TV	2/22/21	7:00 PM ET	SAS	IND	San Antonio Spurs	Indiana Pacers	1	1	Bankers Life Fieldhouse	"Indianapolis, IN"	sas	ind
+474	https://www.nba.com/game/chi-vs-hou-0022000474		2/22/21	8:00 PM ET	CHI	HOU	Chicago Bulls	Houston Rockets	2	1	Toyota Center	"Houston, TX"	chi	hou
+475	https://www.nba.com/game/mia-vs-okc-0022000475	Fox Sports Oklahoma	2/22/21	8:00 PM ET	MIA	OKC	Miami Heat	Oklahoma City Thunder	3	2	Chesapeake Energy Arena	"Oklahoma City, OK"	mia	okc
+476	https://www.nba.com/game/mem-vs-dal-0022000476		2/22/21	8:30 PM ET	MEM	DAL	Memphis Grizzlies	Dallas Mavericks	4	1	American Airlines Center	"Dallas, TX"	mem	dal
+477	https://www.nba.com/game/por-vs-phx-0022000477	NBC Sports Northwest	2/22/21	9:00 PM ET	POR	PHX	Portland Trail Blazers	Phoenix Suns	5	1	PHX Arena	"Phoenix, AZ"	por	phx
+478	https://www.nba.com/game/cha-vs-uta-0022000478		2/22/21	9:00 PM ET	CHA	UTA	Charlotte Hornets	Utah Jazz	6	2	Vivint Smart Home Arena	"Salt Lake City, UT"	cha	uth
+479	https://www.nba.com/game/was-vs-lal-0022000479	"NBA TV, Spectrum SportsNet"	2/22/21	10:00 PM ET	WAS	LAL	Washington Wizards	Los Angeles Lakers	7	1	Staples Center	"Los Angeles, CA"	was	lal
+480	https://www.nba.com/game/atl-vs-cle-0022000480		2/23/21	7:00 PM ET	ATL	CLE	Atlanta Hawks	Cleveland Cavaliers	1	1	Rocket Mortgage FieldHouse	"Cleveland, OH"	atl	cle
+481	https://www.nba.com/game/det-vs-orl-0022000481		2/23/21	7:00 PM ET	DET	ORL	Detroit Pistons	Orlando Magic	2	2	Amway Center	"Orlando, FL"	det	orl
+482	https://www.nba.com/game/sac-vs-bkn-0022000482		2/23/21	7:30 PM ET	SAC	BKN	Sacramento Kings	Brooklyn Nets	3	1	Barclays Center	"Brooklyn, NY"	sac	bkn
+483	https://www.nba.com/game/gsw-vs-nyk-0022000483		2/23/21	7:30 PM ET	GSW	NYK	Golden State Warriors	New York Knicks	4	2	Madison Square Garden	"New York, NY"	gsw	nyk
+484	https://www.nba.com/game/phi-vs-tor-0022000484		2/23/21	7:30 PM ET	PHI	TOR	Philadelphia 76ers	Toronto Raptors	5	3	Amalie Arena	"Tampa, FL"	phi	tor
+485	https://www.nba.com/game/bos-vs-dal-0022000485	TNT	2/23/21	7:30 PM ET	BOS	DAL	Boston Celtics	Dallas Mavericks	6	4	American Airlines Center	"Dallas, TX"	bos	dal
+486	https://www.nba.com/game/min-vs-mil-0022000486		2/23/21	8:00 PM ET	MIN	MIL	Minnesota Timberwolves	Milwaukee Bucks	7	1	Fiserv Forum	"Milwaukee, WI"	min	mil
+487	https://www.nba.com/game/por-vs-den-0022000487	TNT	2/23/21	10:00 PM ET	POR	DEN	Portland Trail Blazers	Denver Nuggets	8	1	Ball Arena	"Denver, CO"	por	den
+488	https://www.nba.com/game/was-vs-lac-0022000488	Fox Sports Prime Tic	2/23/21	10:00 PM ET	WAS	LAC	Washington Wizards	LA Clippers	9	2	Staples Center	"Los Angeles, CA"	was	lac
+489	https://www.nba.com/game/gsw-vs-ind-0022000489		2/24/21	7:00 PM ET	GSW	IND	Golden State Warriors	Indiana Pacers	1	1	Bankers Life Fieldhouse	"Indianapolis, IN"	gsw	ind
+490	https://www.nba.com/game/bos-vs-atl-0022000490		2/24/21	7:30 PM ET	BOS	ATL	Boston Celtics	Atlanta Hawks	2	1	State Farm Arena	"Atlanta, GA"	bos	atl
+491	https://www.nba.com/game/hou-vs-cle-0022000491		2/24/21	7:30 PM ET	HOU	CLE	Houston Rockets	Cleveland Cavaliers	3	2	Rocket Mortgage FieldHouse	"Cleveland, OH"	hou	cle
+492	https://www.nba.com/game/tor-vs-mia-0022000492	ESPN	2/24/21	7:30 PM ET	TOR	MIA	Toronto Raptors	Miami Heat	4	3	AmericanAirlines Arena	"Miami, FL"	tor	mia
+493	https://www.nba.com/game/min-vs-chi-0022000493		2/24/21	8:00 PM ET	MIN	CHI	Minnesota Timberwolves	Chicago Bulls	5	1	United Center	"Chicago, IL"	min	chi
+494	https://www.nba.com/game/det-vs-nop-0022000494		2/24/21	8:00 PM ET	DET	NOP	Detroit Pistons	New Orleans Pelicans	6	2	Smoothie King Center	"New Orleans, LA"	det	no
+495	https://www.nba.com/game/sas-vs-okc-0022000495	Fox Sports Oklahoma	2/24/21	8:00 PM ET	SAS	OKC	San Antonio Spurs	Oklahoma City Thunder	7	3	Chesapeake Energy Arena	"Oklahoma City, OK"	sas	okc
+496	https://www.nba.com/game/cha-vs-phx-0022000496		2/24/21	9:00 PM ET	CHA	PHX	Charlotte Hornets	Phoenix Suns	8	1	PHX Arena	"Phoenix, AZ"	cha	phx
+497	https://www.nba.com/game/lal-vs-uta-0022000497	"ESPN, Spectrum SportsNet"	2/24/21	10:00 PM ET	LAL	UTA	Los Angeles Lakers	Utah Jazz	9	1	Vivint Smart Home Arena	"Salt Lake City, UT"	lal	uth
+498	https://www.nba.com/game/dal-vs-phi-0022000498	TNT	2/25/21	7:00 PM ET	DAL	PHI	Dallas Mavericks	Philadelphia 76ers	1	1	Wells Fargo Center	"Philadelphia, PA"	dal	phi
+499	https://www.nba.com/game/orl-vs-bkn-0022000499		2/25/21	7:30 PM ET	ORL	BKN	Orlando Magic	Brooklyn Nets	2	1	Barclays Center	"Brooklyn, NY"	orl	bkn
+500	https://www.nba.com/game/sac-vs-nyk-0022000500		2/25/21	7:30 PM ET	SAC	NYK	Sacramento Kings	New York Knicks	3	2	Madison Square Garden	"New York, NY"	sac	nyk
+501	https://www.nba.com/game/lac-vs-mem-0022000501	Fox Sports Prime Tic	2/25/21	8:00 PM ET	LAC	MEM	LA Clippers	Memphis Grizzlies	4	1	FedExForum	"Memphis, TN"	lac	mem
+502	https://www.nba.com/game/was-vs-den-0022000502		2/25/21	9:00 PM ET	WAS	DEN	Washington Wizards	Denver Nuggets	5	1	Ball Arena	"Denver, CO"	was	den
+503	https://www.nba.com/game/nop-vs-mil-0022000503	TNT	2/25/21	9:30 PM ET	NOP	MIL	New Orleans Pelicans	Milwaukee Bucks	6	1	Fiserv Forum	"Milwaukee, WI"	no	mil
+504	https://www.nba.com/game/sac-vs-det-0022000504		2/26/21	7:00 PM ET	SAC	DET	Sacramento Kings	Detroit Pistons	1	1	Little Caesars Arena	"Detroit, MI"	sac	det
+505	https://www.nba.com/game/ind-vs-bos-0022000505	ESPN	2/26/21	7:30 PM ET	IND	BOS	Indiana Pacers	Boston Celtics	2	1	TD Garden	"Boston, MA"	ind	bos
+506	https://www.nba.com/game/hou-vs-tor-0022000506		2/26/21	7:30 PM ET	HOU	TOR	Houston Rockets	Toronto Raptors	3	2	Amalie Arena	"Tampa, FL"	hou	tor
+507	https://www.nba.com/game/uta-vs-mia-0022000507		2/26/21	8:00 PM ET	UTA	MIA	Utah Jazz	Miami Heat	4	1	AmericanAirlines Arena	"Miami, FL"	uth	mia
+508	https://www.nba.com/game/phx-vs-chi-0022000508		2/26/21	8:00 PM ET	PHX	CHI	Phoenix Suns	Chicago Bulls	5	2	United Center	"Chicago, IL"	phx	chi
+509	https://www.nba.com/game/lac-vs-mem-0022000509	Fox Sports Prime Tic	2/26/21	8:00 PM ET	LAC	MEM	LA Clippers	Memphis Grizzlies	6	3	FedExForum	"Memphis, TN"	lac	mem
+510	https://www.nba.com/game/atl-vs-okc-0022000510	Fox Sports Oklahoma	2/26/21	8:00 PM ET	ATL	OKC	Atlanta Hawks	Oklahoma City Thunder	7	4	Chesapeake Energy Arena	"Oklahoma City, OK"	atl	okc
+511	https://www.nba.com/game/cha-vs-gsw-0022000511		2/26/21	10:00 PM ET	CHA	GSW	Charlotte Hornets	Golden State Warriors	8	1	Chase Center	"San Francisco, CA"	cha	gsw
+512	https://www.nba.com/game/por-vs-lal-0022000512	"ESPN, Spectrum SportsNet, NBC Sports Northwest"	2/26/21	10:00 PM ET	POR	LAL	Portland Trail Blazers	Los Angeles Lakers	9	2	Staples Center	"Los Angeles, CA"	por	lal
+513	https://www.nba.com/game/cle-vs-phi-0022000513		2/27/21	3:00 PM ET	CLE	PHI	Cleveland Cavaliers	Philadelphia 76ers	1	1	Wells Fargo Center	"Philadelphia, PA"	cle	phi
+514	https://www.nba.com/game/nop-vs-sas-0022000514	NBA TV	2/27/21	6:00 PM ET	NOP	SAS	New Orleans Pelicans	San Antonio Spurs	2	1	AT&T Center	"San Antonio, TX"	no	sas
+515	https://www.nba.com/game/ind-vs-nyk-0022000515		2/27/21	7:00 PM ET	IND	NYK	Indiana Pacers	New York Knicks	3	1	Madison Square Garden	"New York, NY"	ind	nyk
+516	https://www.nba.com/game/uta-vs-orl-0022000516		2/27/21	7:00 PM ET	UTA	ORL	Utah Jazz	Orlando Magic	4	2	Amway Center	"Orlando, FL"	uth	orl
+517	https://www.nba.com/game/min-vs-was-0022000517		2/27/21	7:00 PM ET	MIN	WAS	Minnesota Timberwolves	Washington Wizards	5	3	Capital One Arena	"Washington, DC"	min	was
+518	https://www.nba.com/game/den-vs-okc-0022000518	Fox Sports Oklahoma	2/27/21	8:00 PM ET	DEN	OKC	Denver Nuggets	Oklahoma City Thunder	6	1	Chesapeake Energy Arena	"Oklahoma City, OK"	den	okc
+519	https://www.nba.com/game/dal-vs-bkn-0022000519	ABC	2/27/21	8:30 PM ET	DAL	BKN	Dallas Mavericks	Brooklyn Nets	7	1	Barclays Center	"Brooklyn, NY"	dal	bkn
+520	https://www.nba.com/game/lac-vs-mil-0022000520	ABC	2/28/21	3:30 PM ET	LAC	MIL	LA Clippers	Milwaukee Bucks	1	1	Fiserv Forum	"Milwaukee, WI"	lac	mil
+521	https://www.nba.com/game/nyk-vs-det-0022000521		2/28/21	6:00 PM ET	NYK	DET	New York Knicks	Detroit Pistons	2	1	Little Caesars Arena	"Detroit, MI"	nyk	det
+522	https://www.nba.com/game/atl-vs-mia-0022000522		2/28/21	6:00 PM ET	ATL	MIA	Atlanta Hawks	Miami Heat	3	2	AmericanAirlines Arena	"Miami, FL"	atl	mia
+523	https://www.nba.com/game/chi-vs-tor-0022000523		2/28/21	6:00 PM ET	CHI	TOR	Chicago Bulls	Toronto Raptors	4	3	Amalie Arena	"Tampa, FL"	chi	tor
+524	https://www.nba.com/game/was-vs-bos-0022000524		2/28/21	7:00 PM ET	WAS	BOS	Washington Wizards	Boston Celtics	5	1	TD Garden	"Boston, MA"	was	bos
+525	https://www.nba.com/game/mem-vs-hou-0022000525		2/28/21	7:00 PM ET	MEM	HOU	Memphis Grizzlies	Houston Rockets	6	2	Toyota Center	"Houston, TX"	mem	hou
+526	https://www.nba.com/game/phx-vs-min-0022000526		2/28/21	8:00 PM ET	PHX	MIN	Phoenix Suns	Minnesota Timberwolves	7	1	Target Center	"Minneapolis, MN"	phx	min
+527	https://www.nba.com/game/gsw-vs-lal-0022000527	"ESPN, Spectrum SportsNet"	2/28/21	8:00 PM ET	GSW	LAL	Golden State Warriors	Los Angeles Lakers	8	2	Staples Center	"Los Angeles, CA"	gsw	lal
+528	https://www.nba.com/game/cha-vs-sac-0022000528		2/28/21	9:00 PM ET	CHA	SAC	Charlotte Hornets	Sacramento Kings	9	1	Golden 1 Center	"Sacramento, CA"	cha	sac
+529	https://www.nba.com/game/dal-vs-orl-0022000529		3/1/21	7:00 PM ET	DAL	ORL	Dallas Mavericks	Orlando Magic	1	1	Amway Center	"Orlando, FL"	dal	orl
+530	https://www.nba.com/game/ind-vs-phi-0022000530		3/1/21	7:00 PM ET	IND	PHI	Indiana Pacers	Philadelphia 76ers	2	2	Wells Fargo Center	"Philadelphia, PA"	ind	phi
+531	https://www.nba.com/game/den-vs-chi-0022000531		3/1/21	8:00 PM ET	DEN	CHI	Denver Nuggets	Chicago Bulls	3	1	United Center	"Chicago, IL"	den	chi
+532	https://www.nba.com/game/cle-vs-hou-0022000532		3/1/21	8:00 PM ET	CLE	HOU	Cleveland Cavaliers	Houston Rockets	4	2	Toyota Center	"Houston, TX"	cle	hou
+533	https://www.nba.com/game/uta-vs-nop-0022000533	NBA TV	3/1/21	8:00 PM ET	UTA	NOP	Utah Jazz	New Orleans Pelicans	5	3	Smoothie King Center	"New Orleans, LA"	uth	no
+534	https://www.nba.com/game/bkn-vs-sas-0022000534		3/1/21	8:30 PM ET	BKN	SAS	Brooklyn Nets	San Antonio Spurs	6	1	AT&T Center	"San Antonio, TX"	bkn	sas
+535	https://www.nba.com/game/cha-vs-por-0022000535	"NBA TV, NBC Sports Northwest"	3/1/21	10:30 PM ET	CHA	POR	Charlotte Hornets	Portland Trail Blazers	7	1	Moda Center	"Portland, OR"	cha	por
+536	https://www.nba.com/game/mem-vs-was-0022000536		3/2/21	7:00 PM ET	MEM	WAS	Memphis Grizzlies	Washington Wizards	1	1	Capital One Arena	"Washington, DC"	mem	was
+537	https://www.nba.com/game/lac-vs-bos-0022000537	"TNT, Fox Sports Prime Tic"	3/2/21	7:30 PM ET	LAC	BOS	LA Clippers	Boston Celtics	2	1	TD Garden	"Boston, MA"	lac	bos
+538	https://www.nba.com/game/atl-vs-mia-0022000538		3/2/21	7:30 PM ET	ATL	MIA	Atlanta Hawks	Miami Heat	3	2	AmericanAirlines Arena	"Miami, FL"	atl	mia
+539	https://www.nba.com/game/det-vs-tor-0022000539		3/2/21	7:30 PM ET	DET	TOR	Detroit Pistons	Toronto Raptors	4	3	Amalie Arena	"Tampa, FL"	det	tor
+540	https://www.nba.com/game/den-vs-mil-0022000540		3/2/21	8:00 PM ET	DEN	MIL	Denver Nuggets	Milwaukee Bucks	5	1	Fiserv Forum	"Milwaukee, WI"	den	mil
+541	https://www.nba.com/game/nyk-vs-sas-0022000541		3/2/21	8:30 PM ET	NYK	SAS	New York Knicks	San Antonio Spurs	6	1	AT&T Center	"San Antonio, TX"	nyk	sas
+542	https://www.nba.com/game/phx-vs-lal-0022000542	"TNT, Spectrum SportsNet"	3/2/21	10:00 PM ET	PHX	LAL	Phoenix Suns	Los Angeles Lakers	7	1	Staples Center	"Los Angeles, CA"	phx	lal
+543	https://www.nba.com/game/ind-vs-cle-0022000543		3/3/21	7:00 PM ET	IND	CLE	Indiana Pacers	Cleveland Cavaliers	1	1	Rocket Mortgage FieldHouse	"Cleveland, OH"	ind	cle
+544	https://www.nba.com/game/atl-vs-orl-0022000544		3/3/21	7:00 PM ET	ATL	ORL	Atlanta Hawks	Orlando Magic	2	2	Amway Center	"Orlando, FL"	atl	orl
+545	https://www.nba.com/game/uta-vs-phi-0022000545		3/3/21	7:00 PM ET	UTA	PHI	Utah Jazz	Philadelphia 76ers	3	3	Wells Fargo Center	"Philadelphia, PA"	uth	phi
+546	https://www.nba.com/game/bkn-vs-hou-0022000546	ESPN	3/3/21	7:30 PM ET	BKN	HOU	Brooklyn Nets	Houston Rockets	4	1	Toyota Center	"Houston, TX"	bkn	hou
+547	https://www.nba.com/game/cha-vs-min-0022000547		3/3/21	8:00 PM ET	CHA	MIN	Charlotte Hornets	Minnesota Timberwolves	5	1	Target Center	"Minneapolis, MN"	cha	min
+548	https://www.nba.com/game/chi-vs-nop-0022000548		3/3/21	8:00 PM ET	CHI	NOP	Chicago Bulls	New Orleans Pelicans	6	2	Smoothie King Center	"New Orleans, LA"	chi	no
+549	https://www.nba.com/game/okc-vs-dal-0022000549	Fox Sports Oklahoma	3/3/21	8:30 PM ET	OKC	DAL	Oklahoma City Thunder	Dallas Mavericks	7	1	American Airlines Center	"Dallas, TX"	okc	dal
+550	https://www.nba.com/game/gsw-vs-por-0022000550	"ESPN, NBC Sports Northwest"	3/3/21	10:00 PM ET	GSW	POR	Golden State Warriors	Portland Trail Blazers	8	1	Moda Center	"Portland, OR"	gsw	por
+551	https://www.nba.com/game/lal-vs-sac-0022000551	Spectrum SportsNet	3/3/21	10:00 PM ET	LAL	SAC	Los Angeles Lakers	Sacramento Kings	9	2	Golden 1 Center	"Sacramento, CA"	lal	sac
+552	https://www.nba.com/game/tor-vs-bos-0022000552	TNT	3/4/21	7:00 PM ET	TOR	BOS	Toronto Raptors	Boston Celtics	1	1	TD Garden	"Boston, MA"	tor	bos
+553	https://www.nba.com/game/den-vs-ind-0022000553		3/4/21	7:00 PM ET	DEN	IND	Denver Nuggets	Indiana Pacers	2	2	Bankers Life Fieldhouse	"Indianapolis, IN"	den	ind
+554	https://www.nba.com/game/lac-vs-was-0022000554	Fox Sports Prime Tic	3/4/21	7:00 PM ET	LAC	WAS	LA Clippers	Washington Wizards	3	3	Capital One Arena	"Washington, DC"	lac	was
+555	https://www.nba.com/game/mil-vs-mem-0022000555		3/4/21	8:00 PM ET	MIL	MEM	Milwaukee Bucks	Memphis Grizzlies	4	1	FedExForum	"Memphis, TN"	mil	mem
+556	https://www.nba.com/game/okc-vs-sas-0022000556	Fox Sports Oklahoma	3/4/21	8:30 PM ET	OKC	SAS	Oklahoma City Thunder	San Antonio Spurs	5	1	AT&T Center	"San Antonio, TX"	okc	sas
+557	https://www.nba.com/game/mia-vs-nop-0022000557	TNT	3/4/21	9:30 PM ET	MIA	NOP	Miami Heat	New Orleans Pelicans	6	1	Smoothie King Center	"New Orleans, LA"	mia	no
+558	https://www.nba.com/game/sac-vs-por-0022000558	NBC Sports Northwest	3/4/21	10:00 PM ET	SAC	POR	Sacramento Kings	Portland Trail Blazers	7	1	Moda Center	"Portland, OR"	sac	por
