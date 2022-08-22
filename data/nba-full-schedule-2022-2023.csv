@@ -1,0 +1,1231 @@
+row_num,game_id,game_date,game_time_et,away_team,home_team,away_team_full_name,home_team_full_name,preview_url
+1,0022200001,2022-10-18,7:30 pm ET,PHI,BOS,Philadelphia 76ers,Boston Celtics,https://www.nba.com/game/phi-vs-bos-0022200001
+2,0022200002,2022-10-18,10:00 pm ET,LAL,GSW,Los Angeles Lakers,Golden State Warriors,https://www.nba.com/game/lal-vs-gsw-0022200002
+3,0022200003,2022-10-19,7:00 pm ET,ORL,DET,Orlando Magic,Detroit Pistons,https://www.nba.com/game/orl-vs-det-0022200003
+4,0022200004,2022-10-19,7:00 pm ET,WAS,IND,Washington Wizards,Indiana Pacers,https://www.nba.com/game/was-vs-ind-0022200004
+5,0022200005,2022-10-19,7:30 pm ET,HOU,ATL,Houston Rockets,Atlanta Hawks,https://www.nba.com/game/hou-vs-atl-0022200005
+6,0022200006,2022-10-19,7:30 pm ET,NOP,BKN,New Orleans Pelicans,Brooklyn Nets,https://www.nba.com/game/nop-vs-bkn-0022200006
+7,0022200007,2022-10-19,7:30 pm ET,CHI,MIA,Chicago Bulls,Miami Heat,https://www.nba.com/game/chi-vs-mia-0022200007
+8,0022200008,2022-10-19,7:30 pm ET,CLE,TOR,Cleveland Cavaliers,Toronto Raptors,https://www.nba.com/game/cle-vs-tor-0022200008
+9,0022200009,2022-10-19,7:30 pm ET,NYK,MEM,New York Knicks,Memphis Grizzlies,https://www.nba.com/game/nyk-vs-mem-0022200009
+10,0022200010,2022-10-19,8:00 pm ET,OKC,MIN,Oklahoma City Thunder,Minnesota Timberwolves,https://www.nba.com/game/okc-vs-min-0022200010
+11,0022200011,2022-10-19,8:00 pm ET,CHA,SAS,Charlotte Hornets,San Antonio Spurs,https://www.nba.com/game/cha-vs-sas-0022200011
+12,0022200012,2022-10-19,9:00 pm ET,DEN,UTA,Denver Nuggets,Utah Jazz,https://www.nba.com/game/den-vs-uta-0022200012
+13,0022200013,2022-10-19,10:00 pm ET,DAL,PHX,Dallas Mavericks,Phoenix Suns,https://www.nba.com/game/dal-vs-phx-0022200013
+14,0022200014,2022-10-19,10:00 pm ET,POR,SAC,Portland Trail Blazers,Sacramento Kings,https://www.nba.com/game/por-vs-sac-0022200014
+15,0022200015,2022-10-20,7:30 pm ET,MIL,PHI,Milwaukee Bucks,Philadelphia 76ers,https://www.nba.com/game/mil-vs-phi-0022200015
+16,0022200016,2022-10-20,10:00 pm ET,LAC,LAL,LA Clippers,Los Angeles Lakers,https://www.nba.com/game/lac-vs-lal-0022200016
+17,0022200017,2022-10-21,7:00 pm ET,NOP,CHA,New Orleans Pelicans,Charlotte Hornets,https://www.nba.com/game/nop-vs-cha-0022200017
+18,0022200018,2022-10-21,7:00 pm ET,SAS,IND,San Antonio Spurs,Indiana Pacers,https://www.nba.com/game/sas-vs-ind-0022200018
+19,0022200019,2022-10-21,7:00 pm ET,CHI,WAS,Chicago Bulls,Washington Wizards,https://www.nba.com/game/chi-vs-was-0022200019
+20,0022200020,2022-10-21,7:30 pm ET,ORL,ATL,Orlando Magic,Atlanta Hawks,https://www.nba.com/game/orl-vs-atl-0022200020
+21,0022200021,2022-10-21,7:30 pm ET,TOR,BKN,Toronto Raptors,Brooklyn Nets,https://www.nba.com/game/tor-vs-bkn-0022200021
+22,0022200022,2022-10-21,7:30 pm ET,BOS,MIA,Boston Celtics,Miami Heat,https://www.nba.com/game/bos-vs-mia-0022200022
+23,0022200023,2022-10-21,7:30 pm ET,DET,NYK,Detroit Pistons,New York Knicks,https://www.nba.com/game/det-vs-nyk-0022200023
+24,0022200024,2022-10-21,8:00 pm ET,MEM,HOU,Memphis Grizzlies,Houston Rockets,https://www.nba.com/game/mem-vs-hou-0022200024
+25,0022200025,2022-10-21,8:00 pm ET,UTA,MIN,Utah Jazz,Minnesota Timberwolves,https://www.nba.com/game/uta-vs-min-0022200025
+26,0022200026,2022-10-21,10:00 pm ET,DEN,GSW,Denver Nuggets,Golden State Warriors,https://www.nba.com/game/den-vs-gsw-0022200026
+27,0022200027,2022-10-21,10:00 pm ET,PHX,POR,Phoenix Suns,Portland Trail Blazers,https://www.nba.com/game/phx-vs-por-0022200027
+28,0022200028,2022-10-22,6:00 pm ET,SAS,PHI,San Antonio Spurs,Philadelphia 76ers,https://www.nba.com/game/sas-vs-phi-0022200028
+29,0022200029,2022-10-22,7:00 pm ET,DET,IND,Detroit Pistons,Indiana Pacers,https://www.nba.com/game/det-vs-ind-0022200029
+30,0022200030,2022-10-22,7:00 pm ET,BOS,ORL,Boston Celtics,Orlando Magic,https://www.nba.com/game/bos-vs-orl-0022200030
+31,0022200031,2022-10-22,8:00 pm ET,TOR,MIA,Toronto Raptors,Miami Heat,https://www.nba.com/game/tor-vs-mia-0022200031
+32,0022200032,2022-10-22,8:00 pm ET,CLE,CHI,Cleveland Cavaliers,Chicago Bulls,https://www.nba.com/game/cle-vs-chi-0022200032
+33,0022200033,2022-10-22,8:00 pm ET,HOU,MIL,Houston Rockets,Milwaukee Bucks,https://www.nba.com/game/hou-vs-mil-0022200033
+34,0022200034,2022-10-22,8:30 pm ET,MEM,DAL,Memphis Grizzlies,Dallas Mavericks,https://www.nba.com/game/mem-vs-dal-0022200034
+35,0022200035,2022-10-22,9:00 pm ET,OKC,DEN,Oklahoma City Thunder,Denver Nuggets,https://www.nba.com/game/okc-vs-den-0022200035
+36,0022200036,2022-10-22,10:00 pm ET,LAC,SAC,LA Clippers,Sacramento Kings,https://www.nba.com/game/lac-vs-sac-0022200036
+37,0022200037,2022-10-23,3:30 pm ET,POR,LAL,Portland Trail Blazers,Los Angeles Lakers,https://www.nba.com/game/por-vs-lal-0022200037
+38,0022200038,2022-10-23,5:00 pm ET,CHA,ATL,Charlotte Hornets,Atlanta Hawks,https://www.nba.com/game/cha-vs-atl-0022200038
+39,0022200039,2022-10-23,7:00 pm ET,WAS,CLE,Washington Wizards,Cleveland Cavaliers,https://www.nba.com/game/was-vs-cle-0022200039
+40,0022200040,2022-10-23,7:00 pm ET,UTA,NOP,Utah Jazz,New Orleans Pelicans,https://www.nba.com/game/uta-vs-nop-0022200040
+41,0022200041,2022-10-23,8:00 pm ET,MIN,OKC,Minnesota Timberwolves,Oklahoma City Thunder,https://www.nba.com/game/min-vs-okc-0022200041
+42,0022200042,2022-10-23,8:30 pm ET,SAC,GSW,Sacramento Kings,Golden State Warriors,https://www.nba.com/game/sac-vs-gsw-0022200042
+43,0022200043,2022-10-23,10:00 pm ET,PHX,LAC,Phoenix Suns,LA Clippers,https://www.nba.com/game/phx-vs-lac-0022200043
+44,0022200044,2022-10-24,7:00 pm ET,IND,PHI,Indiana Pacers,Philadelphia 76ers,https://www.nba.com/game/ind-vs-phi-0022200044
+45,0022200045,2022-10-24,7:30 pm ET,TOR,MIA,Toronto Raptors,Miami Heat,https://www.nba.com/game/tor-vs-mia-0022200045
+46,0022200046,2022-10-24,7:30 pm ET,ORL,NYK,Orlando Magic,New York Knicks,https://www.nba.com/game/orl-vs-nyk-0022200046
+47,0022200047,2022-10-24,8:00 pm ET,BOS,CHI,Boston Celtics,Chicago Bulls,https://www.nba.com/game/bos-vs-chi-0022200047
+48,0022200048,2022-10-24,8:00 pm ET,UTA,HOU,Utah Jazz,Houston Rockets,https://www.nba.com/game/uta-vs-hou-0022200048
+49,0022200049,2022-10-24,8:00 pm ET,BKN,MEM,Brooklyn Nets,Memphis Grizzlies,https://www.nba.com/game/bkn-vs-mem-0022200049
+50,0022200050,2022-10-24,8:00 pm ET,SAS,MIN,San Antonio Spurs,Minnesota Timberwolves,https://www.nba.com/game/sas-vs-min-0022200050
+51,0022200051,2022-10-24,10:00 pm ET,DEN,POR,Denver Nuggets,Portland Trail Blazers,https://www.nba.com/game/den-vs-por-0022200051
+52,0022200052,2022-10-25,7:00 pm ET,DET,WAS,Detroit Pistons,Washington Wizards,https://www.nba.com/game/det-vs-was-0022200052
+53,0022200053,2022-10-25,7:30 pm ET,DAL,NOP,Dallas Mavericks,New Orleans Pelicans,https://www.nba.com/game/dal-vs-nop-0022200053
+54,0022200054,2022-10-25,8:00 pm ET,LAC,OKC,LA Clippers,Oklahoma City Thunder,https://www.nba.com/game/lac-vs-okc-0022200054
+55,0022200055,2022-10-25,10:00 pm ET,GSW,PHX,Golden State Warriors,Phoenix Suns,https://www.nba.com/game/gsw-vs-phx-0022200055
+56,0022200056,2022-10-26,7:00 pm ET,ORL,CLE,Orlando Magic,Cleveland Cavaliers,https://www.nba.com/game/orl-vs-cle-0022200056
+57,0022200057,2022-10-26,7:00 pm ET,ATL,DET,Atlanta Hawks,Detroit Pistons,https://www.nba.com/game/atl-vs-det-0022200057
+58,0022200058,2022-10-26,7:30 pm ET,CHA,NYK,Charlotte Hornets,New York Knicks,https://www.nba.com/game/cha-vs-nyk-0022200058
+59,0022200059,2022-10-26,7:30 pm ET,PHI,TOR,Philadelphia 76ers,Toronto Raptors,https://www.nba.com/game/phi-vs-tor-0022200059
+60,0022200060,2022-10-26,7:30 pm ET,BKN,MIL,Brooklyn Nets,Milwaukee Bucks,https://www.nba.com/game/bkn-vs-mil-0022200060
+61,0022200061,2022-10-26,8:00 pm ET,IND,CHI,Indiana Pacers,Chicago Bulls,https://www.nba.com/game/ind-vs-chi-0022200061
+62,0022200062,2022-10-26,8:00 pm ET,SAS,MIN,San Antonio Spurs,Minnesota Timberwolves,https://www.nba.com/game/sas-vs-min-0022200062
+63,0022200063,2022-10-26,9:00 pm ET,HOU,UTA,Houston Rockets,Utah Jazz,https://www.nba.com/game/hou-vs-uta-0022200063
+64,0022200064,2022-10-26,10:00 pm ET,LAL,DEN,Los Angeles Lakers,Denver Nuggets,https://www.nba.com/game/lal-vs-den-0022200064
+65,0022200065,2022-10-26,10:00 pm ET,MIA,POR,Miami Heat,Portland Trail Blazers,https://www.nba.com/game/mia-vs-por-0022200065
+66,0022200066,2022-10-27,7:30 pm ET,DAL,BKN,Dallas Mavericks,Brooklyn Nets,https://www.nba.com/game/dal-vs-bkn-0022200066
+67,0022200067,2022-10-27,8:00 pm ET,LAC,OKC,LA Clippers,Oklahoma City Thunder,https://www.nba.com/game/lac-vs-okc-0022200067
+68,0022200068,2022-10-27,10:00 pm ET,MIA,GSW,Miami Heat,Golden State Warriors,https://www.nba.com/game/mia-vs-gsw-0022200068
+69,0022200069,2022-10-27,10:00 pm ET,MEM,SAC,Memphis Grizzlies,Sacramento Kings,https://www.nba.com/game/mem-vs-sac-0022200069
+70,0022200070,2022-10-28,7:00 pm ET,ATL,DET,Atlanta Hawks,Detroit Pistons,https://www.nba.com/game/atl-vs-det-0022200070
+71,0022200071,2022-10-28,7:00 pm ET,CHA,ORL,Charlotte Hornets,Orlando Magic,https://www.nba.com/game/cha-vs-orl-0022200071
+72,0022200072,2022-10-28,7:30 pm ET,CLE,BOS,Cleveland Cavaliers,Boston Celtics,https://www.nba.com/game/cle-vs-bos-0022200072
+73,0022200073,2022-10-28,7:30 pm ET,PHI,TOR,Philadelphia 76ers,Toronto Raptors,https://www.nba.com/game/phi-vs-tor-0022200073
+74,0022200074,2022-10-28,7:30 pm ET,IND,WAS,Indiana Pacers,Washington Wizards,https://www.nba.com/game/ind-vs-was-0022200074
+75,0022200075,2022-10-28,8:00 pm ET,NYK,MIL,New York Knicks,Milwaukee Bucks,https://www.nba.com/game/nyk-vs-mil-0022200075
+76,0022200076,2022-10-28,8:00 pm ET,LAL,MIN,Los Angeles Lakers,Minnesota Timberwolves,https://www.nba.com/game/lal-vs-min-0022200076
+77,0022200077,2022-10-28,8:30 pm ET,CHI,SAS,Chicago Bulls,San Antonio Spurs,https://www.nba.com/game/chi-vs-sas-0022200077
+78,0022200078,2022-10-28,9:00 pm ET,UTA,DEN,Utah Jazz,Denver Nuggets,https://www.nba.com/game/uta-vs-den-0022200078
+79,0022200079,2022-10-28,10:00 pm ET,NOP,PHX,New Orleans Pelicans,Phoenix Suns,https://www.nba.com/game/nop-vs-phx-0022200079
+80,0022200080,2022-10-28,10:00 pm ET,HOU,POR,Houston Rockets,Portland Trail Blazers,https://www.nba.com/game/hou-vs-por-0022200080
+81,0022200081,2022-10-29,6:00 pm ET,MIA,SAC,Miami Heat,Sacramento Kings,https://www.nba.com/game/mia-vs-sac-0022200081
+82,0022200082,2022-10-29,7:00 pm ET,GSW,CHA,Golden State Warriors,Charlotte Hornets,https://www.nba.com/game/gsw-vs-cha-0022200082
+83,0022200083,2022-10-29,7:30 pm ET,IND,BKN,Indiana Pacers,Brooklyn Nets,https://www.nba.com/game/ind-vs-bkn-0022200083
+84,0022200084,2022-10-29,8:00 pm ET,PHI,CHI,Philadelphia 76ers,Chicago Bulls,https://www.nba.com/game/phi-vs-chi-0022200084
+85,0022200085,2022-10-29,8:00 pm ET,ATL,MIL,Atlanta Hawks,Milwaukee Bucks,https://www.nba.com/game/atl-vs-mil-0022200085
+86,0022200086,2022-10-29,9:00 pm ET,OKC,DAL,Oklahoma City Thunder,Dallas Mavericks,https://www.nba.com/game/okc-vs-dal-0022200086
+87,0022200087,2022-10-29,9:00 pm ET,MEM,UTA,Memphis Grizzlies,Utah Jazz,https://www.nba.com/game/mem-vs-uta-0022200087
+88,0022200088,2022-10-30,3:00 pm ET,NOP,LAC,New Orleans Pelicans,LA Clippers,https://www.nba.com/game/nop-vs-lac-0022200088
+89,0022200089,2022-10-30,6:00 pm ET,WAS,BOS,Washington Wizards,Boston Celtics,https://www.nba.com/game/was-vs-bos-0022200089
+90,0022200090,2022-10-30,6:00 pm ET,NYK,CLE,New York Knicks,Cleveland Cavaliers,https://www.nba.com/game/nyk-vs-cle-0022200090
+91,0022200091,2022-10-30,6:00 pm ET,GSW,DET,Golden State Warriors,Detroit Pistons,https://www.nba.com/game/gsw-vs-det-0022200091
+92,0022200092,2022-10-30,7:00 pm ET,MIN,SAS,Minnesota Timberwolves,San Antonio Spurs,https://www.nba.com/game/min-vs-sas-0022200092
+93,0022200093,2022-10-30,7:30 pm ET,ORL,DAL,Orlando Magic,Dallas Mavericks,https://www.nba.com/game/orl-vs-dal-0022200093
+94,0022200094,2022-10-30,9:00 pm ET,HOU,PHX,Houston Rockets,Phoenix Suns,https://www.nba.com/game/hou-vs-phx-0022200094
+95,0022200095,2022-10-30,9:30 pm ET,DEN,LAL,Denver Nuggets,Los Angeles Lakers,https://www.nba.com/game/den-vs-lal-0022200095
+96,0022200096,2022-10-31,7:00 pm ET,SAC,CHA,Sacramento Kings,Charlotte Hornets,https://www.nba.com/game/sac-vs-cha-0022200096
+97,0022200097,2022-10-31,7:00 pm ET,PHI,WAS,Philadelphia 76ers,Washington Wizards,https://www.nba.com/game/phi-vs-was-0022200097
+98,0022200098,2022-10-31,7:30 pm ET,IND,BKN,Indiana Pacers,Brooklyn Nets,https://www.nba.com/game/ind-vs-bkn-0022200098
+99,0022200099,2022-10-31,7:30 pm ET,ATL,TOR,Atlanta Hawks,Toronto Raptors,https://www.nba.com/game/atl-vs-tor-0022200099
+100,0022200100,2022-10-31,8:00 pm ET,DET,MIL,Detroit Pistons,Milwaukee Bucks,https://www.nba.com/game/det-vs-mil-0022200100
+101,0022200101,2022-10-31,9:00 pm ET,MEM,UTA,Memphis Grizzlies,Utah Jazz,https://www.nba.com/game/mem-vs-uta-0022200101
+102,0022200102,2022-10-31,10:30 pm ET,HOU,LAC,Houston Rockets,LA Clippers,https://www.nba.com/game/hou-vs-lac-0022200102
+103,0022200103,2022-11-01,7:30 pm ET,CHI,BKN,Chicago Bulls,Brooklyn Nets,https://www.nba.com/game/chi-vs-bkn-0022200103
+104,0022200104,2022-11-01,7:30 pm ET,GSW,MIA,Golden State Warriors,Miami Heat,https://www.nba.com/game/gsw-vs-mia-0022200104
+105,0022200105,2022-11-01,7:30 pm ET,ORL,OKC,Orlando Magic,Oklahoma City Thunder,https://www.nba.com/game/orl-vs-okc-0022200105
+106,0022200106,2022-11-01,10:00 pm ET,MIN,PHX,Minnesota Timberwolves,Phoenix Suns,https://www.nba.com/game/min-vs-phx-0022200106
+107,0022200107,2022-11-02,7:00 pm ET,BOS,CLE,Boston Celtics,Cleveland Cavaliers,https://www.nba.com/game/bos-vs-cle-0022200107
+108,0022200108,2022-11-02,7:00 pm ET,WAS,PHI,Washington Wizards,Philadelphia 76ers,https://www.nba.com/game/was-vs-phi-0022200108
+109,0022200109,2022-11-02,7:30 pm ET,SAC,MIA,Sacramento Kings,Miami Heat,https://www.nba.com/game/sac-vs-mia-0022200109
+110,0022200110,2022-11-02,7:30 pm ET,ATL,NYK,Atlanta Hawks,New York Knicks,https://www.nba.com/game/atl-vs-nyk-0022200110
+111,0022200111,2022-11-02,7:30 pm ET,CHA,CHI,Charlotte Hornets,Chicago Bulls,https://www.nba.com/game/cha-vs-chi-0022200111
+112,0022200112,2022-11-02,8:00 pm ET,LAC,HOU,LA Clippers,Houston Rockets,https://www.nba.com/game/lac-vs-hou-0022200112
+113,0022200113,2022-11-02,8:00 pm ET,DET,MIL,Detroit Pistons,Milwaukee Bucks,https://www.nba.com/game/det-vs-mil-0022200113
+114,0022200114,2022-11-02,8:00 pm ET,TOR,SAS,Toronto Raptors,San Antonio Spurs,https://www.nba.com/game/tor-vs-sas-0022200114
+115,0022200115,2022-11-02,8:30 pm ET,UTA,DAL,Utah Jazz,Dallas Mavericks,https://www.nba.com/game/uta-vs-dal-0022200115
+116,0022200116,2022-11-02,10:00 pm ET,MEM,POR,Memphis Grizzlies,Portland Trail Blazers,https://www.nba.com/game/mem-vs-por-0022200116
+117,0022200117,2022-11-02,10:30 pm ET,NOP,LAL,New Orleans Pelicans,Los Angeles Lakers,https://www.nba.com/game/nop-vs-lal-0022200117
+118,0022200118,2022-11-03,7:00 pm ET,GSW,ORL,Golden State Warriors,Orlando Magic,https://www.nba.com/game/gsw-vs-orl-0022200118
+119,0022200119,2022-11-03,8:00 pm ET,DEN,OKC,Denver Nuggets,Oklahoma City Thunder,https://www.nba.com/game/den-vs-okc-0022200119
+120,0022200120,2022-11-04,7:00 pm ET,CLE,DET,Cleveland Cavaliers,Detroit Pistons,https://www.nba.com/game/cle-vs-det-0022200120
+121,0022200121,2022-11-04,7:00 pm ET,MIA,IND,Miami Heat,Indiana Pacers,https://www.nba.com/game/mia-vs-ind-0022200121
+122,0022200122,2022-11-04,7:00 pm ET,NYK,PHI,New York Knicks,Philadelphia 76ers,https://www.nba.com/game/nyk-vs-phi-0022200122
+123,0022200123,2022-11-04,7:00 pm ET,BKN,WAS,Brooklyn Nets,Washington Wizards,https://www.nba.com/game/bkn-vs-was-0022200123
+124,0022200124,2022-11-04,7:30 pm ET,CHI,BOS,Chicago Bulls,Boston Celtics,https://www.nba.com/game/chi-vs-bos-0022200124
+125,0022200125,2022-11-04,8:00 pm ET,CHA,MEM,Charlotte Hornets,Memphis Grizzlies,https://www.nba.com/game/cha-vs-mem-0022200125
+126,0022200126,2022-11-04,8:00 pm ET,LAC,SAS,LA Clippers,San Antonio Spurs,https://www.nba.com/game/lac-vs-sas-0022200126
+127,0022200127,2022-11-04,8:30 pm ET,TOR,DAL,Toronto Raptors,Dallas Mavericks,https://www.nba.com/game/tor-vs-dal-0022200127
+128,0022200128,2022-11-04,8:30 pm ET,GSW,NOP,Golden State Warriors,New Orleans Pelicans,https://www.nba.com/game/gsw-vs-nop-0022200128
+129,0022200129,2022-11-04,10:00 pm ET,MIL,MIN,Milwaukee Bucks,Minnesota Timberwolves,https://www.nba.com/game/mil-vs-min-0022200129
+130,0022200130,2022-11-04,10:00 pm ET,POR,PHX,Portland Trail Blazers,Phoenix Suns,https://www.nba.com/game/por-vs-phx-0022200130
+131,0022200131,2022-11-04,10:30 pm ET,UTA,LAL,Utah Jazz,Los Angeles Lakers,https://www.nba.com/game/uta-vs-lal-0022200131
+132,0022200132,2022-11-05,5:00 pm ET,SAC,ORL,Sacramento Kings,Orlando Magic,https://www.nba.com/game/sac-vs-orl-0022200132
+133,0022200133,2022-11-05,7:00 pm ET,BKN,CHA,Brooklyn Nets,Charlotte Hornets,https://www.nba.com/game/bkn-vs-cha-0022200133
+134,0022200134,2022-11-05,7:30 pm ET,NOP,ATL,New Orleans Pelicans,Atlanta Hawks,https://www.nba.com/game/nop-vs-atl-0022200134
+135,0022200135,2022-11-05,7:30 pm ET,BOS,NYK,Boston Celtics,New York Knicks,https://www.nba.com/game/bos-vs-nyk-0022200135
+136,0022200136,2022-11-05,8:00 pm ET,OKC,MIL,Oklahoma City Thunder,Milwaukee Bucks,https://www.nba.com/game/okc-vs-mil-0022200136
+137,0022200137,2022-11-05,8:00 pm ET,HOU,MIN,Houston Rockets,Minnesota Timberwolves,https://www.nba.com/game/hou-vs-min-0022200137
+138,0022200138,2022-11-05,9:00 pm ET,SAS,DEN,San Antonio Spurs,Denver Nuggets,https://www.nba.com/game/sas-vs-den-0022200138
+139,0022200139,2022-11-05,10:00 pm ET,POR,PHX,Portland Trail Blazers,Phoenix Suns,https://www.nba.com/game/por-vs-phx-0022200139
+140,0022200140,2022-11-06,3:30 pm ET,CLE,LAL,Cleveland Cavaliers,Los Angeles Lakers,https://www.nba.com/game/cle-vs-lal-0022200140
+141,0022200141,2022-11-06,6:00 pm ET,CHI,TOR,Chicago Bulls,Toronto Raptors,https://www.nba.com/game/chi-vs-tor-0022200141
+142,0022200142,2022-11-06,6:00 pm ET,WAS,MEM,Washington Wizards,Memphis Grizzlies,https://www.nba.com/game/was-vs-mem-0022200142
+143,0022200143,2022-11-06,10:00 pm ET,UTA,LAC,Utah Jazz,LA Clippers,https://www.nba.com/game/uta-vs-lac-0022200143
+144,0022200144,2022-11-07,7:00 pm ET,WAS,CHA,Washington Wizards,Charlotte Hornets,https://www.nba.com/game/was-vs-cha-0022200144
+145,0022200145,2022-11-07,7:15 pm ET,HOU,ORL,Houston Rockets,Orlando Magic,https://www.nba.com/game/hou-vs-orl-0022200145
+146,0022200146,2022-11-07,7:30 pm ET,OKC,DET,Oklahoma City Thunder,Detroit Pistons,https://www.nba.com/game/okc-vs-det-0022200146
+147,0022200147,2022-11-07,7:45 pm ET,NOP,IND,New Orleans Pelicans,Indiana Pacers,https://www.nba.com/game/nop-vs-ind-0022200147
+148,0022200148,2022-11-07,8:00 pm ET,PHX,PHI,Phoenix Suns,Philadelphia 76ers,https://www.nba.com/game/phx-vs-phi-0022200148
+149,0022200149,2022-11-07,8:15 pm ET,MIL,ATL,Milwaukee Bucks,Atlanta Hawks,https://www.nba.com/game/mil-vs-atl-0022200149
+150,0022200150,2022-11-07,8:30 pm ET,POR,MIA,Portland Trail Blazers,Miami Heat,https://www.nba.com/game/por-vs-mia-0022200150
+151,0022200151,2022-11-07,8:45 pm ET,TOR,CHI,Toronto Raptors,Chicago Bulls,https://www.nba.com/game/tor-vs-chi-0022200151
+152,0022200152,2022-11-07,9:00 pm ET,BOS,MEM,Boston Celtics,Memphis Grizzlies,https://www.nba.com/game/bos-vs-mem-0022200152
+153,0022200153,2022-11-07,9:15 pm ET,NYK,MIN,New York Knicks,Minnesota Timberwolves,https://www.nba.com/game/nyk-vs-min-0022200153
+154,0022200154,2022-11-07,9:30 pm ET,DEN,SAS,Denver Nuggets,San Antonio Spurs,https://www.nba.com/game/den-vs-sas-0022200154
+155,0022200155,2022-11-07,9:45 pm ET,BKN,DAL,Brooklyn Nets,Dallas Mavericks,https://www.nba.com/game/bkn-vs-dal-0022200155
+156,0022200156,2022-11-07,10:00 pm ET,SAC,GSW,Sacramento Kings,Golden State Warriors,https://www.nba.com/game/sac-vs-gsw-0022200156
+157,0022200157,2022-11-07,10:15 pm ET,LAL,UTA,Los Angeles Lakers,Utah Jazz,https://www.nba.com/game/lal-vs-uta-0022200157
+158,0022200158,2022-11-07,10:30 pm ET,CLE,LAC,Cleveland Cavaliers,LA Clippers,https://www.nba.com/game/cle-vs-lac-0022200158
+159,0022200159,2022-11-09,7:00 pm ET,POR,CHA,Portland Trail Blazers,Charlotte Hornets,https://www.nba.com/game/por-vs-cha-0022200159
+160,0022200160,2022-11-09,7:00 pm ET,DEN,IND,Denver Nuggets,Indiana Pacers,https://www.nba.com/game/den-vs-ind-0022200160
+161,0022200161,2022-11-09,7:00 pm ET,DAL,ORL,Dallas Mavericks,Orlando Magic,https://www.nba.com/game/dal-vs-orl-0022200161
+162,0022200162,2022-11-09,7:30 pm ET,UTA,ATL,Utah Jazz,Atlanta Hawks,https://www.nba.com/game/uta-vs-atl-0022200162
+163,0022200163,2022-11-09,7:30 pm ET,DET,BOS,Detroit Pistons,Boston Celtics,https://www.nba.com/game/det-vs-bos-0022200163
+164,0022200164,2022-11-09,7:30 pm ET,NYK,BKN,New York Knicks,Brooklyn Nets,https://www.nba.com/game/nyk-vs-bkn-0022200164
+165,0022200165,2022-11-09,7:30 pm ET,HOU,TOR,Houston Rockets,Toronto Raptors,https://www.nba.com/game/hou-vs-tor-0022200165
+166,0022200166,2022-11-09,8:00 pm ET,NOP,CHI,New Orleans Pelicans,Chicago Bulls,https://www.nba.com/game/nop-vs-chi-0022200166
+167,0022200167,2022-11-09,8:00 pm ET,PHX,MIN,Phoenix Suns,Minnesota Timberwolves,https://www.nba.com/game/phx-vs-min-0022200167
+168,0022200168,2022-11-09,8:00 pm ET,MIL,OKC,Milwaukee Bucks,Oklahoma City Thunder,https://www.nba.com/game/mil-vs-okc-0022200168
+169,0022200169,2022-11-09,8:00 pm ET,MEM,SAS,Memphis Grizzlies,San Antonio Spurs,https://www.nba.com/game/mem-vs-sas-0022200169
+170,0022200170,2022-11-09,10:00 pm ET,LAL,LAC,Los Angeles Lakers,LA Clippers,https://www.nba.com/game/lal-vs-lac-0022200170
+171,0022200171,2022-11-09,10:00 pm ET,CLE,SAC,Cleveland Cavaliers,Sacramento Kings,https://www.nba.com/game/cle-vs-sac-0022200171
+172,0022200172,2022-11-10,7:00 pm ET,DAL,WAS,Dallas Mavericks,Washington Wizards,https://www.nba.com/game/dal-vs-was-0022200172
+173,0022200173,2022-11-10,7:30 pm ET,PHI,ATL,Philadelphia 76ers,Atlanta Hawks,https://www.nba.com/game/phi-vs-atl-0022200173
+174,0022200174,2022-11-10,7:30 pm ET,CHA,MIA,Charlotte Hornets,Miami Heat,https://www.nba.com/game/cha-vs-mia-0022200174
+175,0022200175,2022-11-10,8:00 pm ET,POR,NOP,Portland Trail Blazers,New Orleans Pelicans,https://www.nba.com/game/por-vs-nop-0022200175
+176,0022200176,2022-11-11,7:00 pm ET,DEN,BOS,Denver Nuggets,Boston Celtics,https://www.nba.com/game/den-vs-bos-0022200176
+177,0022200177,2022-11-11,7:00 pm ET,PHX,ORL,Phoenix Suns,Orlando Magic,https://www.nba.com/game/phx-vs-orl-0022200177
+178,0022200178,2022-11-11,7:30 pm ET,DET,NYK,Detroit Pistons,New York Knicks,https://www.nba.com/game/det-vs-nyk-0022200178
+179,0022200179,2022-11-11,8:00 pm ET,TOR,OKC,Toronto Raptors,Oklahoma City Thunder,https://www.nba.com/game/tor-vs-okc-0022200179
+180,0022200180,2022-11-11,8:00 pm ET,MIL,SAS,Milwaukee Bucks,San Antonio Spurs,https://www.nba.com/game/mil-vs-sas-0022200180
+181,0022200181,2022-11-11,9:30 pm ET,MIN,MEM,Minnesota Timberwolves,Memphis Grizzlies,https://www.nba.com/game/min-vs-mem-0022200181
+182,0022200182,2022-11-11,10:00 pm ET,CLE,GSW,Cleveland Cavaliers,Golden State Warriors,https://www.nba.com/game/cle-vs-gsw-0022200182
+183,0022200183,2022-11-11,10:30 pm ET,SAC,LAL,Sacramento Kings,Los Angeles Lakers,https://www.nba.com/game/sac-vs-lal-0022200183
+184,0022200184,2022-11-12,4:00 pm ET,BKN,LAC,Brooklyn Nets,LA Clippers,https://www.nba.com/game/bkn-vs-lac-0022200184
+185,0022200185,2022-11-12,6:00 pm ET,UTA,WAS,Utah Jazz,Washington Wizards,https://www.nba.com/game/uta-vs-was-0022200185
+186,0022200186,2022-11-12,7:00 pm ET,BOS,DET,Boston Celtics,Detroit Pistons,https://www.nba.com/game/bos-vs-det-0022200186
+187,0022200187,2022-11-12,7:00 pm ET,TOR,IND,Toronto Raptors,Indiana Pacers,https://www.nba.com/game/tor-vs-ind-0022200187
+188,0022200188,2022-11-12,7:30 pm ET,ATL,PHI,Atlanta Hawks,Philadelphia 76ers,https://www.nba.com/game/atl-vs-phi-0022200188
+189,0022200189,2022-11-12,8:00 pm ET,CHA,MIA,Charlotte Hornets,Miami Heat,https://www.nba.com/game/cha-vs-mia-0022200189
+190,0022200190,2022-11-12,8:30 pm ET,POR,DAL,Portland Trail Blazers,Dallas Mavericks,https://www.nba.com/game/por-vs-dal-0022200190
+191,0022200191,2022-11-12,8:30 pm ET,HOU,NOP,Houston Rockets,New Orleans Pelicans,https://www.nba.com/game/hou-vs-nop-0022200191
+192,0022200192,2022-11-13,12:00 pm ET,OKC,NYK,Oklahoma City Thunder,New York Knicks,https://www.nba.com/game/okc-vs-nyk-0022200192
+193,0022200193,2022-11-13,6:00 pm ET,MIN,CLE,Minnesota Timberwolves,Cleveland Cavaliers,https://www.nba.com/game/min-vs-cle-0022200193
+194,0022200194,2022-11-13,6:00 pm ET,MEM,WAS,Memphis Grizzlies,Washington Wizards,https://www.nba.com/game/mem-vs-was-0022200194
+195,0022200195,2022-11-13,7:30 pm ET,UTA,PHI,Utah Jazz,Philadelphia 76ers,https://www.nba.com/game/uta-vs-phi-0022200195
+196,0022200196,2022-11-13,8:00 pm ET,DEN,CHI,Denver Nuggets,Chicago Bulls,https://www.nba.com/game/den-vs-chi-0022200196
+197,0022200197,2022-11-13,9:00 pm ET,GSW,SAC,Golden State Warriors,Sacramento Kings,https://www.nba.com/game/gsw-vs-sac-0022200197
+198,0022200198,2022-11-13,9:30 pm ET,BKN,LAL,Brooklyn Nets,Los Angeles Lakers,https://www.nba.com/game/bkn-vs-lal-0022200198
+199,0022200199,2022-11-14,7:00 pm ET,TOR,DET,Toronto Raptors,Detroit Pistons,https://www.nba.com/game/tor-vs-det-0022200199
+200,0022200200,2022-11-14,7:00 pm ET,CHA,ORL,Charlotte Hornets,Orlando Magic,https://www.nba.com/game/cha-vs-orl-0022200200
+201,0022200201,2022-11-14,7:30 pm ET,OKC,BOS,Oklahoma City Thunder,Boston Celtics,https://www.nba.com/game/okc-vs-bos-0022200201
+202,0022200202,2022-11-14,7:30 pm ET,PHX,MIA,Phoenix Suns,Miami Heat,https://www.nba.com/game/phx-vs-mia-0022200202
+203,0022200203,2022-11-14,8:00 pm ET,LAC,HOU,LA Clippers,Houston Rockets,https://www.nba.com/game/lac-vs-hou-0022200203
+204,0022200204,2022-11-14,8:00 pm ET,ATL,MIL,Atlanta Hawks,Milwaukee Bucks,https://www.nba.com/game/atl-vs-mil-0022200204
+205,0022200205,2022-11-14,10:00 pm ET,SAS,GSW,San Antonio Spurs,Golden State Warriors,https://www.nba.com/game/sas-vs-gsw-0022200205
+206,0022200206,2022-11-15,7:30 pm ET,MEM,NOP,Memphis Grizzlies,New Orleans Pelicans,https://www.nba.com/game/mem-vs-nop-0022200206
+207,0022200207,2022-11-15,8:30 pm ET,LAC,DAL,LA Clippers,Dallas Mavericks,https://www.nba.com/game/lac-vs-dal-0022200207
+208,0022200208,2022-11-15,10:00 pm ET,NYK,UTA,New York Knicks,Utah Jazz,https://www.nba.com/game/nyk-vs-uta-0022200208
+209,0022200209,2022-11-15,10:00 pm ET,SAS,POR,San Antonio Spurs,Portland Trail Blazers,https://www.nba.com/game/sas-vs-por-0022200209
+210,0022200210,2022-11-15,10:00 pm ET,BKN,SAC,Brooklyn Nets,Sacramento Kings,https://www.nba.com/game/bkn-vs-sac-0022200210
+211,0022200211,2022-11-16,7:00 pm ET,IND,CHA,Indiana Pacers,Charlotte Hornets,https://www.nba.com/game/ind-vs-cha-0022200211
+212,0022200212,2022-11-16,7:00 pm ET,MIN,ORL,Minnesota Timberwolves,Orlando Magic,https://www.nba.com/game/min-vs-orl-0022200212
+213,0022200213,2022-11-16,7:00 pm ET,OKC,WAS,Oklahoma City Thunder,Washington Wizards,https://www.nba.com/game/okc-vs-was-0022200213
+214,0022200214,2022-11-16,7:30 pm ET,BOS,ATL,Boston Celtics,Atlanta Hawks,https://www.nba.com/game/bos-vs-atl-0022200214
+215,0022200215,2022-11-16,7:30 pm ET,MIA,TOR,Miami Heat,Toronto Raptors,https://www.nba.com/game/mia-vs-tor-0022200215
+216,0022200216,2022-11-16,8:00 pm ET,CLE,MIL,Cleveland Cavaliers,Milwaukee Bucks,https://www.nba.com/game/cle-vs-mil-0022200216
+217,0022200217,2022-11-16,8:00 pm ET,CHI,NOP,Chicago Bulls,New Orleans Pelicans,https://www.nba.com/game/chi-vs-nop-0022200217
+218,0022200218,2022-11-16,8:30 pm ET,HOU,DAL,Houston Rockets,Dallas Mavericks,https://www.nba.com/game/hou-vs-dal-0022200218
+219,0022200219,2022-11-16,10:00 pm ET,NYK,DEN,New York Knicks,Denver Nuggets,https://www.nba.com/game/nyk-vs-den-0022200219
+220,0022200220,2022-11-16,10:00 pm ET,GSW,PHX,Golden State Warriors,Phoenix Suns,https://www.nba.com/game/gsw-vs-phx-0022200220
+221,0022200221,2022-11-17,10:00 pm ET,BKN,POR,Brooklyn Nets,Portland Trail Blazers,https://www.nba.com/game/bkn-vs-por-0022200221
+222,0022200222,2022-11-17,10:00 pm ET,SAS,SAC,San Antonio Spurs,Sacramento Kings,https://www.nba.com/game/sas-vs-sac-0022200222
+223,0022200223,2022-11-17,10:30 pm ET,DET,LAC,Detroit Pistons,LA Clippers,https://www.nba.com/game/det-vs-lac-0022200223
+224,0022200224,2022-11-18,7:00 pm ET,MIA,WAS,Miami Heat,Washington Wizards,https://www.nba.com/game/mia-vs-was-0022200224
+225,0022200225,2022-11-18,7:30 pm ET,CHA,CLE,Charlotte Hornets,Cleveland Cavaliers,https://www.nba.com/game/cha-vs-cle-0022200225
+226,0022200226,2022-11-18,7:30 pm ET,MIL,PHI,Milwaukee Bucks,Philadelphia 76ers,https://www.nba.com/game/mil-vs-phi-0022200226
+227,0022200227,2022-11-18,8:00 pm ET,ORL,CHI,Orlando Magic,Chicago Bulls,https://www.nba.com/game/orl-vs-chi-0022200227
+228,0022200228,2022-11-18,8:00 pm ET,IND,HOU,Indiana Pacers,Houston Rockets,https://www.nba.com/game/ind-vs-hou-0022200228
+229,0022200229,2022-11-18,8:00 pm ET,OKC,MEM,Oklahoma City Thunder,Memphis Grizzlies,https://www.nba.com/game/okc-vs-mem-0022200229
+230,0022200230,2022-11-18,8:30 pm ET,DEN,DAL,Denver Nuggets,Dallas Mavericks,https://www.nba.com/game/den-vs-dal-0022200230
+231,0022200231,2022-11-18,8:30 pm ET,BOS,NOP,Boston Celtics,New Orleans Pelicans,https://www.nba.com/game/bos-vs-nop-0022200231
+232,0022200232,2022-11-18,9:00 pm ET,PHX,UTA,Phoenix Suns,Utah Jazz,https://www.nba.com/game/phx-vs-uta-0022200232
+233,0022200233,2022-11-18,10:00 pm ET,NYK,GSW,New York Knicks,Golden State Warriors,https://www.nba.com/game/nyk-vs-gsw-0022200233
+234,0022200234,2022-11-18,10:30 pm ET,DET,LAL,Detroit Pistons,Los Angeles Lakers,https://www.nba.com/game/det-vs-lal-0022200234
+235,0022200235,2022-11-19,6:00 pm ET,TOR,ATL,Toronto Raptors,Atlanta Hawks,https://www.nba.com/game/tor-vs-atl-0022200235
+236,0022200236,2022-11-19,7:00 pm ET,ORL,IND,Orlando Magic,Indiana Pacers,https://www.nba.com/game/orl-vs-ind-0022200236
+237,0022200237,2022-11-19,7:30 pm ET,MIN,PHI,Minnesota Timberwolves,Philadelphia 76ers,https://www.nba.com/game/min-vs-phi-0022200237
+238,0022200238,2022-11-19,10:00 pm ET,UTA,POR,Utah Jazz,Portland Trail Blazers,https://www.nba.com/game/uta-vs-por-0022200238
+239,0022200239,2022-11-19,10:30 pm ET,SAS,LAC,San Antonio Spurs,LA Clippers,https://www.nba.com/game/sas-vs-lac-0022200239
+240,0022200240,2022-11-20,3:30 pm ET,NYK,PHX,New York Knicks,Phoenix Suns,https://www.nba.com/game/nyk-vs-phx-0022200240
+241,0022200241,2022-11-20,6:00 pm ET,CHA,WAS,Charlotte Hornets,Washington Wizards,https://www.nba.com/game/cha-vs-was-0022200241
+242,0022200242,2022-11-20,6:00 pm ET,DET,SAC,Detroit Pistons,Sacramento Kings,https://www.nba.com/game/det-vs-sac-0022200242
+243,0022200243,2022-11-20,7:00 pm ET,MEM,BKN,Memphis Grizzlies,Brooklyn Nets,https://www.nba.com/game/mem-vs-bkn-0022200243
+244,0022200244,2022-11-20,7:00 pm ET,MIA,CLE,Miami Heat,Cleveland Cavaliers,https://www.nba.com/game/mia-vs-cle-0022200244
+245,0022200245,2022-11-20,7:00 pm ET,GSW,HOU,Golden State Warriors,Houston Rockets,https://www.nba.com/game/gsw-vs-hou-0022200245
+246,0022200246,2022-11-20,7:30 pm ET,DEN,DAL,Denver Nuggets,Dallas Mavericks,https://www.nba.com/game/den-vs-dal-0022200246
+247,0022200247,2022-11-20,9:30 pm ET,SAS,LAL,San Antonio Spurs,Los Angeles Lakers,https://www.nba.com/game/sas-vs-lal-0022200247
+248,0022200248,2022-11-21,7:00 pm ET,ATL,CLE,Atlanta Hawks,Cleveland Cavaliers,https://www.nba.com/game/atl-vs-cle-0022200248
+249,0022200249,2022-11-21,7:00 pm ET,ORL,IND,Orlando Magic,Indiana Pacers,https://www.nba.com/game/orl-vs-ind-0022200249
+250,0022200250,2022-11-21,8:00 pm ET,BOS,CHI,Boston Celtics,Chicago Bulls,https://www.nba.com/game/bos-vs-chi-0022200250
+251,0022200251,2022-11-21,8:00 pm ET,POR,MIL,Portland Trail Blazers,Milwaukee Bucks,https://www.nba.com/game/por-vs-mil-0022200251
+252,0022200252,2022-11-21,8:00 pm ET,MIA,MIN,Miami Heat,Minnesota Timberwolves,https://www.nba.com/game/mia-vs-min-0022200252
+253,0022200253,2022-11-21,8:00 pm ET,GSW,NOP,Golden State Warriors,New Orleans Pelicans,https://www.nba.com/game/gsw-vs-nop-0022200253
+254,0022200254,2022-11-21,8:00 pm ET,NYK,OKC,New York Knicks,Oklahoma City Thunder,https://www.nba.com/game/nyk-vs-okc-0022200254
+255,0022200255,2022-11-21,10:30 pm ET,UTA,LAC,Utah Jazz,LA Clippers,https://www.nba.com/game/uta-vs-lac-0022200255
+256,0022200256,2022-11-22,7:30 pm ET,BKN,PHI,Brooklyn Nets,Philadelphia 76ers,https://www.nba.com/game/bkn-vs-phi-0022200256
+257,0022200257,2022-11-22,8:00 pm ET,SAC,MEM,Sacramento Kings,Memphis Grizzlies,https://www.nba.com/game/sac-vs-mem-0022200257
+258,0022200258,2022-11-22,9:00 pm ET,DET,DEN,Detroit Pistons,Denver Nuggets,https://www.nba.com/game/det-vs-den-0022200258
+259,0022200259,2022-11-22,10:00 pm ET,LAL,PHX,Los Angeles Lakers,Phoenix Suns,https://www.nba.com/game/lal-vs-phx-0022200259
+260,0022200260,2022-11-23,7:00 pm ET,PHI,CHA,Philadelphia 76ers,Charlotte Hornets,https://www.nba.com/game/phi-vs-cha-0022200260
+261,0022200261,2022-11-23,7:00 pm ET,POR,CLE,Portland Trail Blazers,Cleveland Cavaliers,https://www.nba.com/game/por-vs-cle-0022200261
+262,0022200262,2022-11-23,7:00 pm ET,MIN,IND,Minnesota Timberwolves,Indiana Pacers,https://www.nba.com/game/min-vs-ind-0022200262
+263,0022200263,2022-11-23,7:30 pm ET,SAC,ATL,Sacramento Kings,Atlanta Hawks,https://www.nba.com/game/sac-vs-atl-0022200263
+264,0022200264,2022-11-23,7:30 pm ET,DAL,BOS,Dallas Mavericks,Boston Celtics,https://www.nba.com/game/dal-vs-bos-0022200264
+265,0022200265,2022-11-23,7:30 pm ET,WAS,MIA,Washington Wizards,Miami Heat,https://www.nba.com/game/was-vs-mia-0022200265
+266,0022200266,2022-11-23,7:30 pm ET,BKN,TOR,Brooklyn Nets,Toronto Raptors,https://www.nba.com/game/bkn-vs-tor-0022200266
+267,0022200267,2022-11-23,8:00 pm ET,CHI,MIL,Chicago Bulls,Milwaukee Bucks,https://www.nba.com/game/chi-vs-mil-0022200267
+268,0022200268,2022-11-23,8:00 pm ET,DEN,OKC,Denver Nuggets,Oklahoma City Thunder,https://www.nba.com/game/den-vs-okc-0022200268
+269,0022200269,2022-11-23,8:00 pm ET,NOP,SAS,New Orleans Pelicans,San Antonio Spurs,https://www.nba.com/game/nop-vs-sas-0022200269
+270,0022200270,2022-11-23,9:00 pm ET,DET,UTA,Detroit Pistons,Utah Jazz,https://www.nba.com/game/det-vs-uta-0022200270
+271,0022200271,2022-11-23,10:00 pm ET,LAC,GSW,LA Clippers,Golden State Warriors,https://www.nba.com/game/lac-vs-gsw-0022200271
+272,0022200272,2022-11-25,5:00 pm ET,MIN,CHA,Minnesota Timberwolves,Charlotte Hornets,https://www.nba.com/game/min-vs-cha-0022200272
+273,0022200273,2022-11-25,7:00 pm ET,PHI,ORL,Philadelphia 76ers,Orlando Magic,https://www.nba.com/game/phi-vs-orl-0022200273
+274,0022200274,2022-11-25,7:30 pm ET,POR,NYK,Portland Trail Blazers,New York Knicks,https://www.nba.com/game/por-vs-nyk-0022200274
+275,0022200275,2022-11-25,8:00 pm ET,SAC,BOS,Sacramento Kings,Boston Celtics,https://www.nba.com/game/sac-vs-bos-0022200275
+276,0022200276,2022-11-25,8:00 pm ET,BKN,IND,Brooklyn Nets,Indiana Pacers,https://www.nba.com/game/bkn-vs-ind-0022200276
+277,0022200277,2022-11-25,8:00 pm ET,WAS,MIA,Washington Wizards,Miami Heat,https://www.nba.com/game/was-vs-mia-0022200277
+278,0022200278,2022-11-25,8:00 pm ET,ATL,HOU,Atlanta Hawks,Houston Rockets,https://www.nba.com/game/atl-vs-hou-0022200278
+279,0022200279,2022-11-25,8:00 pm ET,NOP,MEM,New Orleans Pelicans,Memphis Grizzlies,https://www.nba.com/game/nop-vs-mem-0022200279
+280,0022200280,2022-11-25,8:00 pm ET,CLE,MIL,Cleveland Cavaliers,Milwaukee Bucks,https://www.nba.com/game/cle-vs-mil-0022200280
+281,0022200281,2022-11-25,8:00 pm ET,CHI,OKC,Chicago Bulls,Oklahoma City Thunder,https://www.nba.com/game/chi-vs-okc-0022200281
+282,0022200282,2022-11-25,8:00 pm ET,LAL,SAS,Los Angeles Lakers,San Antonio Spurs,https://www.nba.com/game/lal-vs-sas-0022200282
+283,0022200283,2022-11-25,9:00 pm ET,DET,PHX,Detroit Pistons,Phoenix Suns,https://www.nba.com/game/det-vs-phx-0022200283
+284,0022200284,2022-11-25,10:00 pm ET,UTA,GSW,Utah Jazz,Golden State Warriors,https://www.nba.com/game/uta-vs-gsw-0022200284
+285,0022200285,2022-11-25,10:30 pm ET,DEN,LAC,Denver Nuggets,LA Clippers,https://www.nba.com/game/den-vs-lac-0022200285
+286,0022200286,2022-11-26,5:00 pm ET,DAL,TOR,Dallas Mavericks,Toronto Raptors,https://www.nba.com/game/dal-vs-tor-0022200286
+287,0022200287,2022-11-26,8:00 pm ET,OKC,HOU,Oklahoma City Thunder,Houston Rockets,https://www.nba.com/game/okc-vs-hou-0022200287
+288,0022200288,2022-11-26,8:00 pm ET,LAL,SAS,Los Angeles Lakers,San Antonio Spurs,https://www.nba.com/game/lal-vs-sas-0022200288
+289,0022200289,2022-11-26,9:00 pm ET,UTA,PHX,Utah Jazz,Phoenix Suns,https://www.nba.com/game/uta-vs-phx-0022200289
+290,0022200290,2022-11-27,3:00 pm ET,POR,BKN,Portland Trail Blazers,Brooklyn Nets,https://www.nba.com/game/por-vs-bkn-0022200290
+291,0022200291,2022-11-27,3:30 pm ET,GSW,MIN,Golden State Warriors,Minnesota Timberwolves,https://www.nba.com/game/gsw-vs-min-0022200291
+292,0022200292,2022-11-27,4:00 pm ET,IND,LAC,Indiana Pacers,LA Clippers,https://www.nba.com/game/ind-vs-lac-0022200292
+293,0022200293,2022-11-27,5:00 pm ET,MIA,ATL,Miami Heat,Atlanta Hawks,https://www.nba.com/game/mia-vs-atl-0022200293
+294,0022200294,2022-11-27,6:00 pm ET,WAS,BOS,Washington Wizards,Boston Celtics,https://www.nba.com/game/was-vs-bos-0022200294
+295,0022200295,2022-11-27,6:00 pm ET,CLE,DET,Cleveland Cavaliers,Detroit Pistons,https://www.nba.com/game/cle-vs-det-0022200295
+296,0022200296,2022-11-27,6:00 pm ET,MEM,NYK,Memphis Grizzlies,New York Knicks,https://www.nba.com/game/mem-vs-nyk-0022200296
+297,0022200297,2022-11-27,6:00 pm ET,PHI,ORL,Philadelphia 76ers,Orlando Magic,https://www.nba.com/game/phi-vs-orl-0022200297
+298,0022200298,2022-11-27,8:00 pm ET,DAL,MIL,Dallas Mavericks,Milwaukee Bucks,https://www.nba.com/game/dal-vs-mil-0022200298
+299,0022200299,2022-11-28,7:00 pm ET,ATL,PHI,Atlanta Hawks,Philadelphia 76ers,https://www.nba.com/game/atl-vs-phi-0022200299
+300,0022200300,2022-11-28,7:00 pm ET,MIN,WAS,Minnesota Timberwolves,Washington Wizards,https://www.nba.com/game/min-vs-was-0022200300
+301,0022200301,2022-11-28,7:30 pm ET,CHA,BOS,Charlotte Hornets,Boston Celtics,https://www.nba.com/game/cha-vs-bos-0022200301
+302,0022200302,2022-11-28,7:30 pm ET,ORL,BKN,Orlando Magic,Brooklyn Nets,https://www.nba.com/game/orl-vs-bkn-0022200302
+303,0022200303,2022-11-28,7:30 pm ET,CLE,TOR,Cleveland Cavaliers,Toronto Raptors,https://www.nba.com/game/cle-vs-tor-0022200303
+304,0022200304,2022-11-28,8:00 pm ET,OKC,NOP,Oklahoma City Thunder,New Orleans Pelicans,https://www.nba.com/game/okc-vs-nop-0022200304
+305,0022200305,2022-11-28,9:00 pm ET,HOU,DEN,Houston Rockets,Denver Nuggets,https://www.nba.com/game/hou-vs-den-0022200305
+306,0022200306,2022-11-28,9:00 pm ET,CHI,UTA,Chicago Bulls,Utah Jazz,https://www.nba.com/game/chi-vs-uta-0022200306
+307,0022200307,2022-11-28,10:00 pm ET,PHX,SAC,Phoenix Suns,Sacramento Kings,https://www.nba.com/game/phx-vs-sac-0022200307
+308,0022200308,2022-11-28,10:30 pm ET,IND,LAL,Indiana Pacers,Los Angeles Lakers,https://www.nba.com/game/ind-vs-lal-0022200308
+309,0022200309,2022-11-29,7:00 pm ET,NYK,DET,New York Knicks,Detroit Pistons,https://www.nba.com/game/nyk-vs-det-0022200309
+310,0022200310,2022-11-29,7:30 pm ET,GSW,DAL,Golden State Warriors,Dallas Mavericks,https://www.nba.com/game/gsw-vs-dal-0022200310
+311,0022200311,2022-11-29,10:00 pm ET,LAC,POR,LA Clippers,Portland Trail Blazers,https://www.nba.com/game/lac-vs-por-0022200311
+312,0022200312,2022-11-30,7:00 pm ET,PHI,CLE,Philadelphia 76ers,Cleveland Cavaliers,https://www.nba.com/game/phi-vs-cle-0022200312
+313,0022200313,2022-11-30,7:00 pm ET,ATL,ORL,Atlanta Hawks,Orlando Magic,https://www.nba.com/game/atl-vs-orl-0022200313
+314,0022200314,2022-11-30,7:30 pm ET,MIA,BOS,Miami Heat,Boston Celtics,https://www.nba.com/game/mia-vs-bos-0022200314
+315,0022200315,2022-11-30,7:30 pm ET,WAS,BKN,Washington Wizards,Brooklyn Nets,https://www.nba.com/game/was-vs-bkn-0022200315
+316,0022200316,2022-11-30,7:30 pm ET,MIL,NYK,Milwaukee Bucks,New York Knicks,https://www.nba.com/game/mil-vs-nyk-0022200316
+317,0022200317,2022-11-30,8:00 pm ET,MEM,MIN,Memphis Grizzlies,Minnesota Timberwolves,https://www.nba.com/game/mem-vs-min-0022200317
+318,0022200318,2022-11-30,8:00 pm ET,TOR,NOP,Toronto Raptors,New Orleans Pelicans,https://www.nba.com/game/tor-vs-nop-0022200318
+319,0022200319,2022-11-30,8:00 pm ET,SAS,OKC,San Antonio Spurs,Oklahoma City Thunder,https://www.nba.com/game/sas-vs-okc-0022200319
+320,0022200320,2022-11-30,9:00 pm ET,HOU,DEN,Houston Rockets,Denver Nuggets,https://www.nba.com/game/hou-vs-den-0022200320
+321,0022200321,2022-11-30,9:00 pm ET,CHI,PHX,Chicago Bulls,Phoenix Suns,https://www.nba.com/game/chi-vs-phx-0022200321
+322,0022200322,2022-11-30,9:00 pm ET,LAC,UTA,LA Clippers,Utah Jazz,https://www.nba.com/game/lac-vs-uta-0022200322
+323,0022200323,2022-11-30,10:00 pm ET,IND,SAC,Indiana Pacers,Sacramento Kings,https://www.nba.com/game/ind-vs-sac-0022200323
+324,0022200324,2022-11-30,10:30 pm ET,POR,LAL,Portland Trail Blazers,Los Angeles Lakers,https://www.nba.com/game/por-vs-lal-0022200324
+325,0022200325,2022-12-01,7:00 pm ET,DAL,DET,Dallas Mavericks,Detroit Pistons,https://www.nba.com/game/dal-vs-det-0022200325
+326,0022200326,2022-12-02,7:00 pm ET,WAS,CHA,Washington Wizards,Charlotte Hornets,https://www.nba.com/game/was-vs-cha-0022200326
+327,0022200327,2022-12-02,7:30 pm ET,DEN,ATL,Denver Nuggets,Atlanta Hawks,https://www.nba.com/game/den-vs-atl-0022200327
+328,0022200328,2022-12-02,7:30 pm ET,MIA,BOS,Miami Heat,Boston Celtics,https://www.nba.com/game/mia-vs-bos-0022200328
+329,0022200329,2022-12-02,7:30 pm ET,TOR,BKN,Toronto Raptors,Brooklyn Nets,https://www.nba.com/game/tor-vs-bkn-0022200329
+330,0022200330,2022-12-02,7:30 pm ET,ORL,CLE,Orlando Magic,Cleveland Cavaliers,https://www.nba.com/game/orl-vs-cle-0022200330
+331,0022200331,2022-12-02,7:30 pm ET,LAL,MIL,Los Angeles Lakers,Milwaukee Bucks,https://www.nba.com/game/lal-vs-mil-0022200331
+332,0022200332,2022-12-02,8:00 pm ET,PHI,MEM,Philadelphia 76ers,Memphis Grizzlies,https://www.nba.com/game/phi-vs-mem-0022200332
+333,0022200333,2022-12-02,8:00 pm ET,NOP,SAS,New Orleans Pelicans,San Antonio Spurs,https://www.nba.com/game/nop-vs-sas-0022200333
+334,0022200334,2022-12-02,9:00 pm ET,HOU,PHX,Houston Rockets,Phoenix Suns,https://www.nba.com/game/hou-vs-phx-0022200334
+335,0022200335,2022-12-02,9:00 pm ET,IND,UTA,Indiana Pacers,Utah Jazz,https://www.nba.com/game/ind-vs-uta-0022200335
+336,0022200336,2022-12-02,10:00 pm ET,CHI,GSW,Chicago Bulls,Golden State Warriors,https://www.nba.com/game/chi-vs-gsw-0022200336
+337,0022200337,2022-12-03,12:30 pm ET,DAL,NYK,Dallas Mavericks,New York Knicks,https://www.nba.com/game/dal-vs-nyk-0022200337
+338,0022200338,2022-12-03,4:00 pm ET,SAC,LAC,Sacramento Kings,LA Clippers,https://www.nba.com/game/sac-vs-lac-0022200338
+339,0022200339,2022-12-03,6:00 pm ET,MIL,CHA,Milwaukee Bucks,Charlotte Hornets,https://www.nba.com/game/mil-vs-cha-0022200339
+340,0022200340,2022-12-03,8:00 pm ET,ORL,TOR,Orlando Magic,Toronto Raptors,https://www.nba.com/game/orl-vs-tor-0022200340
+341,0022200341,2022-12-03,8:00 pm ET,OKC,MIN,Oklahoma City Thunder,Minnesota Timberwolves,https://www.nba.com/game/okc-vs-min-0022200341
+342,0022200342,2022-12-03,8:30 pm ET,HOU,GSW,Houston Rockets,Golden State Warriors,https://www.nba.com/game/hou-vs-gsw-0022200342
+343,0022200343,2022-12-03,9:00 pm ET,POR,UTA,Portland Trail Blazers,Utah Jazz,https://www.nba.com/game/por-vs-uta-0022200343
+344,0022200344,2022-12-04,3:30 pm ET,DEN,NOP,Denver Nuggets,New Orleans Pelicans,https://www.nba.com/game/den-vs-nop-0022200344
+345,0022200345,2022-12-04,4:00 pm ET,PHX,SAS,Phoenix Suns,San Antonio Spurs,https://www.nba.com/game/phx-vs-sas-0022200345
+346,0022200346,2022-12-04,6:00 pm ET,BOS,BKN,Boston Celtics,Brooklyn Nets,https://www.nba.com/game/bos-vs-bkn-0022200346
+347,0022200347,2022-12-04,6:00 pm ET,MEM,DET,Memphis Grizzlies,Detroit Pistons,https://www.nba.com/game/mem-vs-det-0022200347
+348,0022200348,2022-12-04,6:00 pm ET,CLE,NYK,Cleveland Cavaliers,New York Knicks,https://www.nba.com/game/cle-vs-nyk-0022200348
+349,0022200349,2022-12-04,6:00 pm ET,LAL,WAS,Los Angeles Lakers,Washington Wizards,https://www.nba.com/game/lal-vs-was-0022200349
+350,0022200350,2022-12-04,6:00 pm ET,CHI,SAC,Chicago Bulls,Sacramento Kings,https://www.nba.com/game/chi-vs-sac-0022200350
+351,0022200351,2022-12-04,9:00 pm ET,IND,POR,Indiana Pacers,Portland Trail Blazers,https://www.nba.com/game/ind-vs-por-0022200351
+352,0022200352,2022-12-05,7:00 pm ET,LAC,CHA,LA Clippers,Charlotte Hornets,https://www.nba.com/game/lac-vs-cha-0022200352
+353,0022200353,2022-12-05,7:00 pm ET,MIL,ORL,Milwaukee Bucks,Orlando Magic,https://www.nba.com/game/mil-vs-orl-0022200353
+354,0022200354,2022-12-05,7:30 pm ET,OKC,ATL,Oklahoma City Thunder,Atlanta Hawks,https://www.nba.com/game/okc-vs-atl-0022200354
+355,0022200355,2022-12-05,7:30 pm ET,BOS,TOR,Boston Celtics,Toronto Raptors,https://www.nba.com/game/bos-vs-tor-0022200355
+356,0022200356,2022-12-05,8:00 pm ET,PHI,HOU,Philadelphia 76ers,Houston Rockets,https://www.nba.com/game/phi-vs-hou-0022200356
+357,0022200357,2022-12-05,8:00 pm ET,MIA,MEM,Miami Heat,Memphis Grizzlies,https://www.nba.com/game/mia-vs-mem-0022200357
+358,0022200358,2022-12-05,8:30 pm ET,PHX,DAL,Phoenix Suns,Dallas Mavericks,https://www.nba.com/game/phx-vs-dal-0022200358
+359,0022200359,2022-12-05,10:00 pm ET,IND,GSW,Indiana Pacers,Golden State Warriors,https://www.nba.com/game/ind-vs-gsw-0022200359
+360,0022200360,2022-12-06,7:30 pm ET,LAL,CLE,Los Angeles Lakers,Cleveland Cavaliers,https://www.nba.com/game/lal-vs-cle-0022200360
+361,0022200361,2022-12-06,7:30 pm ET,DET,MIA,Detroit Pistons,Miami Heat,https://www.nba.com/game/det-vs-mia-0022200361
+362,0022200362,2022-12-06,10:00 pm ET,DAL,DEN,Dallas Mavericks,Denver Nuggets,https://www.nba.com/game/dal-vs-den-0022200362
+363,0022200363,2022-12-07,7:00 pm ET,LAC,ORL,LA Clippers,Orlando Magic,https://www.nba.com/game/lac-vs-orl-0022200363
+364,0022200364,2022-12-07,7:30 pm ET,CHA,BKN,Charlotte Hornets,Brooklyn Nets,https://www.nba.com/game/cha-vs-bkn-0022200364
+365,0022200365,2022-12-07,7:30 pm ET,ATL,NYK,Atlanta Hawks,New York Knicks,https://www.nba.com/game/atl-vs-nyk-0022200365
+366,0022200366,2022-12-07,7:30 pm ET,LAL,TOR,Los Angeles Lakers,Toronto Raptors,https://www.nba.com/game/lal-vs-tor-0022200366
+367,0022200367,2022-12-07,8:00 pm ET,WAS,CHI,Washington Wizards,Chicago Bulls,https://www.nba.com/game/was-vs-chi-0022200367
+368,0022200368,2022-12-07,8:00 pm ET,OKC,MEM,Oklahoma City Thunder,Memphis Grizzlies,https://www.nba.com/game/okc-vs-mem-0022200368
+369,0022200369,2022-12-07,8:00 pm ET,SAC,MIL,Sacramento Kings,Milwaukee Bucks,https://www.nba.com/game/sac-vs-mil-0022200369
+370,0022200370,2022-12-07,8:00 pm ET,IND,MIN,Indiana Pacers,Minnesota Timberwolves,https://www.nba.com/game/ind-vs-min-0022200370
+371,0022200371,2022-12-07,8:00 pm ET,DET,NOP,Detroit Pistons,New Orleans Pelicans,https://www.nba.com/game/det-vs-nop-0022200371
+372,0022200372,2022-12-07,9:00 pm ET,GSW,UTA,Golden State Warriors,Utah Jazz,https://www.nba.com/game/gsw-vs-uta-0022200372
+373,0022200373,2022-12-07,10:00 pm ET,BOS,PHX,Boston Celtics,Phoenix Suns,https://www.nba.com/game/bos-vs-phx-0022200373
+374,0022200374,2022-12-08,7:30 pm ET,LAC,MIA,LA Clippers,Miami Heat,https://www.nba.com/game/lac-vs-mia-0022200374
+375,0022200375,2022-12-08,8:30 pm ET,HOU,SAS,Houston Rockets,San Antonio Spurs,https://www.nba.com/game/hou-vs-sas-0022200375
+376,0022200376,2022-12-08,10:00 pm ET,DEN,POR,Denver Nuggets,Portland Trail Blazers,https://www.nba.com/game/den-vs-por-0022200376
+377,0022200377,2022-12-09,7:00 pm ET,NYK,CHA,New York Knicks,Charlotte Hornets,https://www.nba.com/game/nyk-vs-cha-0022200377
+378,0022200378,2022-12-09,7:00 pm ET,WAS,IND,Washington Wizards,Indiana Pacers,https://www.nba.com/game/was-vs-ind-0022200378
+379,0022200379,2022-12-09,7:00 pm ET,TOR,ORL,Toronto Raptors,Orlando Magic,https://www.nba.com/game/tor-vs-orl-0022200379
+380,0022200380,2022-12-09,7:30 pm ET,ATL,BKN,Atlanta Hawks,Brooklyn Nets,https://www.nba.com/game/atl-vs-bkn-0022200380
+381,0022200381,2022-12-09,7:30 pm ET,SAC,CLE,Sacramento Kings,Cleveland Cavaliers,https://www.nba.com/game/sac-vs-cle-0022200381
+382,0022200382,2022-12-09,7:30 pm ET,LAL,PHI,Los Angeles Lakers,Philadelphia 76ers,https://www.nba.com/game/lal-vs-phi-0022200382
+383,0022200383,2022-12-09,8:00 pm ET,DET,MEM,Detroit Pistons,Memphis Grizzlies,https://www.nba.com/game/det-vs-mem-0022200383
+384,0022200384,2022-12-09,8:30 pm ET,PHX,NOP,Phoenix Suns,New Orleans Pelicans,https://www.nba.com/game/phx-vs-nop-0022200384
+385,0022200385,2022-12-09,9:00 pm ET,MIN,UTA,Minnesota Timberwolves,Utah Jazz,https://www.nba.com/game/min-vs-uta-0022200385
+386,0022200386,2022-12-09,10:00 pm ET,MIL,DAL,Milwaukee Bucks,Dallas Mavericks,https://www.nba.com/game/mil-vs-dal-0022200386
+387,0022200387,2022-12-10,5:00 pm ET,SAS,MIA,San Antonio Spurs,Miami Heat,https://www.nba.com/game/sas-vs-mia-0022200387
+388,0022200388,2022-12-10,7:00 pm ET,BKN,IND,Brooklyn Nets,Indiana Pacers,https://www.nba.com/game/bkn-vs-ind-0022200388
+389,0022200389,2022-12-10,7:00 pm ET,LAC,WAS,LA Clippers,Washington Wizards,https://www.nba.com/game/lac-vs-was-0022200389
+390,0022200390,2022-12-10,7:30 pm ET,OKC,CLE,Oklahoma City Thunder,Cleveland Cavaliers,https://www.nba.com/game/okc-vs-cle-0022200390
+391,0022200391,2022-12-10,8:00 pm ET,DAL,CHI,Dallas Mavericks,Chicago Bulls,https://www.nba.com/game/dal-vs-chi-0022200391
+392,0022200392,2022-12-10,8:30 pm ET,BOS,GSW,Boston Celtics,Golden State Warriors,https://www.nba.com/game/bos-vs-gsw-0022200392
+393,0022200393,2022-12-10,9:00 pm ET,UTA,DEN,Utah Jazz,Denver Nuggets,https://www.nba.com/game/uta-vs-den-0022200393
+394,0022200394,2022-12-10,10:00 pm ET,MIN,POR,Minnesota Timberwolves,Portland Trail Blazers,https://www.nba.com/game/min-vs-por-0022200394
+395,0022200395,2022-12-11,3:30 pm ET,PHX,NOP,Phoenix Suns,New Orleans Pelicans,https://www.nba.com/game/phx-vs-nop-0022200395
+396,0022200396,2022-12-11,6:00 pm ET,LAL,DET,Los Angeles Lakers,Detroit Pistons,https://www.nba.com/game/lal-vs-det-0022200396
+397,0022200397,2022-12-11,6:00 pm ET,SAC,NYK,Sacramento Kings,New York Knicks,https://www.nba.com/game/sac-vs-nyk-0022200397
+398,0022200398,2022-12-11,6:00 pm ET,TOR,ORL,Toronto Raptors,Orlando Magic,https://www.nba.com/game/tor-vs-orl-0022200398
+399,0022200399,2022-12-11,6:00 pm ET,CHA,PHI,Charlotte Hornets,Philadelphia 76ers,https://www.nba.com/game/cha-vs-phi-0022200399
+400,0022200400,2022-12-11,6:30 pm ET,CHI,ATL,Chicago Bulls,Atlanta Hawks,https://www.nba.com/game/chi-vs-atl-0022200400
+401,0022200401,2022-12-11,7:00 pm ET,MIL,HOU,Milwaukee Bucks,Houston Rockets,https://www.nba.com/game/mil-vs-hou-0022200401
+402,0022200402,2022-12-12,7:00 pm ET,MIA,IND,Miami Heat,Indiana Pacers,https://www.nba.com/game/mia-vs-ind-0022200402
+403,0022200403,2022-12-12,7:00 pm ET,BKN,WAS,Brooklyn Nets,Washington Wizards,https://www.nba.com/game/bkn-vs-was-0022200403
+404,0022200404,2022-12-12,8:00 pm ET,ATL,MEM,Atlanta Hawks,Memphis Grizzlies,https://www.nba.com/game/atl-vs-mem-0022200404
+405,0022200405,2022-12-12,8:30 pm ET,OKC,DAL,Oklahoma City Thunder,Dallas Mavericks,https://www.nba.com/game/okc-vs-dal-0022200405
+406,0022200406,2022-12-12,8:30 pm ET,CLE,SAS,Cleveland Cavaliers,San Antonio Spurs,https://www.nba.com/game/cle-vs-sas-0022200406
+407,0022200407,2022-12-12,10:00 pm ET,MIN,POR,Minnesota Timberwolves,Portland Trail Blazers,https://www.nba.com/game/min-vs-por-0022200407
+408,0022200408,2022-12-12,10:30 pm ET,BOS,LAC,Boston Celtics,LA Clippers,https://www.nba.com/game/bos-vs-lac-0022200408
+409,0022200409,2022-12-13,7:00 pm ET,SAC,PHI,Sacramento Kings,Philadelphia 76ers,https://www.nba.com/game/sac-vs-phi-0022200409
+410,0022200410,2022-12-13,7:30 pm ET,GSW,MIL,Golden State Warriors,Milwaukee Bucks,https://www.nba.com/game/gsw-vs-mil-0022200410
+411,0022200411,2022-12-13,8:00 pm ET,PHX,HOU,Phoenix Suns,Houston Rockets,https://www.nba.com/game/phx-vs-hou-0022200411
+412,0022200412,2022-12-13,9:00 pm ET,NOP,UTA,New Orleans Pelicans,Utah Jazz,https://www.nba.com/game/nop-vs-uta-0022200412
+413,0022200413,2022-12-13,10:00 pm ET,BOS,LAL,Boston Celtics,Los Angeles Lakers,https://www.nba.com/game/bos-vs-lal-0022200413
+414,0022200414,2022-12-14,7:00 pm ET,DET,CHA,Detroit Pistons,Charlotte Hornets,https://www.nba.com/game/det-vs-cha-0022200414
+415,0022200415,2022-12-14,7:00 pm ET,GSW,IND,Golden State Warriors,Indiana Pacers,https://www.nba.com/game/gsw-vs-ind-0022200415
+416,0022200416,2022-12-14,7:00 pm ET,ATL,ORL,Atlanta Hawks,Orlando Magic,https://www.nba.com/game/atl-vs-orl-0022200416
+417,0022200417,2022-12-14,7:30 pm ET,SAC,TOR,Sacramento Kings,Toronto Raptors,https://www.nba.com/game/sac-vs-tor-0022200417
+418,0022200418,2022-12-14,7:30 pm ET,NYK,CHI,New York Knicks,Chicago Bulls,https://www.nba.com/game/nyk-vs-chi-0022200418
+419,0022200419,2022-12-14,8:00 pm ET,MIA,OKC,Miami Heat,Oklahoma City Thunder,https://www.nba.com/game/mia-vs-okc-0022200419
+420,0022200420,2022-12-14,8:00 pm ET,POR,SAS,Portland Trail Blazers,San Antonio Spurs,https://www.nba.com/game/por-vs-sas-0022200420
+421,0022200421,2022-12-14,9:00 pm ET,CLE,DAL,Cleveland Cavaliers,Dallas Mavericks,https://www.nba.com/game/cle-vs-dal-0022200421
+422,0022200422,2022-12-14,9:00 pm ET,WAS,DEN,Washington Wizards,Denver Nuggets,https://www.nba.com/game/was-vs-den-0022200422
+423,0022200423,2022-12-14,10:00 pm ET,MIN,LAC,Minnesota Timberwolves,LA Clippers,https://www.nba.com/game/min-vs-lac-0022200423
+424,0022200424,2022-12-15,8:00 pm ET,MIA,HOU,Miami Heat,Houston Rockets,https://www.nba.com/game/mia-vs-hou-0022200424
+425,0022200425,2022-12-15,8:00 pm ET,MIL,MEM,Milwaukee Bucks,Memphis Grizzlies,https://www.nba.com/game/mil-vs-mem-0022200425
+426,0022200426,2022-12-15,9:00 pm ET,NOP,UTA,New Orleans Pelicans,Utah Jazz,https://www.nba.com/game/nop-vs-uta-0022200426
+427,0022200427,2022-12-15,10:30 pm ET,PHX,LAC,Phoenix Suns,LA Clippers,https://www.nba.com/game/phx-vs-lac-0022200427
+428,0022200428,2022-12-16,7:00 pm ET,ATL,CHA,Atlanta Hawks,Charlotte Hornets,https://www.nba.com/game/atl-vs-cha-0022200428
+429,0022200429,2022-12-16,7:00 pm ET,SAC,DET,Sacramento Kings,Detroit Pistons,https://www.nba.com/game/sac-vs-det-0022200429
+430,0022200430,2022-12-16,7:30 pm ET,ORL,BOS,Orlando Magic,Boston Celtics,https://www.nba.com/game/orl-vs-bos-0022200430
+431,0022200431,2022-12-16,7:30 pm ET,IND,CLE,Indiana Pacers,Cleveland Cavaliers,https://www.nba.com/game/ind-vs-cle-0022200431
+432,0022200432,2022-12-16,7:30 pm ET,GSW,PHI,Golden State Warriors,Philadelphia 76ers,https://www.nba.com/game/gsw-vs-phi-0022200432
+433,0022200433,2022-12-16,7:30 pm ET,BKN,TOR,Brooklyn Nets,Toronto Raptors,https://www.nba.com/game/bkn-vs-tor-0022200433
+434,0022200434,2022-12-16,8:00 pm ET,NYK,CHI,New York Knicks,Chicago Bulls,https://www.nba.com/game/nyk-vs-chi-0022200434
+435,0022200435,2022-12-16,8:00 pm ET,MIN,OKC,Minnesota Timberwolves,Oklahoma City Thunder,https://www.nba.com/game/min-vs-okc-0022200435
+436,0022200436,2022-12-16,8:30 pm ET,POR,DAL,Portland Trail Blazers,Dallas Mavericks,https://www.nba.com/game/por-vs-dal-0022200436
+437,0022200437,2022-12-16,10:00 pm ET,DEN,LAL,Denver Nuggets,Los Angeles Lakers,https://www.nba.com/game/den-vs-lal-0022200437
+438,0022200438,2022-12-17,4:00 pm ET,WAS,LAC,Washington Wizards,LA Clippers,https://www.nba.com/game/was-vs-lac-0022200438
+439,0022200439,2022-12-17,5:00 pm ET,MIA,SAS,Miami Heat,San Antonio Spurs,https://www.nba.com/game/mia-vs-sas-0022200439
+440,0022200440,2022-12-17,8:00 pm ET,DAL,CLE,Dallas Mavericks,Cleveland Cavaliers,https://www.nba.com/game/dal-vs-cle-0022200440
+441,0022200441,2022-12-17,8:00 pm ET,POR,HOU,Portland Trail Blazers,Houston Rockets,https://www.nba.com/game/por-vs-hou-0022200441
+442,0022200442,2022-12-17,8:00 pm ET,UTA,MIL,Utah Jazz,Milwaukee Bucks,https://www.nba.com/game/uta-vs-mil-0022200442
+443,0022200443,2022-12-17,8:00 pm ET,MEM,OKC,Memphis Grizzlies,Oklahoma City Thunder,https://www.nba.com/game/mem-vs-okc-0022200443
+444,0022200444,2022-12-17,9:00 pm ET,NOP,PHX,New Orleans Pelicans,Phoenix Suns,https://www.nba.com/game/nop-vs-phx-0022200444
+445,0022200445,2022-12-18,3:00 pm ET,ORL,BOS,Orlando Magic,Boston Celtics,https://www.nba.com/game/orl-vs-bos-0022200445
+446,0022200446,2022-12-18,5:00 pm ET,NYK,IND,New York Knicks,Indiana Pacers,https://www.nba.com/game/nyk-vs-ind-0022200446
+447,0022200447,2022-12-18,6:00 pm ET,BKN,DET,Brooklyn Nets,Detroit Pistons,https://www.nba.com/game/bkn-vs-det-0022200447
+448,0022200448,2022-12-18,6:00 pm ET,GSW,TOR,Golden State Warriors,Toronto Raptors,https://www.nba.com/game/gsw-vs-tor-0022200448
+449,0022200449,2022-12-18,7:00 pm ET,CHI,MIN,Chicago Bulls,Minnesota Timberwolves,https://www.nba.com/game/chi-vs-min-0022200449
+450,0022200450,2022-12-18,8:00 pm ET,CHA,DEN,Charlotte Hornets,Denver Nuggets,https://www.nba.com/game/cha-vs-den-0022200450
+451,0022200451,2022-12-18,9:30 pm ET,WAS,LAL,Washington Wizards,Los Angeles Lakers,https://www.nba.com/game/was-vs-lal-0022200451
+452,0022200452,2022-12-19,7:00 pm ET,UTA,CLE,Utah Jazz,Cleveland Cavaliers,https://www.nba.com/game/uta-vs-cle-0022200452
+453,0022200453,2022-12-19,7:00 pm ET,TOR,PHI,Toronto Raptors,Philadelphia 76ers,https://www.nba.com/game/tor-vs-phi-0022200453
+454,0022200454,2022-12-19,7:30 pm ET,ORL,ATL,Orlando Magic,Atlanta Hawks,https://www.nba.com/game/orl-vs-atl-0022200454
+455,0022200455,2022-12-19,8:00 pm ET,SAS,HOU,San Antonio Spurs,Houston Rockets,https://www.nba.com/game/sas-vs-hou-0022200455
+456,0022200456,2022-12-19,8:00 pm ET,DAL,MIN,Dallas Mavericks,Minnesota Timberwolves,https://www.nba.com/game/dal-vs-min-0022200456
+457,0022200457,2022-12-19,8:00 pm ET,MIL,NOP,Milwaukee Bucks,New Orleans Pelicans,https://www.nba.com/game/mil-vs-nop-0022200457
+458,0022200458,2022-12-19,8:00 pm ET,POR,OKC,Portland Trail Blazers,Oklahoma City Thunder,https://www.nba.com/game/por-vs-okc-0022200458
+459,0022200459,2022-12-19,9:00 pm ET,LAL,PHX,Los Angeles Lakers,Phoenix Suns,https://www.nba.com/game/lal-vs-phx-0022200459
+460,0022200460,2022-12-19,10:00 pm ET,CHA,SAC,Charlotte Hornets,Sacramento Kings,https://www.nba.com/game/cha-vs-sac-0022200460
+461,0022200461,2022-12-20,7:00 pm ET,UTA,DET,Utah Jazz,Detroit Pistons,https://www.nba.com/game/uta-vs-det-0022200461
+462,0022200462,2022-12-20,7:30 pm ET,CHI,MIA,Chicago Bulls,Miami Heat,https://www.nba.com/game/chi-vs-mia-0022200462
+463,0022200463,2022-12-20,7:30 pm ET,GSW,NYK,Golden State Warriors,New York Knicks,https://www.nba.com/game/gsw-vs-nyk-0022200463
+464,0022200464,2022-12-20,9:00 pm ET,WAS,PHX,Washington Wizards,Phoenix Suns,https://www.nba.com/game/was-vs-phx-0022200464
+465,0022200465,2022-12-20,10:00 pm ET,MEM,DEN,Memphis Grizzlies,Denver Nuggets,https://www.nba.com/game/mem-vs-den-0022200465
+466,0022200466,2022-12-21,7:00 pm ET,MIL,CLE,Milwaukee Bucks,Cleveland Cavaliers,https://www.nba.com/game/mil-vs-cle-0022200466
+467,0022200467,2022-12-21,7:00 pm ET,DET,PHI,Detroit Pistons,Philadelphia 76ers,https://www.nba.com/game/det-vs-phi-0022200467
+468,0022200468,2022-12-21,7:30 pm ET,CHI,ATL,Chicago Bulls,Atlanta Hawks,https://www.nba.com/game/chi-vs-atl-0022200468
+469,0022200469,2022-12-21,7:30 pm ET,IND,BOS,Indiana Pacers,Boston Celtics,https://www.nba.com/game/ind-vs-bos-0022200469
+470,0022200470,2022-12-21,7:30 pm ET,GSW,BKN,Golden State Warriors,Brooklyn Nets,https://www.nba.com/game/gsw-vs-bkn-0022200470
+471,0022200471,2022-12-21,7:30 pm ET,TOR,NYK,Toronto Raptors,New York Knicks,https://www.nba.com/game/tor-vs-nyk-0022200471
+472,0022200472,2022-12-21,8:00 pm ET,ORL,HOU,Orlando Magic,Houston Rockets,https://www.nba.com/game/orl-vs-hou-0022200472
+473,0022200473,2022-12-21,8:00 pm ET,DAL,MIN,Dallas Mavericks,Minnesota Timberwolves,https://www.nba.com/game/dal-vs-min-0022200473
+474,0022200474,2022-12-21,8:00 pm ET,POR,OKC,Portland Trail Blazers,Oklahoma City Thunder,https://www.nba.com/game/por-vs-okc-0022200474
+475,0022200475,2022-12-21,10:00 pm ET,LAL,SAC,Los Angeles Lakers,Sacramento Kings,https://www.nba.com/game/lal-vs-sac-0022200475
+476,0022200476,2022-12-21,10:30 pm ET,CHA,LAC,Charlotte Hornets,LA Clippers,https://www.nba.com/game/cha-vs-lac-0022200476
+477,0022200477,2022-12-22,8:00 pm ET,SAS,NOP,San Antonio Spurs,New Orleans Pelicans,https://www.nba.com/game/sas-vs-nop-0022200477
+478,0022200478,2022-12-22,9:00 pm ET,WAS,UTA,Washington Wizards,Utah Jazz,https://www.nba.com/game/was-vs-uta-0022200478
+479,0022200479,2022-12-23,7:00 pm ET,SAS,ORL,San Antonio Spurs,Orlando Magic,https://www.nba.com/game/sas-vs-orl-0022200479
+480,0022200480,2022-12-23,7:00 pm ET,LAC,PHI,LA Clippers,Philadelphia 76ers,https://www.nba.com/game/lac-vs-phi-0022200480
+481,0022200481,2022-12-23,7:30 pm ET,DET,ATL,Detroit Pistons,Atlanta Hawks,https://www.nba.com/game/det-vs-atl-0022200481
+482,0022200482,2022-12-23,7:30 pm ET,MIN,BOS,Minnesota Timberwolves,Boston Celtics,https://www.nba.com/game/min-vs-bos-0022200482
+483,0022200483,2022-12-23,7:30 pm ET,MIL,BKN,Milwaukee Bucks,Brooklyn Nets,https://www.nba.com/game/mil-vs-bkn-0022200483
+484,0022200484,2022-12-23,7:30 pm ET,TOR,CLE,Toronto Raptors,Cleveland Cavaliers,https://www.nba.com/game/tor-vs-cle-0022200484
+485,0022200485,2022-12-23,7:30 pm ET,CHI,NYK,Chicago Bulls,New York Knicks,https://www.nba.com/game/chi-vs-nyk-0022200485
+486,0022200486,2022-12-23,8:00 pm ET,IND,MIA,Indiana Pacers,Miami Heat,https://www.nba.com/game/ind-vs-mia-0022200486
+487,0022200487,2022-12-23,8:00 pm ET,DAL,HOU,Dallas Mavericks,Houston Rockets,https://www.nba.com/game/dal-vs-hou-0022200487
+488,0022200488,2022-12-23,8:00 pm ET,NOP,OKC,New Orleans Pelicans,Oklahoma City Thunder,https://www.nba.com/game/nop-vs-okc-0022200488
+489,0022200489,2022-12-23,9:00 pm ET,POR,DEN,Portland Trail Blazers,Denver Nuggets,https://www.nba.com/game/por-vs-den-0022200489
+490,0022200490,2022-12-23,10:00 pm ET,MEM,PHX,Memphis Grizzlies,Phoenix Suns,https://www.nba.com/game/mem-vs-phx-0022200490
+491,0022200491,2022-12-23,10:00 pm ET,WAS,SAC,Washington Wizards,Sacramento Kings,https://www.nba.com/game/was-vs-sac-0022200491
+492,0022200492,2022-12-23,10:30 pm ET,CHA,LAL,Charlotte Hornets,Los Angeles Lakers,https://www.nba.com/game/cha-vs-lal-0022200492
+493,0022200493,2022-12-25,12:00 pm ET,PHI,NYK,Philadelphia 76ers,New York Knicks,https://www.nba.com/game/phi-vs-nyk-0022200493
+494,0022200494,2022-12-25,2:30 pm ET,LAL,DAL,Los Angeles Lakers,Dallas Mavericks,https://www.nba.com/game/lal-vs-dal-0022200494
+495,0022200495,2022-12-25,5:00 pm ET,MIL,BOS,Milwaukee Bucks,Boston Celtics,https://www.nba.com/game/mil-vs-bos-0022200495
+496,0022200496,2022-12-25,8:00 pm ET,MEM,GSW,Memphis Grizzlies,Golden State Warriors,https://www.nba.com/game/mem-vs-gsw-0022200496
+497,0022200497,2022-12-25,10:30 pm ET,PHX,DEN,Phoenix Suns,Denver Nuggets,https://www.nba.com/game/phx-vs-den-0022200497
+498,0022200498,2022-12-26,7:00 pm ET,BKN,CLE,Brooklyn Nets,Cleveland Cavaliers,https://www.nba.com/game/bkn-vs-cle-0022200498
+499,0022200499,2022-12-26,7:00 pm ET,LAC,DET,LA Clippers,Detroit Pistons,https://www.nba.com/game/lac-vs-det-0022200499
+500,0022200500,2022-12-26,7:30 pm ET,MIN,MIA,Minnesota Timberwolves,Miami Heat,https://www.nba.com/game/min-vs-mia-0022200500
+501,0022200501,2022-12-26,8:00 pm ET,HOU,CHI,Houston Rockets,Chicago Bulls,https://www.nba.com/game/hou-vs-chi-0022200501
+502,0022200502,2022-12-26,8:00 pm ET,IND,NOP,Indiana Pacers,New Orleans Pelicans,https://www.nba.com/game/ind-vs-nop-0022200502
+503,0022200503,2022-12-26,8:00 pm ET,UTA,SAS,Utah Jazz,San Antonio Spurs,https://www.nba.com/game/uta-vs-sas-0022200503
+504,0022200504,2022-12-26,10:00 pm ET,CHA,POR,Charlotte Hornets,Portland Trail Blazers,https://www.nba.com/game/cha-vs-por-0022200504
+505,0022200505,2022-12-27,7:00 pm ET,LAL,ORL,Los Angeles Lakers,Orlando Magic,https://www.nba.com/game/lal-vs-orl-0022200505
+506,0022200506,2022-12-27,7:00 pm ET,PHI,WAS,Philadelphia 76ers,Washington Wizards,https://www.nba.com/game/phi-vs-was-0022200506
+507,0022200507,2022-12-27,7:30 pm ET,HOU,BOS,Houston Rockets,Boston Celtics,https://www.nba.com/game/hou-vs-bos-0022200507
+508,0022200508,2022-12-27,7:30 pm ET,ATL,IND,Atlanta Hawks,Indiana Pacers,https://www.nba.com/game/atl-vs-ind-0022200508
+509,0022200509,2022-12-27,7:30 pm ET,LAC,TOR,LA Clippers,Toronto Raptors,https://www.nba.com/game/lac-vs-tor-0022200509
+510,0022200510,2022-12-27,8:00 pm ET,PHX,MEM,Phoenix Suns,Memphis Grizzlies,https://www.nba.com/game/phx-vs-mem-0022200510
+511,0022200511,2022-12-27,8:00 pm ET,SAS,OKC,San Antonio Spurs,Oklahoma City Thunder,https://www.nba.com/game/sas-vs-okc-0022200511
+512,0022200512,2022-12-27,8:30 pm ET,NYK,DAL,New York Knicks,Dallas Mavericks,https://www.nba.com/game/nyk-vs-dal-0022200512
+513,0022200513,2022-12-27,10:00 pm ET,CHA,GSW,Charlotte Hornets,Golden State Warriors,https://www.nba.com/game/cha-vs-gsw-0022200513
+514,0022200514,2022-12-27,10:00 pm ET,DEN,SAC,Denver Nuggets,Sacramento Kings,https://www.nba.com/game/den-vs-sac-0022200514
+515,0022200515,2022-12-28,7:00 pm ET,ORL,DET,Orlando Magic,Detroit Pistons,https://www.nba.com/game/orl-vs-det-0022200515
+516,0022200516,2022-12-28,7:00 pm ET,PHX,WAS,Phoenix Suns,Washington Wizards,https://www.nba.com/game/phx-vs-was-0022200516
+517,0022200517,2022-12-28,7:30 pm ET,BKN,ATL,Brooklyn Nets,Atlanta Hawks,https://www.nba.com/game/bkn-vs-atl-0022200517
+518,0022200518,2022-12-28,7:30 pm ET,LAL,MIA,Los Angeles Lakers,Miami Heat,https://www.nba.com/game/lal-vs-mia-0022200518
+519,0022200519,2022-12-28,8:00 pm ET,MIL,CHI,Milwaukee Bucks,Chicago Bulls,https://www.nba.com/game/mil-vs-chi-0022200519
+520,0022200520,2022-12-28,8:00 pm ET,MIN,NOP,Minnesota Timberwolves,New Orleans Pelicans,https://www.nba.com/game/min-vs-nop-0022200520
+521,0022200521,2022-12-28,10:00 pm ET,UTA,GSW,Utah Jazz,Golden State Warriors,https://www.nba.com/game/uta-vs-gsw-0022200521
+522,0022200522,2022-12-28,10:00 pm ET,DEN,SAC,Denver Nuggets,Sacramento Kings,https://www.nba.com/game/den-vs-sac-0022200522
+523,0022200523,2022-12-29,7:00 pm ET,OKC,CHA,Oklahoma City Thunder,Charlotte Hornets,https://www.nba.com/game/okc-vs-cha-0022200523
+524,0022200524,2022-12-29,7:00 pm ET,CLE,IND,Cleveland Cavaliers,Indiana Pacers,https://www.nba.com/game/cle-vs-ind-0022200524
+525,0022200525,2022-12-29,7:30 pm ET,LAC,BOS,LA Clippers,Boston Celtics,https://www.nba.com/game/lac-vs-bos-0022200525
+526,0022200526,2022-12-29,7:30 pm ET,MEM,TOR,Memphis Grizzlies,Toronto Raptors,https://www.nba.com/game/mem-vs-tor-0022200526
+527,0022200527,2022-12-29,8:00 pm ET,NYK,SAS,New York Knicks,San Antonio Spurs,https://www.nba.com/game/nyk-vs-sas-0022200527
+528,0022200528,2022-12-29,8:30 pm ET,HOU,DAL,Houston Rockets,Dallas Mavericks,https://www.nba.com/game/hou-vs-dal-0022200528
+529,0022200529,2022-12-30,7:00 pm ET,WAS,ORL,Washington Wizards,Orlando Magic,https://www.nba.com/game/was-vs-orl-0022200529
+530,0022200530,2022-12-30,7:30 pm ET,LAL,ATL,Los Angeles Lakers,Atlanta Hawks,https://www.nba.com/game/lal-vs-atl-0022200530
+531,0022200531,2022-12-30,7:30 pm ET,PHX,TOR,Phoenix Suns,Toronto Raptors,https://www.nba.com/game/phx-vs-tor-0022200531
+532,0022200532,2022-12-30,8:00 pm ET,DET,CHI,Detroit Pistons,Chicago Bulls,https://www.nba.com/game/det-vs-chi-0022200532
+533,0022200533,2022-12-30,8:00 pm ET,MIN,MIL,Minnesota Timberwolves,Milwaukee Bucks,https://www.nba.com/game/min-vs-mil-0022200533
+534,0022200534,2022-12-30,8:30 pm ET,PHI,NOP,Philadelphia 76ers,New Orleans Pelicans,https://www.nba.com/game/phi-vs-nop-0022200534
+535,0022200535,2022-12-30,9:00 pm ET,MIA,DEN,Miami Heat,Denver Nuggets,https://www.nba.com/game/mia-vs-den-0022200535
+536,0022200536,2022-12-30,10:00 pm ET,POR,GSW,Portland Trail Blazers,Golden State Warriors,https://www.nba.com/game/por-vs-gsw-0022200536
+537,0022200537,2022-12-30,10:00 pm ET,UTA,SAC,Utah Jazz,Sacramento Kings,https://www.nba.com/game/uta-vs-sac-0022200537
+538,0022200538,2022-12-31,3:00 pm ET,LAC,IND,LA Clippers,Indiana Pacers,https://www.nba.com/game/lac-vs-ind-0022200538
+539,0022200539,2022-12-31,7:00 pm ET,BKN,CHA,Brooklyn Nets,Charlotte Hornets,https://www.nba.com/game/bkn-vs-cha-0022200539
+540,0022200540,2022-12-31,7:00 pm ET,CLE,CHI,Cleveland Cavaliers,Chicago Bulls,https://www.nba.com/game/cle-vs-chi-0022200540
+541,0022200541,2022-12-31,7:00 pm ET,NYK,HOU,New York Knicks,Houston Rockets,https://www.nba.com/game/nyk-vs-hou-0022200541
+542,0022200542,2022-12-31,7:00 pm ET,DAL,SAS,Dallas Mavericks,San Antonio Spurs,https://www.nba.com/game/dal-vs-sas-0022200542
+543,0022200543,2022-12-31,8:00 pm ET,NOP,MEM,New Orleans Pelicans,Memphis Grizzlies,https://www.nba.com/game/nop-vs-mem-0022200543
+544,0022200544,2022-12-31,8:00 pm ET,DET,MIN,Detroit Pistons,Minnesota Timberwolves,https://www.nba.com/game/det-vs-min-0022200544
+545,0022200545,2022-12-31,8:00 pm ET,PHI,OKC,Philadelphia 76ers,Oklahoma City Thunder,https://www.nba.com/game/phi-vs-okc-0022200545
+546,0022200546,2022-12-31,9:00 pm ET,MIA,UTA,Miami Heat,Utah Jazz,https://www.nba.com/game/mia-vs-uta-0022200546
+547,0022200547,2023-01-01,8:00 pm ET,SAC,MEM,Sacramento Kings,Memphis Grizzlies,https://www.nba.com/game/sac-vs-mem-0022200547
+548,0022200548,2023-01-01,8:00 pm ET,WAS,MIL,Washington Wizards,Milwaukee Bucks,https://www.nba.com/game/was-vs-mil-0022200548
+549,0022200549,2023-01-01,8:00 pm ET,BOS,DEN,Boston Celtics,Denver Nuggets,https://www.nba.com/game/bos-vs-den-0022200549
+550,0022200550,2023-01-02,3:00 pm ET,PHX,NYK,Phoenix Suns,New York Knicks,https://www.nba.com/game/phx-vs-nyk-0022200550
+551,0022200551,2023-01-02,7:00 pm ET,LAL,CHA,Los Angeles Lakers,Charlotte Hornets,https://www.nba.com/game/lal-vs-cha-0022200551
+552,0022200552,2023-01-02,7:00 pm ET,CHI,CLE,Chicago Bulls,Cleveland Cavaliers,https://www.nba.com/game/chi-vs-cle-0022200552
+553,0022200553,2023-01-02,7:00 pm ET,TOR,IND,Toronto Raptors,Indiana Pacers,https://www.nba.com/game/tor-vs-ind-0022200553
+554,0022200554,2023-01-02,7:00 pm ET,NOP,PHI,New Orleans Pelicans,Philadelphia 76ers,https://www.nba.com/game/nop-vs-phi-0022200554
+555,0022200555,2023-01-02,7:30 pm ET,SAS,BKN,San Antonio Spurs,Brooklyn Nets,https://www.nba.com/game/sas-vs-bkn-0022200555
+556,0022200556,2023-01-02,8:00 pm ET,DAL,HOU,Dallas Mavericks,Houston Rockets,https://www.nba.com/game/dal-vs-hou-0022200556
+557,0022200557,2023-01-02,8:00 pm ET,DEN,MIN,Denver Nuggets,Minnesota Timberwolves,https://www.nba.com/game/den-vs-min-0022200557
+558,0022200558,2023-01-02,10:00 pm ET,ATL,GSW,Atlanta Hawks,Golden State Warriors,https://www.nba.com/game/atl-vs-gsw-0022200558
+559,0022200559,2023-01-02,10:00 pm ET,DET,POR,Detroit Pistons,Portland Trail Blazers,https://www.nba.com/game/det-vs-por-0022200559
+560,0022200560,2023-01-02,10:30 pm ET,MIA,LAC,Miami Heat,LA Clippers,https://www.nba.com/game/mia-vs-lac-0022200560
+561,0022200561,2023-01-03,8:00 pm ET,WAS,MIL,Washington Wizards,Milwaukee Bucks,https://www.nba.com/game/was-vs-mil-0022200561
+562,0022200562,2023-01-03,8:00 pm ET,BOS,OKC,Boston Celtics,Oklahoma City Thunder,https://www.nba.com/game/bos-vs-okc-0022200562
+563,0022200563,2023-01-03,9:00 pm ET,SAC,UTA,Sacramento Kings,Utah Jazz,https://www.nba.com/game/sac-vs-uta-0022200563
+564,0022200564,2023-01-04,7:00 pm ET,MEM,CHA,Memphis Grizzlies,Charlotte Hornets,https://www.nba.com/game/mem-vs-cha-0022200564
+565,0022200565,2023-01-04,7:00 pm ET,PHX,CLE,Phoenix Suns,Cleveland Cavaliers,https://www.nba.com/game/phx-vs-cle-0022200565
+566,0022200566,2023-01-04,7:00 pm ET,OKC,ORL,Oklahoma City Thunder,Orlando Magic,https://www.nba.com/game/okc-vs-orl-0022200566
+567,0022200567,2023-01-04,7:00 pm ET,IND,PHI,Indiana Pacers,Philadelphia 76ers,https://www.nba.com/game/ind-vs-phi-0022200567
+568,0022200568,2023-01-04,7:30 pm ET,SAS,NYK,San Antonio Spurs,New York Knicks,https://www.nba.com/game/sas-vs-nyk-0022200568
+569,0022200569,2023-01-04,7:30 pm ET,MIL,TOR,Milwaukee Bucks,Toronto Raptors,https://www.nba.com/game/mil-vs-tor-0022200569
+570,0022200570,2023-01-04,8:00 pm ET,BKN,CHI,Brooklyn Nets,Chicago Bulls,https://www.nba.com/game/bkn-vs-chi-0022200570
+571,0022200571,2023-01-04,8:00 pm ET,POR,MIN,Portland Trail Blazers,Minnesota Timberwolves,https://www.nba.com/game/por-vs-min-0022200571
+572,0022200572,2023-01-04,8:00 pm ET,HOU,NOP,Houston Rockets,New Orleans Pelicans,https://www.nba.com/game/hou-vs-nop-0022200572
+573,0022200573,2023-01-04,10:00 pm ET,DET,GSW,Detroit Pistons,Golden State Warriors,https://www.nba.com/game/det-vs-gsw-0022200573
+574,0022200574,2023-01-04,10:00 pm ET,MIA,LAL,Miami Heat,Los Angeles Lakers,https://www.nba.com/game/mia-vs-lal-0022200574
+575,0022200575,2023-01-04,10:00 pm ET,ATL,SAC,Atlanta Hawks,Sacramento Kings,https://www.nba.com/game/atl-vs-sac-0022200575
+576,0022200576,2023-01-05,7:00 pm ET,MEM,ORL,Memphis Grizzlies,Orlando Magic,https://www.nba.com/game/mem-vs-orl-0022200576
+577,0022200577,2023-01-05,7:30 pm ET,BOS,DAL,Boston Celtics,Dallas Mavericks,https://www.nba.com/game/bos-vs-dal-0022200577
+578,0022200578,2023-01-05,8:00 pm ET,UTA,HOU,Utah Jazz,Houston Rockets,https://www.nba.com/game/uta-vs-hou-0022200578
+579,0022200579,2023-01-05,10:00 pm ET,LAC,DEN,LA Clippers,Denver Nuggets,https://www.nba.com/game/lac-vs-den-0022200579
+580,0022200580,2023-01-06,7:00 pm ET,POR,IND,Portland Trail Blazers,Indiana Pacers,https://www.nba.com/game/por-vs-ind-0022200580
+581,0022200581,2023-01-06,7:30 pm ET,CHI,PHI,Chicago Bulls,Philadelphia 76ers,https://www.nba.com/game/chi-vs-phi-0022200581
+582,0022200582,2023-01-06,7:30 pm ET,NYK,TOR,New York Knicks,Toronto Raptors,https://www.nba.com/game/nyk-vs-tor-0022200582
+583,0022200583,2023-01-06,8:00 pm ET,CHA,MIL,Charlotte Hornets,Milwaukee Bucks,https://www.nba.com/game/cha-vs-mil-0022200583
+584,0022200584,2023-01-06,8:00 pm ET,WAS,OKC,Washington Wizards,Oklahoma City Thunder,https://www.nba.com/game/was-vs-okc-0022200584
+585,0022200585,2023-01-06,8:00 pm ET,DET,SAS,Detroit Pistons,San Antonio Spurs,https://www.nba.com/game/det-vs-sas-0022200585
+586,0022200586,2023-01-06,8:30 pm ET,BKN,NOP,Brooklyn Nets,New Orleans Pelicans,https://www.nba.com/game/bkn-vs-nop-0022200586
+587,0022200587,2023-01-06,9:00 pm ET,LAC,MIN,LA Clippers,Minnesota Timberwolves,https://www.nba.com/game/lac-vs-min-0022200587
+588,0022200588,2023-01-06,9:00 pm ET,CLE,DEN,Cleveland Cavaliers,Denver Nuggets,https://www.nba.com/game/cle-vs-den-0022200588
+589,0022200589,2023-01-06,10:00 pm ET,MIA,PHX,Miami Heat,Phoenix Suns,https://www.nba.com/game/mia-vs-phx-0022200589
+590,0022200590,2023-01-06,10:30 pm ET,ATL,LAL,Atlanta Hawks,Los Angeles Lakers,https://www.nba.com/game/atl-vs-lal-0022200590
+591,0022200591,2023-01-07,6:00 pm ET,BOS,SAS,Boston Celtics,San Antonio Spurs,https://www.nba.com/game/bos-vs-sas-0022200591
+592,0022200592,2023-01-07,8:00 pm ET,UTA,CHI,Utah Jazz,Chicago Bulls,https://www.nba.com/game/uta-vs-chi-0022200592
+593,0022200593,2023-01-07,8:00 pm ET,NOP,DAL,New Orleans Pelicans,Dallas Mavericks,https://www.nba.com/game/nop-vs-dal-0022200593
+594,0022200594,2023-01-07,8:30 pm ET,ORL,GSW,Orlando Magic,Golden State Warriors,https://www.nba.com/game/orl-vs-gsw-0022200594
+595,0022200595,2023-01-07,10:00 pm ET,LAL,SAC,Los Angeles Lakers,Sacramento Kings,https://www.nba.com/game/lal-vs-sac-0022200595
+596,0022200596,2023-01-08,3:00 pm ET,PHI,DET,Philadelphia 76ers,Detroit Pistons,https://www.nba.com/game/phi-vs-det-0022200596
+597,0022200597,2023-01-08,3:30 pm ET,POR,TOR,Portland Trail Blazers,Toronto Raptors,https://www.nba.com/game/por-vs-tor-0022200597
+598,0022200598,2023-01-08,5:00 pm ET,CHA,IND,Charlotte Hornets,Indiana Pacers,https://www.nba.com/game/cha-vs-ind-0022200598
+599,0022200599,2023-01-08,6:00 pm ET,BKN,MIA,Brooklyn Nets,Miami Heat,https://www.nba.com/game/bkn-vs-mia-0022200599
+600,0022200600,2023-01-08,6:00 pm ET,UTA,MEM,Utah Jazz,Memphis Grizzlies,https://www.nba.com/game/uta-vs-mem-0022200600
+601,0022200601,2023-01-08,7:00 pm ET,MIN,HOU,Minnesota Timberwolves,Houston Rockets,https://www.nba.com/game/min-vs-hou-0022200601
+602,0022200602,2023-01-08,7:00 pm ET,DAL,OKC,Dallas Mavericks,Oklahoma City Thunder,https://www.nba.com/game/dal-vs-okc-0022200602
+603,0022200603,2023-01-08,8:00 pm ET,CLE,PHX,Cleveland Cavaliers,Phoenix Suns,https://www.nba.com/game/cle-vs-phx-0022200603
+604,0022200604,2023-01-08,9:00 pm ET,ATL,LAC,Atlanta Hawks,LA Clippers,https://www.nba.com/game/atl-vs-lac-0022200604
+605,0022200605,2023-01-09,7:00 pm ET,NOP,WAS,New Orleans Pelicans,Washington Wizards,https://www.nba.com/game/nop-vs-was-0022200605
+606,0022200606,2023-01-09,7:30 pm ET,CHI,BOS,Chicago Bulls,Boston Celtics,https://www.nba.com/game/chi-vs-bos-0022200606
+607,0022200607,2023-01-09,7:30 pm ET,MIL,NYK,Milwaukee Bucks,New York Knicks,https://www.nba.com/game/mil-vs-nyk-0022200607
+608,0022200608,2023-01-09,8:00 pm ET,SAS,MEM,San Antonio Spurs,Memphis Grizzlies,https://www.nba.com/game/sas-vs-mem-0022200608
+609,0022200609,2023-01-09,9:00 pm ET,LAL,DEN,Los Angeles Lakers,Denver Nuggets,https://www.nba.com/game/lal-vs-den-0022200609
+610,0022200610,2023-01-09,10:00 pm ET,ORL,SAC,Orlando Magic,Sacramento Kings,https://www.nba.com/game/orl-vs-sac-0022200610
+611,0022200611,2023-01-10,7:30 pm ET,OKC,MIA,Oklahoma City Thunder,Miami Heat,https://www.nba.com/game/okc-vs-mia-0022200611
+612,0022200612,2023-01-10,7:30 pm ET,DET,PHI,Detroit Pistons,Philadelphia 76ers,https://www.nba.com/game/det-vs-phi-0022200612
+613,0022200613,2023-01-10,7:30 pm ET,CHA,TOR,Charlotte Hornets,Toronto Raptors,https://www.nba.com/game/cha-vs-tor-0022200613
+614,0022200614,2023-01-10,9:00 pm ET,CLE,UTA,Cleveland Cavaliers,Utah Jazz,https://www.nba.com/game/cle-vs-uta-0022200614
+615,0022200615,2023-01-10,10:00 pm ET,PHX,GSW,Phoenix Suns,Golden State Warriors,https://www.nba.com/game/phx-vs-gsw-0022200615
+616,0022200616,2023-01-10,10:00 pm ET,ORL,POR,Orlando Magic,Portland Trail Blazers,https://www.nba.com/game/orl-vs-por-0022200616
+617,0022200617,2023-01-10,10:30 pm ET,DAL,LAC,Dallas Mavericks,LA Clippers,https://www.nba.com/game/dal-vs-lac-0022200617
+618,0022200618,2023-01-11,7:00 pm ET,MIN,DET,Minnesota Timberwolves,Detroit Pistons,https://www.nba.com/game/min-vs-det-0022200618
+619,0022200619,2023-01-11,7:00 pm ET,CHI,WAS,Chicago Bulls,Washington Wizards,https://www.nba.com/game/chi-vs-was-0022200619
+620,0022200620,2023-01-11,7:30 pm ET,MIL,ATL,Milwaukee Bucks,Atlanta Hawks,https://www.nba.com/game/mil-vs-atl-0022200620
+621,0022200621,2023-01-11,7:30 pm ET,NOP,BOS,New Orleans Pelicans,Boston Celtics,https://www.nba.com/game/nop-vs-bos-0022200621
+622,0022200622,2023-01-11,7:30 pm ET,IND,NYK,Indiana Pacers,New York Knicks,https://www.nba.com/game/ind-vs-nyk-0022200622
+623,0022200623,2023-01-11,8:00 pm ET,SAS,MEM,San Antonio Spurs,Memphis Grizzlies,https://www.nba.com/game/sas-vs-mem-0022200623
+624,0022200624,2023-01-11,9:00 pm ET,PHX,DEN,Phoenix Suns,Denver Nuggets,https://www.nba.com/game/phx-vs-den-0022200624
+625,0022200625,2023-01-11,10:00 pm ET,HOU,SAC,Houston Rockets,Sacramento Kings,https://www.nba.com/game/hou-vs-sac-0022200625
+626,0022200626,2023-01-12,7:00 pm ET,OKC,PHI,Oklahoma City Thunder,Philadelphia 76ers,https://www.nba.com/game/okc-vs-phi-0022200626
+627,0022200627,2023-01-12,7:30 pm ET,BOS,BKN,Boston Celtics,Brooklyn Nets,https://www.nba.com/game/bos-vs-bkn-0022200627
+628,0022200628,2023-01-12,7:30 pm ET,MIL,MIA,Milwaukee Bucks,Miami Heat,https://www.nba.com/game/mil-vs-mia-0022200628
+629,0022200629,2023-01-12,7:30 pm ET,CHA,TOR,Charlotte Hornets,Toronto Raptors,https://www.nba.com/game/cha-vs-tor-0022200629
+630,0022200630,2023-01-12,10:00 pm ET,DAL,LAL,Dallas Mavericks,Los Angeles Lakers,https://www.nba.com/game/dal-vs-lal-0022200630
+631,0022200631,2023-01-12,10:00 pm ET,CLE,POR,Cleveland Cavaliers,Portland Trail Blazers,https://www.nba.com/game/cle-vs-por-0022200631
+632,0022200632,2023-01-13,7:00 pm ET,NOP,DET,New Orleans Pelicans,Detroit Pistons,https://www.nba.com/game/nop-vs-det-0022200632
+633,0022200633,2023-01-13,7:00 pm ET,ATL,IND,Atlanta Hawks,Indiana Pacers,https://www.nba.com/game/atl-vs-ind-0022200633
+634,0022200634,2023-01-13,7:00 pm ET,NYK,WAS,New York Knicks,Washington Wizards,https://www.nba.com/game/nyk-vs-was-0022200634
+635,0022200635,2023-01-13,7:30 pm ET,GSW,SAS,Golden State Warriors,San Antonio Spurs,https://www.nba.com/game/gsw-vs-sas-0022200635
+636,0022200636,2023-01-13,8:00 pm ET,OKC,CHI,Oklahoma City Thunder,Chicago Bulls,https://www.nba.com/game/okc-vs-chi-0022200636
+637,0022200637,2023-01-13,8:00 pm ET,PHX,MIN,Phoenix Suns,Minnesota Timberwolves,https://www.nba.com/game/phx-vs-min-0022200637
+638,0022200638,2023-01-13,9:00 pm ET,ORL,UTA,Orlando Magic,Utah Jazz,https://www.nba.com/game/orl-vs-uta-0022200638
+639,0022200639,2023-01-13,10:00 pm ET,DEN,LAC,Denver Nuggets,LA Clippers,https://www.nba.com/game/den-vs-lac-0022200639
+640,0022200640,2023-01-13,10:00 pm ET,HOU,SAC,Houston Rockets,Sacramento Kings,https://www.nba.com/game/hou-vs-sac-0022200640
+641,0022200641,2023-01-14,1:00 pm ET,MIL,MIA,Milwaukee Bucks,Miami Heat,https://www.nba.com/game/mil-vs-mia-0022200641
+642,0022200642,2023-01-14,7:00 pm ET,BOS,CHA,Boston Celtics,Charlotte Hornets,https://www.nba.com/game/bos-vs-cha-0022200642
+643,0022200643,2023-01-14,7:00 pm ET,MEM,IND,Memphis Grizzlies,Indiana Pacers,https://www.nba.com/game/mem-vs-ind-0022200643
+644,0022200644,2023-01-14,7:30 pm ET,ATL,TOR,Atlanta Hawks,Toronto Raptors,https://www.nba.com/game/atl-vs-tor-0022200644
+645,0022200645,2023-01-14,8:00 pm ET,CLE,MIN,Cleveland Cavaliers,Minnesota Timberwolves,https://www.nba.com/game/cle-vs-min-0022200645
+646,0022200646,2023-01-14,9:00 pm ET,PHI,UTA,Philadelphia 76ers,Utah Jazz,https://www.nba.com/game/phi-vs-uta-0022200646
+647,0022200647,2023-01-14,10:00 pm ET,DAL,POR,Dallas Mavericks,Portland Trail Blazers,https://www.nba.com/game/dal-vs-por-0022200647
+648,0022200648,2023-01-15,1:00 pm ET,NYK,DET,New York Knicks,Detroit Pistons,https://www.nba.com/game/nyk-vs-det-0022200648
+649,0022200649,2023-01-15,3:00 pm ET,HOU,LAC,Houston Rockets,LA Clippers,https://www.nba.com/game/hou-vs-lac-0022200649
+650,0022200650,2023-01-15,3:30 pm ET,GSW,CHI,Golden State Warriors,Chicago Bulls,https://www.nba.com/game/gsw-vs-chi-0022200650
+651,0022200651,2023-01-15,6:00 pm ET,OKC,BKN,Oklahoma City Thunder,Brooklyn Nets,https://www.nba.com/game/okc-vs-bkn-0022200651
+652,0022200652,2023-01-15,7:00 pm ET,SAC,SAS,Sacramento Kings,San Antonio Spurs,https://www.nba.com/game/sac-vs-sas-0022200652
+653,0022200653,2023-01-15,8:00 pm ET,ORL,DEN,Orlando Magic,Denver Nuggets,https://www.nba.com/game/orl-vs-den-0022200653
+654,0022200654,2023-01-15,9:00 pm ET,DAL,POR,Dallas Mavericks,Portland Trail Blazers,https://www.nba.com/game/dal-vs-por-0022200654
+655,0022200655,2023-01-15,9:30 pm ET,PHI,LAL,Philadelphia 76ers,Los Angeles Lakers,https://www.nba.com/game/phi-vs-lal-0022200655
+656,0022200656,2023-01-16,1:00 pm ET,BOS,CHA,Boston Celtics,Charlotte Hornets,https://www.nba.com/game/bos-vs-cha-0022200656
+657,0022200657,2023-01-16,2:30 pm ET,IND,MIL,Indiana Pacers,Milwaukee Bucks,https://www.nba.com/game/ind-vs-mil-0022200657
+658,0022200658,2023-01-16,3:00 pm ET,NOP,CLE,New Orleans Pelicans,Cleveland Cavaliers,https://www.nba.com/game/nop-vs-cle-0022200658
+659,0022200659,2023-01-16,3:00 pm ET,TOR,NYK,Toronto Raptors,New York Knicks,https://www.nba.com/game/tor-vs-nyk-0022200659
+660,0022200660,2023-01-16,3:00 pm ET,GSW,WAS,Golden State Warriors,Washington Wizards,https://www.nba.com/game/gsw-vs-was-0022200660
+661,0022200661,2023-01-16,3:30 pm ET,MIA,ATL,Miami Heat,Atlanta Hawks,https://www.nba.com/game/mia-vs-atl-0022200661
+662,0022200662,2023-01-16,4:00 pm ET,UTA,MIN,Utah Jazz,Minnesota Timberwolves,https://www.nba.com/game/uta-vs-min-0022200662
+663,0022200663,2023-01-16,6:00 pm ET,PHX,MEM,Phoenix Suns,Memphis Grizzlies,https://www.nba.com/game/phx-vs-mem-0022200663
+664,0022200664,2023-01-16,10:30 pm ET,HOU,LAL,Houston Rockets,Los Angeles Lakers,https://www.nba.com/game/hou-vs-lal-0022200664
+665,0022200665,2023-01-17,7:30 pm ET,TOR,MIL,Toronto Raptors,Milwaukee Bucks,https://www.nba.com/game/tor-vs-mil-0022200665
+666,0022200666,2023-01-17,8:00 pm ET,BKN,SAS,Brooklyn Nets,San Antonio Spurs,https://www.nba.com/game/bkn-vs-sas-0022200666
+667,0022200667,2023-01-17,9:00 pm ET,POR,DEN,Portland Trail Blazers,Denver Nuggets,https://www.nba.com/game/por-vs-den-0022200667
+668,0022200668,2023-01-17,10:00 pm ET,PHI,LAC,Philadelphia 76ers,LA Clippers,https://www.nba.com/game/phi-vs-lac-0022200668
+669,0022200669,2023-01-18,7:30 pm ET,WAS,NYK,Washington Wizards,New York Knicks,https://www.nba.com/game/was-vs-nyk-0022200669
+670,0022200670,2023-01-18,7:30 pm ET,ATL,DAL,Atlanta Hawks,Dallas Mavericks,https://www.nba.com/game/atl-vs-dal-0022200670
+671,0022200671,2023-01-18,8:00 pm ET,CHA,HOU,Charlotte Hornets,Houston Rockets,https://www.nba.com/game/cha-vs-hou-0022200671
+672,0022200672,2023-01-18,8:00 pm ET,CLE,MEM,Cleveland Cavaliers,Memphis Grizzlies,https://www.nba.com/game/cle-vs-mem-0022200672
+673,0022200673,2023-01-18,8:00 pm ET,MIA,NOP,Miami Heat,New Orleans Pelicans,https://www.nba.com/game/mia-vs-nop-0022200673
+674,0022200674,2023-01-18,8:00 pm ET,IND,OKC,Indiana Pacers,Oklahoma City Thunder,https://www.nba.com/game/ind-vs-okc-0022200674
+675,0022200675,2023-01-18,9:00 pm ET,LAC,UTA,LA Clippers,Utah Jazz,https://www.nba.com/game/lac-vs-uta-0022200675
+676,0022200676,2023-01-18,10:00 pm ET,MIN,DEN,Minnesota Timberwolves,Denver Nuggets,https://www.nba.com/game/min-vs-den-0022200676
+677,0022200677,2023-01-18,10:30 pm ET,SAC,LAL,Sacramento Kings,Los Angeles Lakers,https://www.nba.com/game/sac-vs-lal-0022200677
+678,0022200678,2023-01-19,3:00 pm ET,CHI,DET,Chicago Bulls,Detroit Pistons,https://www.nba.com/game/chi-vs-det-0022200678
+679,0022200679,2023-01-19,7:30 pm ET,GSW,BOS,Golden State Warriors,Boston Celtics,https://www.nba.com/game/gsw-vs-bos-0022200679
+680,0022200680,2023-01-19,8:00 pm ET,TOR,MIN,Toronto Raptors,Minnesota Timberwolves,https://www.nba.com/game/tor-vs-min-0022200680
+681,0022200681,2023-01-19,10:00 pm ET,BKN,PHX,Brooklyn Nets,Phoenix Suns,https://www.nba.com/game/bkn-vs-phx-0022200681
+682,0022200682,2023-01-19,10:00 pm ET,PHI,POR,Philadelphia 76ers,Portland Trail Blazers,https://www.nba.com/game/phi-vs-por-0022200682
+683,0022200683,2023-01-20,7:00 pm ET,NOP,ORL,New Orleans Pelicans,Orlando Magic,https://www.nba.com/game/nop-vs-orl-0022200683
+684,0022200684,2023-01-20,7:30 pm ET,NYK,ATL,New York Knicks,Atlanta Hawks,https://www.nba.com/game/nyk-vs-atl-0022200684
+685,0022200685,2023-01-20,7:30 pm ET,GSW,CLE,Golden State Warriors,Cleveland Cavaliers,https://www.nba.com/game/gsw-vs-cle-0022200685
+686,0022200686,2023-01-20,7:30 pm ET,MIA,DAL,Miami Heat,Dallas Mavericks,https://www.nba.com/game/mia-vs-dal-0022200686
+687,0022200687,2023-01-20,8:00 pm ET,LAC,SAS,LA Clippers,San Antonio Spurs,https://www.nba.com/game/lac-vs-sas-0022200687
+688,0022200688,2023-01-20,9:00 pm ET,IND,DEN,Indiana Pacers,Denver Nuggets,https://www.nba.com/game/ind-vs-den-0022200688
+689,0022200689,2023-01-20,9:00 pm ET,BKN,UTA,Brooklyn Nets,Utah Jazz,https://www.nba.com/game/bkn-vs-uta-0022200689
+690,0022200690,2023-01-20,10:00 pm ET,MEM,LAL,Memphis Grizzlies,Los Angeles Lakers,https://www.nba.com/game/mem-vs-lal-0022200690
+691,0022200691,2023-01-20,10:00 pm ET,OKC,SAC,Oklahoma City Thunder,Sacramento Kings,https://www.nba.com/game/okc-vs-sac-0022200691
+692,0022200692,2023-01-21,5:00 pm ET,BOS,TOR,Boston Celtics,Toronto Raptors,https://www.nba.com/game/bos-vs-tor-0022200692
+693,0022200693,2023-01-21,7:00 pm ET,ORL,WAS,Orlando Magic,Washington Wizards,https://www.nba.com/game/orl-vs-was-0022200693
+694,0022200694,2023-01-21,7:30 pm ET,CHA,ATL,Charlotte Hornets,Atlanta Hawks,https://www.nba.com/game/cha-vs-atl-0022200694
+695,0022200695,2023-01-21,7:30 pm ET,MIL,CLE,Milwaukee Bucks,Cleveland Cavaliers,https://www.nba.com/game/mil-vs-cle-0022200695
+696,0022200696,2023-01-21,8:00 pm ET,HOU,MIN,Houston Rockets,Minnesota Timberwolves,https://www.nba.com/game/hou-vs-min-0022200696
+697,0022200697,2023-01-21,9:00 pm ET,IND,PHX,Indiana Pacers,Phoenix Suns,https://www.nba.com/game/ind-vs-phx-0022200697
+698,0022200698,2023-01-21,10:00 pm ET,PHI,SAC,Philadelphia 76ers,Sacramento Kings,https://www.nba.com/game/phi-vs-sac-0022200698
+699,0022200699,2023-01-22,3:30 pm ET,NOP,MIA,New Orleans Pelicans,Miami Heat,https://www.nba.com/game/nop-vs-mia-0022200699
+700,0022200700,2023-01-22,6:00 pm ET,NYK,TOR,New York Knicks,Toronto Raptors,https://www.nba.com/game/nyk-vs-tor-0022200700
+701,0022200701,2023-01-22,7:30 pm ET,LAC,DAL,LA Clippers,Dallas Mavericks,https://www.nba.com/game/lac-vs-dal-0022200701
+702,0022200702,2023-01-22,8:00 pm ET,OKC,DEN,Oklahoma City Thunder,Denver Nuggets,https://www.nba.com/game/okc-vs-den-0022200702
+703,0022200703,2023-01-22,8:00 pm ET,MEM,PHX,Memphis Grizzlies,Phoenix Suns,https://www.nba.com/game/mem-vs-phx-0022200703
+704,0022200704,2023-01-22,8:30 pm ET,BKN,GSW,Brooklyn Nets,Golden State Warriors,https://www.nba.com/game/bkn-vs-gsw-0022200704
+705,0022200705,2023-01-22,9:00 pm ET,LAL,POR,Los Angeles Lakers,Portland Trail Blazers,https://www.nba.com/game/lal-vs-por-0022200705
+706,0022200706,2023-01-23,7:00 pm ET,MIL,DET,Milwaukee Bucks,Detroit Pistons,https://www.nba.com/game/mil-vs-det-0022200706
+707,0022200707,2023-01-23,7:00 pm ET,BOS,ORL,Boston Celtics,Orlando Magic,https://www.nba.com/game/bos-vs-orl-0022200707
+708,0022200708,2023-01-23,8:00 pm ET,ATL,CHI,Atlanta Hawks,Chicago Bulls,https://www.nba.com/game/atl-vs-chi-0022200708
+709,0022200709,2023-01-23,8:00 pm ET,MIN,HOU,Minnesota Timberwolves,Houston Rockets,https://www.nba.com/game/min-vs-hou-0022200709
+710,0022200710,2023-01-23,9:00 pm ET,CHA,UTA,Charlotte Hornets,Utah Jazz,https://www.nba.com/game/cha-vs-uta-0022200710
+711,0022200711,2023-01-23,10:00 pm ET,SAS,POR,San Antonio Spurs,Portland Trail Blazers,https://www.nba.com/game/sas-vs-por-0022200711
+712,0022200712,2023-01-23,10:30 pm ET,MEM,SAC,Memphis Grizzlies,Sacramento Kings,https://www.nba.com/game/mem-vs-sac-0022200712
+713,0022200713,2023-01-24,7:00 pm ET,CHI,IND,Chicago Bulls,Indiana Pacers,https://www.nba.com/game/chi-vs-ind-0022200713
+714,0022200714,2023-01-24,7:30 pm ET,BOS,MIA,Boston Celtics,Miami Heat,https://www.nba.com/game/bos-vs-mia-0022200714
+715,0022200715,2023-01-24,7:30 pm ET,CLE,NYK,Cleveland Cavaliers,New York Knicks,https://www.nba.com/game/cle-vs-nyk-0022200715
+716,0022200716,2023-01-24,8:00 pm ET,DEN,NOP,Denver Nuggets,New Orleans Pelicans,https://www.nba.com/game/den-vs-nop-0022200716
+717,0022200717,2023-01-24,8:30 pm ET,WAS,DAL,Washington Wizards,Dallas Mavericks,https://www.nba.com/game/was-vs-dal-0022200717
+718,0022200718,2023-01-24,9:00 pm ET,CHA,PHX,Charlotte Hornets,Phoenix Suns,https://www.nba.com/game/cha-vs-phx-0022200718
+719,0022200719,2023-01-24,10:00 pm ET,LAC,LAL,LA Clippers,Los Angeles Lakers,https://www.nba.com/game/lac-vs-lal-0022200719
+720,0022200720,2023-01-25,7:00 pm ET,IND,ORL,Indiana Pacers,Orlando Magic,https://www.nba.com/game/ind-vs-orl-0022200720
+721,0022200721,2023-01-25,7:30 pm ET,BKN,PHI,Brooklyn Nets,Philadelphia 76ers,https://www.nba.com/game/bkn-vs-phi-0022200721
+722,0022200722,2023-01-25,8:00 pm ET,WAS,HOU,Washington Wizards,Houston Rockets,https://www.nba.com/game/was-vs-hou-0022200722
+723,0022200723,2023-01-25,8:00 pm ET,DEN,MIL,Denver Nuggets,Milwaukee Bucks,https://www.nba.com/game/den-vs-mil-0022200723
+724,0022200724,2023-01-25,8:00 pm ET,MIN,NOP,Minnesota Timberwolves,New Orleans Pelicans,https://www.nba.com/game/min-vs-nop-0022200724
+725,0022200725,2023-01-25,8:00 pm ET,ATL,OKC,Atlanta Hawks,Oklahoma City Thunder,https://www.nba.com/game/atl-vs-okc-0022200725
+726,0022200726,2023-01-25,10:00 pm ET,MEM,GSW,Memphis Grizzlies,Golden State Warriors,https://www.nba.com/game/mem-vs-gsw-0022200726
+727,0022200727,2023-01-25,10:00 pm ET,UTA,POR,Utah Jazz,Portland Trail Blazers,https://www.nba.com/game/uta-vs-por-0022200727
+728,0022200728,2023-01-25,10:00 pm ET,TOR,SAC,Toronto Raptors,Sacramento Kings,https://www.nba.com/game/tor-vs-sac-0022200728
+729,0022200729,2023-01-25,10:30 pm ET,SAS,LAL,San Antonio Spurs,Los Angeles Lakers,https://www.nba.com/game/sas-vs-lal-0022200729
+730,0022200730,2023-01-26,7:30 pm ET,NYK,BOS,New York Knicks,Boston Celtics,https://www.nba.com/game/nyk-vs-bos-0022200730
+731,0022200731,2023-01-26,7:30 pm ET,DET,BKN,Detroit Pistons,Brooklyn Nets,https://www.nba.com/game/det-vs-bkn-0022200731
+732,0022200732,2023-01-26,7:30 pm ET,CHI,CHA,Chicago Bulls,Charlotte Hornets,https://www.nba.com/game/chi-vs-cha-0022200732
+733,0022200733,2023-01-26,8:00 pm ET,CLE,HOU,Cleveland Cavaliers,Houston Rockets,https://www.nba.com/game/cle-vs-hou-0022200733
+734,0022200734,2023-01-26,10:00 pm ET,DAL,PHX,Dallas Mavericks,Phoenix Suns,https://www.nba.com/game/dal-vs-phx-0022200734
+735,0022200735,2023-01-26,10:30 pm ET,SAS,LAC,San Antonio Spurs,LA Clippers,https://www.nba.com/game/sas-vs-lac-0022200735
+736,0022200736,2023-01-27,7:00 pm ET,MIL,IND,Milwaukee Bucks,Indiana Pacers,https://www.nba.com/game/mil-vs-ind-0022200736
+737,0022200737,2023-01-27,7:30 pm ET,MEM,MIN,Memphis Grizzlies,Minnesota Timberwolves,https://www.nba.com/game/mem-vs-min-0022200737
+738,0022200738,2023-01-27,8:00 pm ET,ORL,MIA,Orlando Magic,Miami Heat,https://www.nba.com/game/orl-vs-mia-0022200738
+739,0022200739,2023-01-27,8:00 pm ET,CLE,OKC,Cleveland Cavaliers,Oklahoma City Thunder,https://www.nba.com/game/cle-vs-okc-0022200739
+740,0022200740,2023-01-27,10:00 pm ET,TOR,GSW,Toronto Raptors,Golden State Warriors,https://www.nba.com/game/tor-vs-gsw-0022200740
+741,0022200741,2023-01-28,3:00 pm ET,DEN,PHI,Denver Nuggets,Philadelphia 76ers,https://www.nba.com/game/den-vs-phi-0022200741
+742,0022200742,2023-01-28,5:30 pm ET,NYK,BKN,New York Knicks,Brooklyn Nets,https://www.nba.com/game/nyk-vs-bkn-0022200742
+743,0022200743,2023-01-28,7:00 pm ET,HOU,DET,Houston Rockets,Detroit Pistons,https://www.nba.com/game/hou-vs-det-0022200743
+744,0022200744,2023-01-28,7:00 pm ET,CHI,ORL,Chicago Bulls,Orlando Magic,https://www.nba.com/game/chi-vs-orl-0022200744
+745,0022200745,2023-01-28,7:30 pm ET,LAC,ATL,LA Clippers,Atlanta Hawks,https://www.nba.com/game/lac-vs-atl-0022200745
+746,0022200746,2023-01-28,8:00 pm ET,SAC,MIN,Sacramento Kings,Minnesota Timberwolves,https://www.nba.com/game/sac-vs-min-0022200746
+747,0022200747,2023-01-28,8:00 pm ET,WAS,NOP,Washington Wizards,New Orleans Pelicans,https://www.nba.com/game/was-vs-nop-0022200747
+748,0022200748,2023-01-28,8:00 pm ET,PHX,SAS,Phoenix Suns,San Antonio Spurs,https://www.nba.com/game/phx-vs-sas-0022200748
+749,0022200749,2023-01-28,8:30 pm ET,LAL,BOS,Los Angeles Lakers,Boston Celtics,https://www.nba.com/game/lal-vs-bos-0022200749
+750,0022200750,2023-01-28,9:00 pm ET,DAL,UTA,Dallas Mavericks,Utah Jazz,https://www.nba.com/game/dal-vs-uta-0022200750
+751,0022200751,2023-01-28,10:00 pm ET,TOR,POR,Toronto Raptors,Portland Trail Blazers,https://www.nba.com/game/tor-vs-por-0022200751
+752,0022200752,2023-01-29,1:00 pm ET,MIA,CHA,Miami Heat,Charlotte Hornets,https://www.nba.com/game/mia-vs-cha-0022200752
+753,0022200753,2023-01-29,6:00 pm ET,IND,MEM,Indiana Pacers,Memphis Grizzlies,https://www.nba.com/game/ind-vs-mem-0022200753
+754,0022200754,2023-01-29,7:00 pm ET,LAC,CLE,LA Clippers,Cleveland Cavaliers,https://www.nba.com/game/lac-vs-cle-0022200754
+755,0022200755,2023-01-29,8:00 pm ET,NOP,MIL,New Orleans Pelicans,Milwaukee Bucks,https://www.nba.com/game/nop-vs-mil-0022200755
+756,0022200756,2023-01-30,7:00 pm ET,ORL,PHI,Orlando Magic,Philadelphia 76ers,https://www.nba.com/game/orl-vs-phi-0022200756
+757,0022200757,2023-01-30,7:30 pm ET,LAL,BKN,Los Angeles Lakers,Brooklyn Nets,https://www.nba.com/game/lal-vs-bkn-0022200757
+758,0022200758,2023-01-30,8:00 pm ET,SAC,MIN,Sacramento Kings,Minnesota Timberwolves,https://www.nba.com/game/sac-vs-min-0022200758
+759,0022200759,2023-01-30,8:00 pm ET,GSW,OKC,Golden State Warriors,Oklahoma City Thunder,https://www.nba.com/game/gsw-vs-okc-0022200759
+760,0022200760,2023-01-30,8:00 pm ET,WAS,SAS,Washington Wizards,San Antonio Spurs,https://www.nba.com/game/was-vs-sas-0022200760
+761,0022200761,2023-01-30,8:30 pm ET,DET,DAL,Detroit Pistons,Dallas Mavericks,https://www.nba.com/game/det-vs-dal-0022200761
+762,0022200762,2023-01-30,9:00 pm ET,TOR,PHX,Toronto Raptors,Phoenix Suns,https://www.nba.com/game/tor-vs-phx-0022200762
+763,0022200763,2023-01-30,10:00 pm ET,ATL,POR,Atlanta Hawks,Portland Trail Blazers,https://www.nba.com/game/atl-vs-por-0022200763
+764,0022200764,2023-01-31,7:00 pm ET,MIA,CLE,Miami Heat,Cleveland Cavaliers,https://www.nba.com/game/mia-vs-cle-0022200764
+765,0022200765,2023-01-31,7:30 pm ET,LAL,NYK,Los Angeles Lakers,New York Knicks,https://www.nba.com/game/lal-vs-nyk-0022200765
+766,0022200766,2023-01-31,8:00 pm ET,LAC,CHI,LA Clippers,Chicago Bulls,https://www.nba.com/game/lac-vs-chi-0022200766
+767,0022200767,2023-01-31,8:00 pm ET,CHA,MIL,Charlotte Hornets,Milwaukee Bucks,https://www.nba.com/game/cha-vs-mil-0022200767
+768,0022200768,2023-01-31,10:00 pm ET,NOP,DEN,New Orleans Pelicans,Denver Nuggets,https://www.nba.com/game/nop-vs-den-0022200768
+769,0022200769,2023-02-01,7:00 pm ET,WAS,DET,Washington Wizards,Detroit Pistons,https://www.nba.com/game/was-vs-det-0022200769
+770,0022200770,2023-02-01,7:00 pm ET,ORL,PHI,Orlando Magic,Philadelphia 76ers,https://www.nba.com/game/orl-vs-phi-0022200770
+771,0022200771,2023-02-01,7:00 pm ET,POR,MEM,Portland Trail Blazers,Memphis Grizzlies,https://www.nba.com/game/por-vs-mem-0022200771
+772,0022200772,2023-02-01,7:30 pm ET,BKN,BOS,Brooklyn Nets,Boston Celtics,https://www.nba.com/game/bkn-vs-bos-0022200772
+773,0022200773,2023-02-01,8:00 pm ET,OKC,HOU,Oklahoma City Thunder,Houston Rockets,https://www.nba.com/game/okc-vs-hou-0022200773
+774,0022200774,2023-02-01,8:00 pm ET,GSW,MIN,Golden State Warriors,Minnesota Timberwolves,https://www.nba.com/game/gsw-vs-min-0022200774
+775,0022200775,2023-02-01,8:00 pm ET,SAC,SAS,Sacramento Kings,San Antonio Spurs,https://www.nba.com/game/sac-vs-sas-0022200775
+776,0022200776,2023-02-01,9:00 pm ET,TOR,UTA,Toronto Raptors,Utah Jazz,https://www.nba.com/game/tor-vs-uta-0022200776
+777,0022200777,2023-02-01,10:00 pm ET,ATL,PHX,Atlanta Hawks,Phoenix Suns,https://www.nba.com/game/atl-vs-phx-0022200777
+778,0022200778,2023-02-02,7:00 pm ET,LAL,IND,Los Angeles Lakers,Indiana Pacers,https://www.nba.com/game/lal-vs-ind-0022200778
+779,0022200779,2023-02-02,7:30 pm ET,MEM,CLE,Memphis Grizzlies,Cleveland Cavaliers,https://www.nba.com/game/mem-vs-cle-0022200779
+780,0022200780,2023-02-02,7:30 pm ET,MIA,NYK,Miami Heat,New York Knicks,https://www.nba.com/game/mia-vs-nyk-0022200780
+781,0022200781,2023-02-02,8:00 pm ET,CHA,CHI,Charlotte Hornets,Chicago Bulls,https://www.nba.com/game/cha-vs-chi-0022200781
+782,0022200782,2023-02-02,8:30 pm ET,NOP,DAL,New Orleans Pelicans,Dallas Mavericks,https://www.nba.com/game/nop-vs-dal-0022200782
+783,0022200783,2023-02-02,9:00 pm ET,GSW,DEN,Golden State Warriors,Denver Nuggets,https://www.nba.com/game/gsw-vs-den-0022200783
+784,0022200784,2023-02-02,10:00 pm ET,LAC,MIL,LA Clippers,Milwaukee Bucks,https://www.nba.com/game/lac-vs-mil-0022200784
+785,0022200785,2023-02-03,7:00 pm ET,CHA,DET,Charlotte Hornets,Detroit Pistons,https://www.nba.com/game/cha-vs-det-0022200785
+786,0022200786,2023-02-03,7:00 pm ET,SAC,IND,Sacramento Kings,Indiana Pacers,https://www.nba.com/game/sac-vs-ind-0022200786
+787,0022200787,2023-02-03,7:00 pm ET,POR,WAS,Portland Trail Blazers,Washington Wizards,https://www.nba.com/game/por-vs-was-0022200787
+788,0022200788,2023-02-03,7:30 pm ET,PHX,BOS,Phoenix Suns,Boston Celtics,https://www.nba.com/game/phx-vs-bos-0022200788
+789,0022200789,2023-02-03,8:00 pm ET,TOR,HOU,Toronto Raptors,Houston Rockets,https://www.nba.com/game/tor-vs-hou-0022200789
+790,0022200790,2023-02-03,8:00 pm ET,ORL,MIN,Orlando Magic,Minnesota Timberwolves,https://www.nba.com/game/orl-vs-min-0022200790
+791,0022200791,2023-02-03,8:00 pm ET,PHI,SAS,Philadelphia 76ers,San Antonio Spurs,https://www.nba.com/game/phi-vs-sas-0022200791
+792,0022200792,2023-02-03,9:00 pm ET,ATL,UTA,Atlanta Hawks,Utah Jazz,https://www.nba.com/game/atl-vs-uta-0022200792
+793,0022200793,2023-02-04,6:00 pm ET,WAS,BKN,Washington Wizards,Brooklyn Nets,https://www.nba.com/game/was-vs-bkn-0022200793
+794,0022200794,2023-02-04,7:00 pm ET,PHX,DET,Phoenix Suns,Detroit Pistons,https://www.nba.com/game/phx-vs-det-0022200794
+795,0022200795,2023-02-04,7:00 pm ET,LAC,NYK,LA Clippers,New York Knicks,https://www.nba.com/game/lac-vs-nyk-0022200795
+796,0022200796,2023-02-04,8:00 pm ET,POR,CHI,Portland Trail Blazers,Chicago Bulls,https://www.nba.com/game/por-vs-chi-0022200796
+797,0022200797,2023-02-04,8:00 pm ET,MIA,MIL,Miami Heat,Milwaukee Bucks,https://www.nba.com/game/mia-vs-mil-0022200797
+798,0022200798,2023-02-04,8:00 pm ET,LAL,NOP,Los Angeles Lakers,New Orleans Pelicans,https://www.nba.com/game/lal-vs-nop-0022200798
+799,0022200799,2023-02-04,8:00 pm ET,HOU,OKC,Houston Rockets,Oklahoma City Thunder,https://www.nba.com/game/hou-vs-okc-0022200799
+800,0022200800,2023-02-04,8:30 pm ET,DAL,GSW,Dallas Mavericks,Golden State Warriors,https://www.nba.com/game/dal-vs-gsw-0022200800
+801,0022200801,2023-02-04,9:00 pm ET,ATL,DEN,Atlanta Hawks,Denver Nuggets,https://www.nba.com/game/atl-vs-den-0022200801
+802,0022200802,2023-02-05,1:00 pm ET,ORL,CHA,Orlando Magic,Charlotte Hornets,https://www.nba.com/game/orl-vs-cha-0022200802
+803,0022200803,2023-02-05,5:00 pm ET,CLE,IND,Cleveland Cavaliers,Indiana Pacers,https://www.nba.com/game/cle-vs-ind-0022200803
+804,0022200804,2023-02-05,6:00 pm ET,PHI,NYK,Philadelphia 76ers,New York Knicks,https://www.nba.com/game/phi-vs-nyk-0022200804
+805,0022200805,2023-02-05,6:00 pm ET,TOR,MEM,Toronto Raptors,Memphis Grizzlies,https://www.nba.com/game/tor-vs-mem-0022200805
+806,0022200806,2023-02-05,7:00 pm ET,DEN,MIN,Denver Nuggets,Minnesota Timberwolves,https://www.nba.com/game/den-vs-min-0022200806
+807,0022200807,2023-02-05,7:00 pm ET,SAC,NOP,Sacramento Kings,New Orleans Pelicans,https://www.nba.com/game/sac-vs-nop-0022200807
+808,0022200808,2023-02-06,7:00 pm ET,BOS,DET,Boston Celtics,Detroit Pistons,https://www.nba.com/game/bos-vs-det-0022200808
+809,0022200809,2023-02-06,7:00 pm ET,CLE,WAS,Cleveland Cavaliers,Washington Wizards,https://www.nba.com/game/cle-vs-was-0022200809
+810,0022200810,2023-02-06,7:30 pm ET,LAC,BKN,LA Clippers,Brooklyn Nets,https://www.nba.com/game/lac-vs-bkn-0022200810
+811,0022200811,2023-02-06,8:00 pm ET,SAS,CHI,San Antonio Spurs,Chicago Bulls,https://www.nba.com/game/sas-vs-chi-0022200811
+812,0022200812,2023-02-06,8:00 pm ET,SAC,HOU,Sacramento Kings,Houston Rockets,https://www.nba.com/game/sac-vs-hou-0022200812
+813,0022200813,2023-02-06,9:00 pm ET,DAL,UTA,Dallas Mavericks,Utah Jazz,https://www.nba.com/game/dal-vs-uta-0022200813
+814,0022200814,2023-02-06,10:00 pm ET,OKC,GSW,Oklahoma City Thunder,Golden State Warriors,https://www.nba.com/game/okc-vs-gsw-0022200814
+815,0022200815,2023-02-06,10:00 pm ET,MIL,POR,Milwaukee Bucks,Portland Trail Blazers,https://www.nba.com/game/mil-vs-por-0022200815
+816,0022200816,2023-02-07,7:00 pm ET,NYK,ORL,New York Knicks,Orlando Magic,https://www.nba.com/game/nyk-vs-orl-0022200816
+817,0022200817,2023-02-07,7:30 pm ET,PHX,BKN,Phoenix Suns,Brooklyn Nets,https://www.nba.com/game/phx-vs-bkn-0022200817
+818,0022200818,2023-02-07,7:30 pm ET,ATL,NOP,Atlanta Hawks,New Orleans Pelicans,https://www.nba.com/game/atl-vs-nop-0022200818
+819,0022200819,2023-02-07,8:00 pm ET,CHI,MEM,Chicago Bulls,Memphis Grizzlies,https://www.nba.com/game/chi-vs-mem-0022200819
+820,0022200820,2023-02-07,10:00 pm ET,MIN,DEN,Minnesota Timberwolves,Denver Nuggets,https://www.nba.com/game/min-vs-den-0022200820
+821,0022200821,2023-02-07,10:30 pm ET,OKC,LAL,Oklahoma City Thunder,Los Angeles Lakers,https://www.nba.com/game/okc-vs-lal-0022200821
+822,0022200822,2023-02-08,7:00 pm ET,DET,CLE,Detroit Pistons,Cleveland Cavaliers,https://www.nba.com/game/det-vs-cle-0022200822
+823,0022200823,2023-02-08,7:00 pm ET,CHA,WAS,Charlotte Hornets,Washington Wizards,https://www.nba.com/game/cha-vs-was-0022200823
+824,0022200824,2023-02-08,7:30 pm ET,PHI,BOS,Philadelphia 76ers,Boston Celtics,https://www.nba.com/game/phi-vs-bos-0022200824
+825,0022200825,2023-02-08,7:30 pm ET,IND,MIA,Indiana Pacers,Miami Heat,https://www.nba.com/game/ind-vs-mia-0022200825
+826,0022200826,2023-02-08,7:30 pm ET,SAS,TOR,San Antonio Spurs,Toronto Raptors,https://www.nba.com/game/sas-vs-tor-0022200826
+827,0022200827,2023-02-08,8:00 pm ET,SAC,HOU,Sacramento Kings,Houston Rockets,https://www.nba.com/game/sac-vs-hou-0022200827
+828,0022200828,2023-02-08,9:00 pm ET,MIN,UTA,Minnesota Timberwolves,Utah Jazz,https://www.nba.com/game/min-vs-uta-0022200828
+829,0022200829,2023-02-08,10:00 pm ET,DAL,LAC,Dallas Mavericks,LA Clippers,https://www.nba.com/game/dal-vs-lac-0022200829
+830,0022200830,2023-02-08,10:00 pm ET,GSW,POR,Golden State Warriors,Portland Trail Blazers,https://www.nba.com/game/gsw-vs-por-0022200830
+831,0022200831,2023-02-09,7:00 pm ET,DEN,ORL,Denver Nuggets,Orlando Magic,https://www.nba.com/game/den-vs-orl-0022200831
+832,0022200832,2023-02-09,7:30 pm ET,PHX,ATL,Phoenix Suns,Atlanta Hawks,https://www.nba.com/game/phx-vs-atl-0022200832
+833,0022200833,2023-02-09,7:30 pm ET,CHI,BKN,Chicago Bulls,Brooklyn Nets,https://www.nba.com/game/chi-vs-bkn-0022200833
+834,0022200834,2023-02-09,10:00 pm ET,MIL,LAL,Milwaukee Bucks,Los Angeles Lakers,https://www.nba.com/game/mil-vs-lal-0022200834
+835,0022200835,2023-02-10,7:00 pm ET,SAS,DET,San Antonio Spurs,Detroit Pistons,https://www.nba.com/game/sas-vs-det-0022200835
+836,0022200836,2023-02-10,7:00 pm ET,PHX,IND,Phoenix Suns,Indiana Pacers,https://www.nba.com/game/phx-vs-ind-0022200836
+837,0022200837,2023-02-10,7:00 pm ET,NYK,PHI,New York Knicks,Philadelphia 76ers,https://www.nba.com/game/nyk-vs-phi-0022200837
+838,0022200838,2023-02-10,7:30 pm ET,CHA,BOS,Charlotte Hornets,Boston Celtics,https://www.nba.com/game/cha-vs-bos-0022200838
+839,0022200839,2023-02-10,7:30 pm ET,UTA,TOR,Utah Jazz,Toronto Raptors,https://www.nba.com/game/uta-vs-tor-0022200839
+840,0022200840,2023-02-10,8:00 pm ET,HOU,MIA,Houston Rockets,Miami Heat,https://www.nba.com/game/hou-vs-mia-0022200840
+841,0022200841,2023-02-10,8:00 pm ET,MIN,MEM,Minnesota Timberwolves,Memphis Grizzlies,https://www.nba.com/game/min-vs-mem-0022200841
+842,0022200842,2023-02-10,10:00 pm ET,CLE,NOP,Cleveland Cavaliers,New Orleans Pelicans,https://www.nba.com/game/cle-vs-nop-0022200842
+843,0022200843,2023-02-10,10:00 pm ET,OKC,POR,Oklahoma City Thunder,Portland Trail Blazers,https://www.nba.com/game/okc-vs-por-0022200843
+844,0022200844,2023-02-10,10:00 pm ET,DAL,SAC,Dallas Mavericks,Sacramento Kings,https://www.nba.com/game/dal-vs-sac-0022200844
+845,0022200845,2023-02-10,10:30 pm ET,MIL,LAC,Milwaukee Bucks,LA Clippers,https://www.nba.com/game/mil-vs-lac-0022200845
+846,0022200846,2023-02-11,6:00 pm ET,PHI,BKN,Philadelphia 76ers,Brooklyn Nets,https://www.nba.com/game/phi-vs-bkn-0022200846
+847,0022200847,2023-02-11,7:00 pm ET,DEN,CHA,Denver Nuggets,Charlotte Hornets,https://www.nba.com/game/den-vs-cha-0022200847
+848,0022200848,2023-02-11,7:00 pm ET,MIA,ORL,Miami Heat,Orlando Magic,https://www.nba.com/game/mia-vs-orl-0022200848
+849,0022200849,2023-02-11,7:00 pm ET,IND,WAS,Indiana Pacers,Washington Wizards,https://www.nba.com/game/ind-vs-was-0022200849
+850,0022200850,2023-02-11,7:30 pm ET,SAS,ATL,San Antonio Spurs,Atlanta Hawks,https://www.nba.com/game/sas-vs-atl-0022200850
+851,0022200851,2023-02-11,7:30 pm ET,UTA,NYK,Utah Jazz,New York Knicks,https://www.nba.com/game/uta-vs-nyk-0022200851
+852,0022200852,2023-02-11,8:00 pm ET,CHI,CLE,Chicago Bulls,Cleveland Cavaliers,https://www.nba.com/game/chi-vs-cle-0022200852
+853,0022200853,2023-02-11,8:30 pm ET,LAL,GSW,Los Angeles Lakers,Golden State Warriors,https://www.nba.com/game/lal-vs-gsw-0022200853
+854,0022200854,2023-02-11,10:00 pm ET,DAL,SAC,Dallas Mavericks,Sacramento Kings,https://www.nba.com/game/dal-vs-sac-0022200854
+855,0022200855,2023-02-12,2:00 pm ET,MEM,BOS,Memphis Grizzlies,Boston Celtics,https://www.nba.com/game/mem-vs-bos-0022200855
+856,0022200856,2023-02-12,3:00 pm ET,DET,TOR,Detroit Pistons,Toronto Raptors,https://www.nba.com/game/det-vs-tor-0022200856
+857,0022200857,2023-02-13,7:00 pm ET,ATL,CHA,Atlanta Hawks,Charlotte Hornets,https://www.nba.com/game/atl-vs-cha-0022200857
+858,0022200858,2023-02-13,7:00 pm ET,SAS,CLE,San Antonio Spurs,Cleveland Cavaliers,https://www.nba.com/game/sas-vs-cle-0022200858
+859,0022200859,2023-02-13,7:00 pm ET,UTA,IND,Utah Jazz,Indiana Pacers,https://www.nba.com/game/uta-vs-ind-0022200859
+860,0022200860,2023-02-13,7:00 pm ET,HOU,PHI,Houston Rockets,Philadelphia 76ers,https://www.nba.com/game/hou-vs-phi-0022200860
+861,0022200861,2023-02-13,7:30 pm ET,DEN,MIA,Denver Nuggets,Miami Heat,https://www.nba.com/game/den-vs-mia-0022200861
+862,0022200862,2023-02-13,7:30 pm ET,BKN,NYK,Brooklyn Nets,New York Knicks,https://www.nba.com/game/bkn-vs-nyk-0022200862
+863,0022200863,2023-02-13,8:00 pm ET,ORL,CHI,Orlando Magic,Chicago Bulls,https://www.nba.com/game/orl-vs-chi-0022200863
+864,0022200864,2023-02-13,8:00 pm ET,NOP,OKC,New Orleans Pelicans,Oklahoma City Thunder,https://www.nba.com/game/nop-vs-okc-0022200864
+865,0022200865,2023-02-13,8:30 pm ET,MIN,DAL,Minnesota Timberwolves,Dallas Mavericks,https://www.nba.com/game/min-vs-dal-0022200865
+866,0022200866,2023-02-13,10:00 pm ET,WAS,GSW,Washington Wizards,Golden State Warriors,https://www.nba.com/game/was-vs-gsw-0022200866
+867,0022200867,2023-02-13,10:00 pm ET,LAL,POR,Los Angeles Lakers,Portland Trail Blazers,https://www.nba.com/game/lal-vs-por-0022200867
+868,0022200868,2023-02-14,7:30 pm ET,ORL,TOR,Orlando Magic,Toronto Raptors,https://www.nba.com/game/orl-vs-tor-0022200868
+869,0022200869,2023-02-14,7:30 pm ET,BOS,MIL,Boston Celtics,Milwaukee Bucks,https://www.nba.com/game/bos-vs-mil-0022200869
+870,0022200870,2023-02-14,9:00 pm ET,SAC,PHX,Sacramento Kings,Phoenix Suns,https://www.nba.com/game/sac-vs-phx-0022200870
+871,0022200871,2023-02-14,10:00 pm ET,GSW,LAC,Golden State Warriors,LA Clippers,https://www.nba.com/game/gsw-vs-lac-0022200871
+872,0022200872,2023-02-14,10:00 pm ET,WAS,POR,Washington Wizards,Portland Trail Blazers,https://www.nba.com/game/was-vs-por-0022200872
+873,0022200873,2023-02-15,7:00 pm ET,SAS,CHA,San Antonio Spurs,Charlotte Hornets,https://www.nba.com/game/sas-vs-cha-0022200873
+874,0022200874,2023-02-15,7:00 pm ET,CHI,IND,Chicago Bulls,Indiana Pacers,https://www.nba.com/game/chi-vs-ind-0022200874
+875,0022200875,2023-02-15,7:00 pm ET,CLE,PHI,Cleveland Cavaliers,Philadelphia 76ers,https://www.nba.com/game/cle-vs-phi-0022200875
+876,0022200876,2023-02-15,7:30 pm ET,NYK,ATL,New York Knicks,Atlanta Hawks,https://www.nba.com/game/nyk-vs-atl-0022200876
+877,0022200877,2023-02-15,7:30 pm ET,DET,BOS,Detroit Pistons,Boston Celtics,https://www.nba.com/game/det-vs-bos-0022200877
+878,0022200878,2023-02-15,7:30 pm ET,MIA,BKN,Miami Heat,Brooklyn Nets,https://www.nba.com/game/mia-vs-bkn-0022200878
+879,0022200879,2023-02-15,8:00 pm ET,UTA,MEM,Utah Jazz,Memphis Grizzlies,https://www.nba.com/game/uta-vs-mem-0022200879
+880,0022200880,2023-02-15,8:00 pm ET,HOU,OKC,Houston Rockets,Oklahoma City Thunder,https://www.nba.com/game/hou-vs-okc-0022200880
+881,0022200881,2023-02-15,9:00 pm ET,DAL,DEN,Dallas Mavericks,Denver Nuggets,https://www.nba.com/game/dal-vs-den-0022200881
+882,0022200882,2023-02-15,10:00 pm ET,NOP,LAL,New Orleans Pelicans,Los Angeles Lakers,https://www.nba.com/game/nop-vs-lal-0022200882
+883,0022200883,2023-02-16,7:30 pm ET,MIL,CHI,Milwaukee Bucks,Chicago Bulls,https://www.nba.com/game/mil-vs-chi-0022200883
+884,0022200884,2023-02-16,8:00 pm ET,WAS,MIN,Washington Wizards,Minnesota Timberwolves,https://www.nba.com/game/was-vs-min-0022200884
+885,0022200885,2023-02-16,10:00 pm ET,LAC,PHX,LA Clippers,Phoenix Suns,https://www.nba.com/game/lac-vs-phx-0022200885
+886,0022200886,2023-02-23,7:00 pm ET,DEN,CLE,Denver Nuggets,Cleveland Cavaliers,https://www.nba.com/game/den-vs-cle-0022200886
+887,0022200887,2023-02-23,7:00 pm ET,BOS,IND,Boston Celtics,Indiana Pacers,https://www.nba.com/game/bos-vs-ind-0022200887
+888,0022200888,2023-02-23,7:00 pm ET,DET,ORL,Detroit Pistons,Orlando Magic,https://www.nba.com/game/det-vs-orl-0022200888
+889,0022200889,2023-02-23,7:30 pm ET,MEM,PHI,Memphis Grizzlies,Philadelphia 76ers,https://www.nba.com/game/mem-vs-phi-0022200889
+890,0022200890,2023-02-23,7:30 pm ET,NOP,TOR,New Orleans Pelicans,Toronto Raptors,https://www.nba.com/game/nop-vs-tor-0022200890
+891,0022200891,2023-02-23,8:30 pm ET,SAS,DAL,San Antonio Spurs,Dallas Mavericks,https://www.nba.com/game/sas-vs-dal-0022200891
+892,0022200892,2023-02-23,9:00 pm ET,OKC,UTA,Oklahoma City Thunder,Utah Jazz,https://www.nba.com/game/okc-vs-uta-0022200892
+893,0022200893,2023-02-23,10:00 pm ET,GSW,LAL,Golden State Warriors,Los Angeles Lakers,https://www.nba.com/game/gsw-vs-lal-0022200893
+894,0022200894,2023-02-23,10:00 pm ET,POR,SAC,Portland Trail Blazers,Sacramento Kings,https://www.nba.com/game/por-vs-sac-0022200894
+895,0022200895,2023-02-24,7:00 pm ET,NYK,WAS,New York Knicks,Washington Wizards,https://www.nba.com/game/nyk-vs-was-0022200895
+896,0022200896,2023-02-24,7:30 pm ET,CLE,ATL,Cleveland Cavaliers,Atlanta Hawks,https://www.nba.com/game/cle-vs-atl-0022200896
+897,0022200897,2023-02-24,7:30 pm ET,MIA,MIL,Miami Heat,Milwaukee Bucks,https://www.nba.com/game/mia-vs-mil-0022200897
+898,0022200898,2023-02-24,8:00 pm ET,CHA,MIN,Charlotte Hornets,Minnesota Timberwolves,https://www.nba.com/game/cha-vs-min-0022200898
+899,0022200899,2023-02-24,9:00 pm ET,OKC,PHX,Oklahoma City Thunder,Phoenix Suns,https://www.nba.com/game/okc-vs-phx-0022200899
+900,0022200900,2023-02-24,10:00 pm ET,BKN,CHI,Brooklyn Nets,Chicago Bulls,https://www.nba.com/game/bkn-vs-chi-0022200900
+901,0022200901,2023-02-24,10:00 pm ET,HOU,GSW,Houston Rockets,Golden State Warriors,https://www.nba.com/game/hou-vs-gsw-0022200901
+902,0022200902,2023-02-24,10:30 pm ET,SAC,LAC,Sacramento Kings,LA Clippers,https://www.nba.com/game/sac-vs-lac-0022200902
+903,0022200903,2023-02-25,12:00 pm ET,TOR,DET,Toronto Raptors,Detroit Pistons,https://www.nba.com/game/tor-vs-det-0022200903
+904,0022200904,2023-02-25,7:00 pm ET,MIA,CHA,Miami Heat,Charlotte Hornets,https://www.nba.com/game/mia-vs-cha-0022200904
+905,0022200905,2023-02-25,7:00 pm ET,IND,ORL,Indiana Pacers,Orlando Magic,https://www.nba.com/game/ind-vs-orl-0022200905
+906,0022200906,2023-02-25,7:30 pm ET,NOP,NYK,New Orleans Pelicans,New York Knicks,https://www.nba.com/game/nop-vs-nyk-0022200906
+907,0022200907,2023-02-25,8:00 pm ET,DEN,MEM,Denver Nuggets,Memphis Grizzlies,https://www.nba.com/game/den-vs-mem-0022200907
+908,0022200908,2023-02-25,8:30 pm ET,BOS,PHI,Boston Celtics,Philadelphia 76ers,https://www.nba.com/game/bos-vs-phi-0022200908
+909,0022200909,2023-02-25,9:00 pm ET,SAS,UTA,San Antonio Spurs,Utah Jazz,https://www.nba.com/game/sas-vs-uta-0022200909
+910,0022200910,2023-02-26,1:00 pm ET,PHX,MIL,Phoenix Suns,Milwaukee Bucks,https://www.nba.com/game/phx-vs-mil-0022200910
+911,0022200911,2023-02-26,3:00 pm ET,BKN,ATL,Brooklyn Nets,Atlanta Hawks,https://www.nba.com/game/bkn-vs-atl-0022200911
+912,0022200912,2023-02-26,3:30 pm ET,WAS,CHI,Washington Wizards,Chicago Bulls,https://www.nba.com/game/was-vs-chi-0022200912
+913,0022200913,2023-02-26,3:30 pm ET,LAL,DAL,Los Angeles Lakers,Dallas Mavericks,https://www.nba.com/game/lal-vs-dal-0022200913
+914,0022200914,2023-02-26,6:00 pm ET,TOR,CLE,Toronto Raptors,Cleveland Cavaliers,https://www.nba.com/game/tor-vs-cle-0022200914
+915,0022200915,2023-02-26,7:00 pm ET,SAC,OKC,Sacramento Kings,Oklahoma City Thunder,https://www.nba.com/game/sac-vs-okc-0022200915
+916,0022200916,2023-02-26,7:30 pm ET,MIN,GSW,Minnesota Timberwolves,Golden State Warriors,https://www.nba.com/game/min-vs-gsw-0022200916
+917,0022200917,2023-02-26,9:00 pm ET,HOU,POR,Houston Rockets,Portland Trail Blazers,https://www.nba.com/game/hou-vs-por-0022200917
+918,0022200918,2023-02-26,10:00 pm ET,LAC,DEN,LA Clippers,Denver Nuggets,https://www.nba.com/game/lac-vs-den-0022200918
+919,0022200919,2023-02-27,7:00 pm ET,DET,CHA,Detroit Pistons,Charlotte Hornets,https://www.nba.com/game/det-vs-cha-0022200919
+920,0022200920,2023-02-27,7:00 pm ET,MIA,PHI,Miami Heat,Philadelphia 76ers,https://www.nba.com/game/mia-vs-phi-0022200920
+921,0022200921,2023-02-27,7:30 pm ET,BOS,NYK,Boston Celtics,New York Knicks,https://www.nba.com/game/bos-vs-nyk-0022200921
+922,0022200922,2023-02-27,8:00 pm ET,ORL,NOP,Orlando Magic,New Orleans Pelicans,https://www.nba.com/game/orl-vs-nop-0022200922
+923,0022200923,2023-02-28,7:30 pm ET,WAS,ATL,Washington Wizards,Atlanta Hawks,https://www.nba.com/game/was-vs-atl-0022200923
+924,0022200924,2023-02-28,7:30 pm ET,MIL,BKN,Milwaukee Bucks,Brooklyn Nets,https://www.nba.com/game/mil-vs-bkn-0022200924
+925,0022200925,2023-02-28,7:30 pm ET,CHI,TOR,Chicago Bulls,Toronto Raptors,https://www.nba.com/game/chi-vs-tor-0022200925
+926,0022200926,2023-02-28,8:00 pm ET,DEN,HOU,Denver Nuggets,Houston Rockets,https://www.nba.com/game/den-vs-hou-0022200926
+927,0022200927,2023-02-28,8:00 pm ET,LAL,MEM,Los Angeles Lakers,Memphis Grizzlies,https://www.nba.com/game/lal-vs-mem-0022200927
+928,0022200928,2023-02-28,8:00 pm ET,SAC,OKC,Sacramento Kings,Oklahoma City Thunder,https://www.nba.com/game/sac-vs-okc-0022200928
+929,0022200929,2023-02-28,8:30 pm ET,IND,DAL,Indiana Pacers,Dallas Mavericks,https://www.nba.com/game/ind-vs-dal-0022200929
+930,0022200930,2023-02-28,9:00 pm ET,SAS,UTA,San Antonio Spurs,Utah Jazz,https://www.nba.com/game/sas-vs-uta-0022200930
+931,0022200931,2023-02-28,10:00 pm ET,POR,GSW,Portland Trail Blazers,Golden State Warriors,https://www.nba.com/game/por-vs-gsw-0022200931
+932,0022200932,2023-02-28,10:00 pm ET,MIN,LAC,Minnesota Timberwolves,LA Clippers,https://www.nba.com/game/min-vs-lac-0022200932
+933,0022200933,2023-03-01,7:00 pm ET,PHX,CHA,Phoenix Suns,Charlotte Hornets,https://www.nba.com/game/phx-vs-cha-0022200933
+934,0022200934,2023-03-01,7:00 pm ET,CHI,DET,Chicago Bulls,Detroit Pistons,https://www.nba.com/game/chi-vs-det-0022200934
+935,0022200935,2023-03-01,7:30 pm ET,CLE,BOS,Cleveland Cavaliers,Boston Celtics,https://www.nba.com/game/cle-vs-bos-0022200935
+936,0022200936,2023-03-01,7:30 pm ET,PHI,MIA,Philadelphia 76ers,Miami Heat,https://www.nba.com/game/phi-vs-mia-0022200936
+937,0022200937,2023-03-01,7:30 pm ET,BKN,NYK,Brooklyn Nets,New York Knicks,https://www.nba.com/game/bkn-vs-nyk-0022200937
+938,0022200938,2023-03-01,8:00 pm ET,MEM,HOU,Memphis Grizzlies,Houston Rockets,https://www.nba.com/game/mem-vs-hou-0022200938
+939,0022200939,2023-03-01,8:00 pm ET,ORL,MIL,Orlando Magic,Milwaukee Bucks,https://www.nba.com/game/orl-vs-mil-0022200939
+940,0022200940,2023-03-01,8:00 pm ET,LAL,OKC,Los Angeles Lakers,Oklahoma City Thunder,https://www.nba.com/game/lal-vs-okc-0022200940
+941,0022200941,2023-03-01,10:00 pm ET,NOP,POR,New Orleans Pelicans,Portland Trail Blazers,https://www.nba.com/game/nop-vs-por-0022200941
+942,0022200942,2023-03-02,7:00 pm ET,TOR,WAS,Toronto Raptors,Washington Wizards,https://www.nba.com/game/tor-vs-was-0022200942
+943,0022200943,2023-03-02,7:30 pm ET,PHI,DAL,Philadelphia 76ers,Dallas Mavericks,https://www.nba.com/game/phi-vs-dal-0022200943
+944,0022200944,2023-03-02,8:30 pm ET,IND,SAS,Indiana Pacers,San Antonio Spurs,https://www.nba.com/game/ind-vs-sas-0022200944
+945,0022200945,2023-03-02,10:00 pm ET,LAC,GSW,LA Clippers,Golden State Warriors,https://www.nba.com/game/lac-vs-gsw-0022200945
+946,0022200946,2023-03-03,7:00 pm ET,ORL,CHA,Orlando Magic,Charlotte Hornets,https://www.nba.com/game/orl-vs-cha-0022200946
+947,0022200947,2023-03-03,7:30 pm ET,POR,ATL,Portland Trail Blazers,Atlanta Hawks,https://www.nba.com/game/por-vs-atl-0022200947
+948,0022200948,2023-03-03,7:30 pm ET,BKN,BOS,Brooklyn Nets,Boston Celtics,https://www.nba.com/game/bkn-vs-bos-0022200948
+949,0022200949,2023-03-03,8:00 pm ET,NYK,MIA,New York Knicks,Miami Heat,https://www.nba.com/game/nyk-vs-mia-0022200949
+950,0022200950,2023-03-03,8:00 pm ET,PHX,CHI,Phoenix Suns,Chicago Bulls,https://www.nba.com/game/phx-vs-chi-0022200950
+951,0022200951,2023-03-03,8:00 pm ET,UTA,OKC,Utah Jazz,Oklahoma City Thunder,https://www.nba.com/game/uta-vs-okc-0022200951
+952,0022200952,2023-03-03,10:00 pm ET,MEM,DEN,Memphis Grizzlies,Denver Nuggets,https://www.nba.com/game/mem-vs-den-0022200952
+953,0022200953,2023-03-03,10:00 pm ET,NOP,GSW,New Orleans Pelicans,Golden State Warriors,https://www.nba.com/game/nop-vs-gsw-0022200953
+954,0022200954,2023-03-03,10:00 pm ET,LAC,SAC,LA Clippers,Sacramento Kings,https://www.nba.com/game/lac-vs-sac-0022200954
+955,0022200955,2023-03-03,10:30 pm ET,MIN,LAL,Minnesota Timberwolves,Los Angeles Lakers,https://www.nba.com/game/min-vs-lal-0022200955
+956,0022200956,2023-03-04,5:00 pm ET,TOR,WAS,Toronto Raptors,Washington Wizards,https://www.nba.com/game/tor-vs-was-0022200956
+957,0022200957,2023-03-04,8:00 pm ET,DET,CLE,Detroit Pistons,Cleveland Cavaliers,https://www.nba.com/game/det-vs-cle-0022200957
+958,0022200958,2023-03-04,8:00 pm ET,ATL,MIA,Atlanta Hawks,Miami Heat,https://www.nba.com/game/atl-vs-mia-0022200958
+959,0022200959,2023-03-04,8:00 pm ET,HOU,SAS,Houston Rockets,San Antonio Spurs,https://www.nba.com/game/hou-vs-sas-0022200959
+960,0022200960,2023-03-04,8:30 pm ET,PHI,MIL,Philadelphia 76ers,Milwaukee Bucks,https://www.nba.com/game/phi-vs-mil-0022200960
+961,0022200961,2023-03-04,10:00 pm ET,MIN,SAC,Minnesota Timberwolves,Sacramento Kings,https://www.nba.com/game/min-vs-sac-0022200961
+962,0022200962,2023-03-05,1:00 pm ET,PHX,DAL,Phoenix Suns,Dallas Mavericks,https://www.nba.com/game/phx-vs-dal-0022200962
+963,0022200963,2023-03-05,3:30 pm ET,IND,CHI,Indiana Pacers,Chicago Bulls,https://www.nba.com/game/ind-vs-chi-0022200963
+964,0022200964,2023-03-05,3:30 pm ET,GSW,LAL,Golden State Warriors,Los Angeles Lakers,https://www.nba.com/game/gsw-vs-lal-0022200964
+965,0022200965,2023-03-05,6:00 pm ET,CHA,BKN,Charlotte Hornets,Brooklyn Nets,https://www.nba.com/game/cha-vs-bkn-0022200965
+966,0022200966,2023-03-05,6:00 pm ET,POR,ORL,Portland Trail Blazers,Orlando Magic,https://www.nba.com/game/por-vs-orl-0022200966
+967,0022200967,2023-03-05,7:00 pm ET,SAS,HOU,San Antonio Spurs,Houston Rockets,https://www.nba.com/game/sas-vs-hou-0022200967
+968,0022200968,2023-03-05,7:00 pm ET,UTA,OKC,Utah Jazz,Oklahoma City Thunder,https://www.nba.com/game/uta-vs-okc-0022200968
+969,0022200969,2023-03-05,7:30 pm ET,NYK,BOS,New York Knicks,Boston Celtics,https://www.nba.com/game/nyk-vs-bos-0022200969
+970,0022200970,2023-03-05,10:00 pm ET,MEM,LAC,Memphis Grizzlies,LA Clippers,https://www.nba.com/game/mem-vs-lac-0022200970
+971,0022200971,2023-03-06,7:00 pm ET,BOS,CLE,Boston Celtics,Cleveland Cavaliers,https://www.nba.com/game/bos-vs-cle-0022200971
+972,0022200972,2023-03-06,7:00 pm ET,PHI,IND,Philadelphia 76ers,Indiana Pacers,https://www.nba.com/game/phi-vs-ind-0022200972
+973,0022200973,2023-03-06,7:00 pm ET,MIL,WAS,Milwaukee Bucks,Washington Wizards,https://www.nba.com/game/mil-vs-was-0022200973
+974,0022200974,2023-03-06,7:30 pm ET,ATL,MIA,Atlanta Hawks,Miami Heat,https://www.nba.com/game/atl-vs-mia-0022200974
+975,0022200975,2023-03-06,9:00 pm ET,TOR,DEN,Toronto Raptors,Denver Nuggets,https://www.nba.com/game/tor-vs-den-0022200975
+976,0022200976,2023-03-06,10:00 pm ET,NOP,SAC,New Orleans Pelicans,Sacramento Kings,https://www.nba.com/game/nop-vs-sac-0022200976
+977,0022200977,2023-03-07,7:00 pm ET,POR,DET,Portland Trail Blazers,Detroit Pistons,https://www.nba.com/game/por-vs-det-0022200977
+978,0022200978,2023-03-07,7:00 pm ET,MIL,ORL,Milwaukee Bucks,Orlando Magic,https://www.nba.com/game/mil-vs-orl-0022200978
+979,0022200979,2023-03-07,7:30 pm ET,CHA,NYK,Charlotte Hornets,New York Knicks,https://www.nba.com/game/cha-vs-nyk-0022200979
+980,0022200980,2023-03-07,7:30 pm ET,PHI,MIN,Philadelphia 76ers,Minnesota Timberwolves,https://www.nba.com/game/phi-vs-min-0022200980
+981,0022200981,2023-03-07,8:00 pm ET,BKN,HOU,Brooklyn Nets,Houston Rockets,https://www.nba.com/game/bkn-vs-hou-0022200981
+982,0022200982,2023-03-07,8:00 pm ET,GSW,OKC,Golden State Warriors,Oklahoma City Thunder,https://www.nba.com/game/gsw-vs-okc-0022200982
+983,0022200983,2023-03-07,8:30 pm ET,UTA,DAL,Utah Jazz,Dallas Mavericks,https://www.nba.com/game/uta-vs-dal-0022200983
+984,0022200984,2023-03-07,10:00 pm ET,MEM,LAL,Memphis Grizzlies,Los Angeles Lakers,https://www.nba.com/game/mem-vs-lal-0022200984
+985,0022200985,2023-03-08,7:00 pm ET,ATL,WAS,Atlanta Hawks,Washington Wizards,https://www.nba.com/game/atl-vs-was-0022200985
+986,0022200986,2023-03-08,7:30 pm ET,POR,BOS,Portland Trail Blazers,Boston Celtics,https://www.nba.com/game/por-vs-bos-0022200986
+987,0022200987,2023-03-08,7:30 pm ET,CLE,MIA,Cleveland Cavaliers,Miami Heat,https://www.nba.com/game/cle-vs-mia-0022200987
+988,0022200988,2023-03-08,7:30 pm ET,DAL,NOP,Dallas Mavericks,New Orleans Pelicans,https://www.nba.com/game/dal-vs-nop-0022200988
+989,0022200989,2023-03-08,9:00 pm ET,CHI,DEN,Chicago Bulls,Denver Nuggets,https://www.nba.com/game/chi-vs-den-0022200989
+990,0022200990,2023-03-08,9:00 pm ET,OKC,PHX,Oklahoma City Thunder,Phoenix Suns,https://www.nba.com/game/okc-vs-phx-0022200990
+991,0022200991,2023-03-08,10:00 pm ET,TOR,LAC,Toronto Raptors,LA Clippers,https://www.nba.com/game/tor-vs-lac-0022200991
+992,0022200992,2023-03-09,7:00 pm ET,CHA,DET,Charlotte Hornets,Detroit Pistons,https://www.nba.com/game/cha-vs-det-0022200992
+993,0022200993,2023-03-09,7:00 pm ET,HOU,IND,Houston Rockets,Indiana Pacers,https://www.nba.com/game/hou-vs-ind-0022200993
+994,0022200994,2023-03-09,7:00 pm ET,UTA,ORL,Utah Jazz,Orlando Magic,https://www.nba.com/game/uta-vs-orl-0022200994
+995,0022200995,2023-03-09,7:30 pm ET,BKN,MIL,Brooklyn Nets,Milwaukee Bucks,https://www.nba.com/game/bkn-vs-mil-0022200995
+996,0022200996,2023-03-09,10:00 pm ET,GSW,MEM,Golden State Warriors,Memphis Grizzlies,https://www.nba.com/game/gsw-vs-mem-0022200996
+997,0022200997,2023-03-09,10:00 pm ET,NYK,SAC,New York Knicks,Sacramento Kings,https://www.nba.com/game/nyk-vs-sac-0022200997
+998,0022200998,2023-03-10,7:00 pm ET,POR,PHI,Portland Trail Blazers,Philadelphia 76ers,https://www.nba.com/game/por-vs-phi-0022200998
+999,0022200999,2023-03-10,7:00 pm ET,ATL,WAS,Atlanta Hawks,Washington Wizards,https://www.nba.com/game/atl-vs-was-0022200999
+1000,0022201000,2023-03-10,8:00 pm ET,CLE,MIA,Cleveland Cavaliers,Miami Heat,https://www.nba.com/game/cle-vs-mia-0022201000
+1001,0022201001,2023-03-10,8:00 pm ET,BKN,MIN,Brooklyn Nets,Minnesota Timberwolves,https://www.nba.com/game/bkn-vs-min-0022201001
+1002,0022201002,2023-03-10,8:00 pm ET,DEN,SAS,Denver Nuggets,San Antonio Spurs,https://www.nba.com/game/den-vs-sas-0022201002
+1003,0022201003,2023-03-10,10:30 pm ET,TOR,LAL,Toronto Raptors,Los Angeles Lakers,https://www.nba.com/game/tor-vs-lal-0022201003
+1004,0022201004,2023-03-11,4:00 pm ET,NYK,LAC,New York Knicks,LA Clippers,https://www.nba.com/game/nyk-vs-lac-0022201004
+1005,0022201005,2023-03-11,7:00 pm ET,UTA,CHA,Utah Jazz,Charlotte Hornets,https://www.nba.com/game/uta-vs-cha-0022201005
+1006,0022201006,2023-03-11,7:00 pm ET,IND,DET,Indiana Pacers,Detroit Pistons,https://www.nba.com/game/ind-vs-det-0022201006
+1007,0022201007,2023-03-11,7:00 pm ET,MIA,ORL,Miami Heat,Orlando Magic,https://www.nba.com/game/mia-vs-orl-0022201007
+1008,0022201008,2023-03-11,7:30 pm ET,BOS,ATL,Boston Celtics,Atlanta Hawks,https://www.nba.com/game/bos-vs-atl-0022201008
+1009,0022201009,2023-03-11,8:00 pm ET,CHI,HOU,Chicago Bulls,Houston Rockets,https://www.nba.com/game/chi-vs-hou-0022201009
+1010,0022201010,2023-03-11,8:00 pm ET,DAL,MEM,Dallas Mavericks,Memphis Grizzlies,https://www.nba.com/game/dal-vs-mem-0022201010
+1011,0022201011,2023-03-11,8:30 pm ET,OKC,NOP,Oklahoma City Thunder,New Orleans Pelicans,https://www.nba.com/game/okc-vs-nop-0022201011
+1012,0022201012,2023-03-11,8:30 pm ET,MIL,GSW,Milwaukee Bucks,Golden State Warriors,https://www.nba.com/game/mil-vs-gsw-0022201012
+1013,0022201013,2023-03-11,10:00 pm ET,SAC,PHX,Sacramento Kings,Phoenix Suns,https://www.nba.com/game/sac-vs-phx-0022201013
+1014,0022201014,2023-03-12,3:30 pm ET,BKN,DEN,Brooklyn Nets,Denver Nuggets,https://www.nba.com/game/bkn-vs-den-0022201014
+1015,0022201015,2023-03-12,5:00 pm ET,CLE,CHA,Cleveland Cavaliers,Charlotte Hornets,https://www.nba.com/game/cle-vs-cha-0022201015
+1016,0022201016,2023-03-12,6:00 pm ET,WAS,PHI,Washington Wizards,Philadelphia 76ers,https://www.nba.com/game/was-vs-phi-0022201016
+1017,0022201017,2023-03-12,7:00 pm ET,POR,NOP,Portland Trail Blazers,New Orleans Pelicans,https://www.nba.com/game/por-vs-nop-0022201017
+1018,0022201018,2023-03-12,7:00 pm ET,OKC,SAS,Oklahoma City Thunder,San Antonio Spurs,https://www.nba.com/game/okc-vs-sas-0022201018
+1019,0022201019,2023-03-12,9:00 pm ET,NYK,LAL,New York Knicks,Los Angeles Lakers,https://www.nba.com/game/nyk-vs-lal-0022201019
+1020,0022201020,2023-03-13,7:00 pm ET,IND,DET,Indiana Pacers,Detroit Pistons,https://www.nba.com/game/ind-vs-det-0022201020
+1021,0022201021,2023-03-13,7:30 pm ET,MIN,ATL,Minnesota Timberwolves,Atlanta Hawks,https://www.nba.com/game/min-vs-atl-0022201021
+1022,0022201022,2023-03-13,7:30 pm ET,UTA,MIA,Utah Jazz,Miami Heat,https://www.nba.com/game/uta-vs-mia-0022201022
+1023,0022201023,2023-03-13,7:30 pm ET,MEM,DAL,Memphis Grizzlies,Dallas Mavericks,https://www.nba.com/game/mem-vs-dal-0022201023
+1024,0022201024,2023-03-13,8:00 pm ET,BOS,HOU,Boston Celtics,Houston Rockets,https://www.nba.com/game/bos-vs-hou-0022201024
+1025,0022201025,2023-03-13,10:00 pm ET,PHX,GSW,Phoenix Suns,Golden State Warriors,https://www.nba.com/game/phx-vs-gsw-0022201025
+1026,0022201026,2023-03-13,10:00 pm ET,MIL,SAC,Milwaukee Bucks,Sacramento Kings,https://www.nba.com/game/mil-vs-sac-0022201026
+1027,0022201027,2023-03-14,7:00 pm ET,CLE,CHA,Cleveland Cavaliers,Charlotte Hornets,https://www.nba.com/game/cle-vs-cha-0022201027
+1028,0022201028,2023-03-14,7:00 pm ET,DET,WAS,Detroit Pistons,Washington Wizards,https://www.nba.com/game/det-vs-was-0022201028
+1029,0022201029,2023-03-14,7:30 pm ET,DEN,TOR,Denver Nuggets,Toronto Raptors,https://www.nba.com/game/den-vs-tor-0022201029
+1030,0022201030,2023-03-14,8:00 pm ET,LAL,NOP,Los Angeles Lakers,New Orleans Pelicans,https://www.nba.com/game/lal-vs-nop-0022201030
+1031,0022201031,2023-03-14,8:00 pm ET,BKN,OKC,Brooklyn Nets,Oklahoma City Thunder,https://www.nba.com/game/bkn-vs-okc-0022201031
+1032,0022201032,2023-03-14,8:00 pm ET,ORL,SAS,Orlando Magic,San Antonio Spurs,https://www.nba.com/game/orl-vs-sas-0022201032
+1033,0022201033,2023-03-14,10:00 pm ET,MIL,PHX,Milwaukee Bucks,Phoenix Suns,https://www.nba.com/game/mil-vs-phx-0022201033
+1034,0022201034,2023-03-14,10:00 pm ET,NYK,POR,New York Knicks,Portland Trail Blazers,https://www.nba.com/game/nyk-vs-por-0022201034
+1035,0022201035,2023-03-15,7:30 pm ET,PHI,CLE,Philadelphia 76ers,Cleveland Cavaliers,https://www.nba.com/game/phi-vs-cle-0022201035
+1036,0022201036,2023-03-15,7:30 pm ET,MEM,MIA,Memphis Grizzlies,Miami Heat,https://www.nba.com/game/mem-vs-mia-0022201036
+1037,0022201037,2023-03-15,8:00 pm ET,SAC,CHI,Sacramento Kings,Chicago Bulls,https://www.nba.com/game/sac-vs-chi-0022201037
+1038,0022201038,2023-03-15,8:00 pm ET,LAL,HOU,Los Angeles Lakers,Houston Rockets,https://www.nba.com/game/lal-vs-hou-0022201038
+1039,0022201039,2023-03-15,8:00 pm ET,BOS,MIN,Boston Celtics,Minnesota Timberwolves,https://www.nba.com/game/bos-vs-min-0022201039
+1040,0022201040,2023-03-15,8:30 pm ET,DAL,SAS,Dallas Mavericks,San Antonio Spurs,https://www.nba.com/game/dal-vs-sas-0022201040
+1041,0022201041,2023-03-15,10:00 pm ET,GSW,LAC,Golden State Warriors,LA Clippers,https://www.nba.com/game/gsw-vs-lac-0022201041
+1042,0022201042,2023-03-16,7:00 pm ET,DEN,DET,Denver Nuggets,Detroit Pistons,https://www.nba.com/game/den-vs-det-0022201042
+1043,0022201043,2023-03-16,7:30 pm ET,SAC,BKN,Sacramento Kings,Brooklyn Nets,https://www.nba.com/game/sac-vs-bkn-0022201043
+1044,0022201044,2023-03-16,7:30 pm ET,OKC,TOR,Oklahoma City Thunder,Toronto Raptors,https://www.nba.com/game/okc-vs-tor-0022201044
+1045,0022201045,2023-03-16,8:00 pm ET,IND,MIL,Indiana Pacers,Milwaukee Bucks,https://www.nba.com/game/ind-vs-mil-0022201045
+1046,0022201046,2023-03-16,10:00 pm ET,ORL,PHX,Orlando Magic,Phoenix Suns,https://www.nba.com/game/orl-vs-phx-0022201046
+1047,0022201047,2023-03-17,7:00 pm ET,PHI,CHA,Philadelphia 76ers,Charlotte Hornets,https://www.nba.com/game/phi-vs-cha-0022201047
+1048,0022201048,2023-03-17,7:30 pm ET,GSW,ATL,Golden State Warriors,Atlanta Hawks,https://www.nba.com/game/gsw-vs-atl-0022201048
+1049,0022201049,2023-03-17,7:30 pm ET,WAS,CLE,Washington Wizards,Cleveland Cavaliers,https://www.nba.com/game/was-vs-cle-0022201049
+1050,0022201050,2023-03-17,8:00 pm ET,MIN,CHI,Minnesota Timberwolves,Chicago Bulls,https://www.nba.com/game/min-vs-chi-0022201050
+1051,0022201051,2023-03-17,8:00 pm ET,NOP,HOU,New Orleans Pelicans,Houston Rockets,https://www.nba.com/game/nop-vs-hou-0022201051
+1052,0022201052,2023-03-17,8:00 pm ET,MEM,SAS,Memphis Grizzlies,San Antonio Spurs,https://www.nba.com/game/mem-vs-sas-0022201052
+1053,0022201053,2023-03-17,10:00 pm ET,BOS,POR,Boston Celtics,Portland Trail Blazers,https://www.nba.com/game/bos-vs-por-0022201053
+1054,0022201054,2023-03-17,10:30 pm ET,DAL,LAL,Dallas Mavericks,Los Angeles Lakers,https://www.nba.com/game/dal-vs-lal-0022201054
+1055,0022201055,2023-03-18,1:00 pm ET,DEN,NYK,Denver Nuggets,New York Knicks,https://www.nba.com/game/den-vs-nyk-0022201055
+1056,0022201056,2023-03-18,3:00 pm ET,ORL,LAC,Orlando Magic,LA Clippers,https://www.nba.com/game/orl-vs-lac-0022201056
+1057,0022201057,2023-03-18,7:00 pm ET,PHI,IND,Philadelphia 76ers,Indiana Pacers,https://www.nba.com/game/phi-vs-ind-0022201057
+1058,0022201058,2023-03-18,7:00 pm ET,MIN,TOR,Minnesota Timberwolves,Toronto Raptors,https://www.nba.com/game/min-vs-tor-0022201058
+1059,0022201059,2023-03-18,8:00 pm ET,SAC,WAS,Sacramento Kings,Washington Wizards,https://www.nba.com/game/sac-vs-was-0022201059
+1060,0022201060,2023-03-18,8:00 pm ET,MIA,CHI,Miami Heat,Chicago Bulls,https://www.nba.com/game/mia-vs-chi-0022201060
+1061,0022201061,2023-03-18,8:00 pm ET,GSW,MEM,Golden State Warriors,Memphis Grizzlies,https://www.nba.com/game/gsw-vs-mem-0022201061
+1062,0022201062,2023-03-18,9:00 pm ET,BOS,UTA,Boston Celtics,Utah Jazz,https://www.nba.com/game/bos-vs-uta-0022201062
+1063,0022201063,2023-03-19,3:30 pm ET,DEN,BKN,Denver Nuggets,Brooklyn Nets,https://www.nba.com/game/den-vs-bkn-0022201063
+1064,0022201064,2023-03-19,3:30 pm ET,PHX,OKC,Phoenix Suns,Oklahoma City Thunder,https://www.nba.com/game/phx-vs-okc-0022201064
+1065,0022201065,2023-03-19,4:00 pm ET,ATL,SAS,Atlanta Hawks,San Antonio Spurs,https://www.nba.com/game/atl-vs-sas-0022201065
+1066,0022201066,2023-03-19,6:00 pm ET,MIA,DET,Miami Heat,Detroit Pistons,https://www.nba.com/game/mia-vs-det-0022201066
+1067,0022201067,2023-03-19,7:00 pm ET,NOP,HOU,New Orleans Pelicans,Houston Rockets,https://www.nba.com/game/nop-vs-hou-0022201067
+1068,0022201068,2023-03-19,8:00 pm ET,TOR,MIL,Toronto Raptors,Milwaukee Bucks,https://www.nba.com/game/tor-vs-mil-0022201068
+1069,0022201069,2023-03-19,9:00 pm ET,LAC,POR,LA Clippers,Portland Trail Blazers,https://www.nba.com/game/lac-vs-por-0022201069
+1070,0022201070,2023-03-19,9:30 pm ET,ORL,LAL,Orlando Magic,Los Angeles Lakers,https://www.nba.com/game/orl-vs-lal-0022201070
+1071,0022201071,2023-03-20,7:00 pm ET,IND,CHA,Indiana Pacers,Charlotte Hornets,https://www.nba.com/game/ind-vs-cha-0022201071
+1072,0022201072,2023-03-20,7:00 pm ET,CHI,PHI,Chicago Bulls,Philadelphia 76ers,https://www.nba.com/game/chi-vs-phi-0022201072
+1073,0022201073,2023-03-20,7:30 pm ET,MIN,NYK,Minnesota Timberwolves,New York Knicks,https://www.nba.com/game/min-vs-nyk-0022201073
+1074,0022201074,2023-03-20,8:00 pm ET,GSW,HOU,Golden State Warriors,Houston Rockets,https://www.nba.com/game/gsw-vs-hou-0022201074
+1075,0022201075,2023-03-20,8:00 pm ET,DAL,MEM,Dallas Mavericks,Memphis Grizzlies,https://www.nba.com/game/dal-vs-mem-0022201075
+1076,0022201076,2023-03-20,9:00 pm ET,SAC,UTA,Sacramento Kings,Utah Jazz,https://www.nba.com/game/sac-vs-uta-0022201076
+1077,0022201077,2023-03-21,7:00 pm ET,WAS,ORL,Washington Wizards,Orlando Magic,https://www.nba.com/game/was-vs-orl-0022201077
+1078,0022201078,2023-03-21,7:30 pm ET,DET,ATL,Detroit Pistons,Atlanta Hawks,https://www.nba.com/game/det-vs-atl-0022201078
+1079,0022201079,2023-03-21,7:30 pm ET,CLE,BKN,Cleveland Cavaliers,Brooklyn Nets,https://www.nba.com/game/cle-vs-bkn-0022201079
+1080,0022201080,2023-03-21,8:00 pm ET,SAS,NOP,San Antonio Spurs,New Orleans Pelicans,https://www.nba.com/game/sas-vs-nop-0022201080
+1081,0022201081,2023-03-21,10:00 pm ET,BOS,SAC,Boston Celtics,Sacramento Kings,https://www.nba.com/game/bos-vs-sac-0022201081
+1082,0022201082,2023-03-21,10:30 pm ET,OKC,LAC,Oklahoma City Thunder,LA Clippers,https://www.nba.com/game/okc-vs-lac-0022201082
+1083,0022201083,2023-03-22,7:00 pm ET,DEN,WAS,Denver Nuggets,Washington Wizards,https://www.nba.com/game/den-vs-was-0022201083
+1084,0022201084,2023-03-22,7:30 pm ET,NYK,MIA,New York Knicks,Miami Heat,https://www.nba.com/game/nyk-vs-mia-0022201084
+1085,0022201085,2023-03-22,7:30 pm ET,IND,TOR,Indiana Pacers,Toronto Raptors,https://www.nba.com/game/ind-vs-tor-0022201085
+1086,0022201086,2023-03-22,7:30 pm ET,GSW,DAL,Golden State Warriors,Dallas Mavericks,https://www.nba.com/game/gsw-vs-dal-0022201086
+1087,0022201087,2023-03-22,8:00 pm ET,PHI,CHI,Philadelphia 76ers,Chicago Bulls,https://www.nba.com/game/phi-vs-chi-0022201087
+1088,0022201088,2023-03-22,8:00 pm ET,HOU,MEM,Houston Rockets,Memphis Grizzlies,https://www.nba.com/game/hou-vs-mem-0022201088
+1089,0022201089,2023-03-22,8:00 pm ET,SAS,MIL,San Antonio Spurs,Milwaukee Bucks,https://www.nba.com/game/sas-vs-mil-0022201089
+1090,0022201090,2023-03-22,8:00 pm ET,ATL,MIN,Atlanta Hawks,Minnesota Timberwolves,https://www.nba.com/game/atl-vs-min-0022201090
+1091,0022201091,2023-03-22,9:00 pm ET,POR,UTA,Portland Trail Blazers,Utah Jazz,https://www.nba.com/game/por-vs-uta-0022201091
+1092,0022201092,2023-03-22,10:00 pm ET,PHX,LAL,Phoenix Suns,Los Angeles Lakers,https://www.nba.com/game/phx-vs-lal-0022201092
+1093,0022201093,2023-03-23,7:00 pm ET,NYK,ORL,New York Knicks,Orlando Magic,https://www.nba.com/game/nyk-vs-orl-0022201093
+1094,0022201094,2023-03-23,7:30 pm ET,CLE,BKN,Cleveland Cavaliers,Brooklyn Nets,https://www.nba.com/game/cle-vs-bkn-0022201094
+1095,0022201095,2023-03-23,8:00 pm ET,CHA,NOP,Charlotte Hornets,New Orleans Pelicans,https://www.nba.com/game/cha-vs-nop-0022201095
+1096,0022201096,2023-03-23,10:30 pm ET,OKC,LAC,Oklahoma City Thunder,LA Clippers,https://www.nba.com/game/okc-vs-lac-0022201096
+1097,0022201097,2023-03-24,7:00 pm ET,IND,BOS,Indiana Pacers,Boston Celtics,https://www.nba.com/game/ind-vs-bos-0022201097
+1098,0022201098,2023-03-24,7:00 pm ET,SAS,WAS,San Antonio Spurs,Washington Wizards,https://www.nba.com/game/sas-vs-was-0022201098
+1099,0022201099,2023-03-24,7:30 pm ET,DET,TOR,Detroit Pistons,Toronto Raptors,https://www.nba.com/game/det-vs-tor-0022201099
+1100,0022201100,2023-03-24,8:00 pm ET,HOU,MEM,Houston Rockets,Memphis Grizzlies,https://www.nba.com/game/hou-vs-mem-0022201100
+1101,0022201101,2023-03-24,8:30 pm ET,CHA,DAL,Charlotte Hornets,Dallas Mavericks,https://www.nba.com/game/cha-vs-dal-0022201101
+1102,0022201102,2023-03-24,9:00 pm ET,MIL,UTA,Milwaukee Bucks,Utah Jazz,https://www.nba.com/game/mil-vs-uta-0022201102
+1103,0022201103,2023-03-24,10:00 pm ET,PHI,GSW,Philadelphia 76ers,Golden State Warriors,https://www.nba.com/game/phi-vs-gsw-0022201103
+1104,0022201104,2023-03-24,10:00 pm ET,CHI,POR,Chicago Bulls,Portland Trail Blazers,https://www.nba.com/game/chi-vs-por-0022201104
+1105,0022201105,2023-03-24,10:00 pm ET,PHX,SAC,Phoenix Suns,Sacramento Kings,https://www.nba.com/game/phx-vs-sac-0022201105
+1106,0022201106,2023-03-24,10:30 pm ET,OKC,LAL,Oklahoma City Thunder,Los Angeles Lakers,https://www.nba.com/game/okc-vs-lal-0022201106
+1107,0022201107,2023-03-25,5:00 pm ET,IND,ATL,Indiana Pacers,Atlanta Hawks,https://www.nba.com/game/ind-vs-atl-0022201107
+1108,0022201108,2023-03-25,8:00 pm ET,BKN,MIA,Brooklyn Nets,Miami Heat,https://www.nba.com/game/bkn-vs-mia-0022201108
+1109,0022201109,2023-03-25,9:00 pm ET,MIL,DEN,Milwaukee Bucks,Denver Nuggets,https://www.nba.com/game/mil-vs-den-0022201109
+1110,0022201110,2023-03-25,10:00 pm ET,PHI,PHX,Philadelphia 76ers,Phoenix Suns,https://www.nba.com/game/phi-vs-phx-0022201110
+1111,0022201111,2023-03-25,10:00 pm ET,UTA,SAC,Utah Jazz,Sacramento Kings,https://www.nba.com/game/uta-vs-sac-0022201111
+1112,0022201112,2023-03-25,10:30 pm ET,NOP,LAC,New Orleans Pelicans,LA Clippers,https://www.nba.com/game/nop-vs-lac-0022201112
+1113,0022201113,2023-03-26,1:00 pm ET,DAL,CHA,Dallas Mavericks,Charlotte Hornets,https://www.nba.com/game/dal-vs-cha-0022201113
+1114,0022201114,2023-03-26,3:30 pm ET,CHI,LAL,Chicago Bulls,Los Angeles Lakers,https://www.nba.com/game/chi-vs-lal-0022201114
+1115,0022201115,2023-03-26,6:00 pm ET,MEM,ATL,Memphis Grizzlies,Atlanta Hawks,https://www.nba.com/game/mem-vs-atl-0022201115
+1116,0022201116,2023-03-26,6:00 pm ET,SAS,BOS,San Antonio Spurs,Boston Celtics,https://www.nba.com/game/sas-vs-bos-0022201116
+1117,0022201117,2023-03-26,6:00 pm ET,HOU,CLE,Houston Rockets,Cleveland Cavaliers,https://www.nba.com/game/hou-vs-cle-0022201117
+1118,0022201118,2023-03-26,6:00 pm ET,BKN,ORL,Brooklyn Nets,Orlando Magic,https://www.nba.com/game/bkn-vs-orl-0022201118
+1119,0022201119,2023-03-26,6:00 pm ET,WAS,TOR,Washington Wizards,Toronto Raptors,https://www.nba.com/game/was-vs-tor-0022201119
+1120,0022201120,2023-03-26,7:00 pm ET,OKC,POR,Oklahoma City Thunder,Portland Trail Blazers,https://www.nba.com/game/okc-vs-por-0022201120
+1121,0022201121,2023-03-26,8:30 pm ET,MIN,GSW,Minnesota Timberwolves,Golden State Warriors,https://www.nba.com/game/min-vs-gsw-0022201121
+1122,0022201122,2023-03-27,7:00 pm ET,MIL,DET,Milwaukee Bucks,Detroit Pistons,https://www.nba.com/game/mil-vs-det-0022201122
+1123,0022201123,2023-03-27,7:00 pm ET,DAL,IND,Dallas Mavericks,Indiana Pacers,https://www.nba.com/game/dal-vs-ind-0022201123
+1124,0022201124,2023-03-27,7:30 pm ET,HOU,NYK,Houston Rockets,New York Knicks,https://www.nba.com/game/hou-vs-nyk-0022201124
+1125,0022201125,2023-03-27,9:00 pm ET,PHX,UTA,Phoenix Suns,Utah Jazz,https://www.nba.com/game/phx-vs-uta-0022201125
+1126,0022201126,2023-03-27,9:30 pm ET,PHI,DEN,Philadelphia 76ers,Denver Nuggets,https://www.nba.com/game/phi-vs-den-0022201126
+1127,0022201127,2023-03-27,10:00 pm ET,NOP,POR,New Orleans Pelicans,Portland Trail Blazers,https://www.nba.com/game/nop-vs-por-0022201127
+1128,0022201128,2023-03-27,10:00 pm ET,MIN,SAC,Minnesota Timberwolves,Sacramento Kings,https://www.nba.com/game/min-vs-sac-0022201128
+1129,0022201129,2023-03-27,10:30 pm ET,CHI,LAC,Chicago Bulls,LA Clippers,https://www.nba.com/game/chi-vs-lac-0022201129
+1130,0022201130,2023-03-28,7:00 pm ET,BOS,WAS,Boston Celtics,Washington Wizards,https://www.nba.com/game/bos-vs-was-0022201130
+1131,0022201131,2023-03-28,7:30 pm ET,CLE,ATL,Cleveland Cavaliers,Atlanta Hawks,https://www.nba.com/game/cle-vs-atl-0022201131
+1132,0022201132,2023-03-28,7:30 pm ET,MIA,TOR,Miami Heat,Toronto Raptors,https://www.nba.com/game/mia-vs-tor-0022201132
+1133,0022201133,2023-03-28,8:00 pm ET,ORL,MEM,Orlando Magic,Memphis Grizzlies,https://www.nba.com/game/orl-vs-mem-0022201133
+1134,0022201134,2023-03-28,8:00 pm ET,CHA,OKC,Charlotte Hornets,Oklahoma City Thunder,https://www.nba.com/game/cha-vs-okc-0022201134
+1135,0022201135,2023-03-28,10:00 pm ET,NOP,GSW,New Orleans Pelicans,Golden State Warriors,https://www.nba.com/game/nop-vs-gsw-0022201135
+1136,0022201136,2023-03-29,7:00 pm ET,MIL,IND,Milwaukee Bucks,Indiana Pacers,https://www.nba.com/game/mil-vs-ind-0022201136
+1137,0022201137,2023-03-29,7:30 pm ET,HOU,BKN,Houston Rockets,Brooklyn Nets,https://www.nba.com/game/hou-vs-bkn-0022201137
+1138,0022201138,2023-03-29,7:30 pm ET,MIA,NYK,Miami Heat,New York Knicks,https://www.nba.com/game/mia-vs-nyk-0022201138
+1139,0022201139,2023-03-29,7:30 pm ET,DAL,PHI,Dallas Mavericks,Philadelphia 76ers,https://www.nba.com/game/dal-vs-phi-0022201139
+1140,0022201140,2023-03-29,8:00 pm ET,LAL,CHI,Los Angeles Lakers,Chicago Bulls,https://www.nba.com/game/lal-vs-chi-0022201140
+1141,0022201141,2023-03-29,8:00 pm ET,LAC,MEM,LA Clippers,Memphis Grizzlies,https://www.nba.com/game/lac-vs-mem-0022201141
+1142,0022201142,2023-03-29,8:00 pm ET,DET,OKC,Detroit Pistons,Oklahoma City Thunder,https://www.nba.com/game/det-vs-okc-0022201142
+1143,0022201143,2023-03-29,8:00 pm ET,UTA,SAS,Utah Jazz,San Antonio Spurs,https://www.nba.com/game/uta-vs-sas-0022201143
+1144,0022201144,2023-03-29,10:00 pm ET,MIN,PHX,Minnesota Timberwolves,Phoenix Suns,https://www.nba.com/game/min-vs-phx-0022201144
+1145,0022201145,2023-03-29,10:00 pm ET,SAC,POR,Sacramento Kings,Portland Trail Blazers,https://www.nba.com/game/sac-vs-por-0022201145
+1146,0022201146,2023-03-30,7:30 pm ET,BOS,MIL,Boston Celtics,Milwaukee Bucks,https://www.nba.com/game/bos-vs-mil-0022201146
+1147,0022201147,2023-03-30,10:00 pm ET,NOP,DEN,New Orleans Pelicans,Denver Nuggets,https://www.nba.com/game/nop-vs-den-0022201147
+1148,0022201148,2023-03-31,7:00 pm ET,CHI,CHA,Chicago Bulls,Charlotte Hornets,https://www.nba.com/game/chi-vs-cha-0022201148
+1149,0022201149,2023-03-31,7:00 pm ET,OKC,IND,Oklahoma City Thunder,Indiana Pacers,https://www.nba.com/game/okc-vs-ind-0022201149
+1150,0022201150,2023-03-31,7:00 pm ET,TOR,PHI,Toronto Raptors,Philadelphia 76ers,https://www.nba.com/game/tor-vs-phi-0022201150
+1151,0022201151,2023-03-31,7:00 pm ET,ORL,WAS,Orlando Magic,Washington Wizards,https://www.nba.com/game/orl-vs-was-0022201151
+1152,0022201152,2023-03-31,7:30 pm ET,UTA,BOS,Utah Jazz,Boston Celtics,https://www.nba.com/game/uta-vs-bos-0022201152
+1153,0022201153,2023-03-31,7:30 pm ET,ATL,BKN,Atlanta Hawks,Brooklyn Nets,https://www.nba.com/game/atl-vs-bkn-0022201153
+1154,0022201154,2023-03-31,7:30 pm ET,NYK,CLE,New York Knicks,Cleveland Cavaliers,https://www.nba.com/game/nyk-vs-cle-0022201154
+1155,0022201155,2023-03-31,8:00 pm ET,DET,HOU,Detroit Pistons,Houston Rockets,https://www.nba.com/game/det-vs-hou-0022201155
+1156,0022201156,2023-03-31,8:00 pm ET,LAC,MEM,LA Clippers,Memphis Grizzlies,https://www.nba.com/game/lac-vs-mem-0022201156
+1157,0022201157,2023-03-31,8:00 pm ET,LAL,MIN,Los Angeles Lakers,Minnesota Timberwolves,https://www.nba.com/game/lal-vs-min-0022201157
+1158,0022201158,2023-03-31,10:00 pm ET,SAS,GSW,San Antonio Spurs,Golden State Warriors,https://www.nba.com/game/sas-vs-gsw-0022201158
+1159,0022201159,2023-03-31,10:00 pm ET,SAC,POR,Sacramento Kings,Portland Trail Blazers,https://www.nba.com/game/sac-vs-por-0022201159
+1160,0022201160,2023-03-31,10:30 pm ET,DEN,PHX,Denver Nuggets,Phoenix Suns,https://www.nba.com/game/den-vs-phx-0022201160
+1161,0022201161,2023-04-01,7:30 pm ET,DAL,MIA,Dallas Mavericks,Miami Heat,https://www.nba.com/game/dal-vs-mia-0022201161
+1162,0022201162,2023-04-01,8:30 pm ET,LAC,NOP,LA Clippers,New Orleans Pelicans,https://www.nba.com/game/lac-vs-nop-0022201162
+1163,0022201163,2023-04-02,1:00 pm ET,TOR,CHA,Toronto Raptors,Charlotte Hornets,https://www.nba.com/game/tor-vs-cha-0022201163
+1164,0022201164,2023-04-02,3:30 pm ET,UTA,BKN,Utah Jazz,Brooklyn Nets,https://www.nba.com/game/uta-vs-bkn-0022201164
+1165,0022201165,2023-04-02,3:30 pm ET,MEM,CHI,Memphis Grizzlies,Chicago Bulls,https://www.nba.com/game/mem-vs-chi-0022201165
+1166,0022201166,2023-04-02,3:30 pm ET,POR,MIN,Portland Trail Blazers,Minnesota Timberwolves,https://www.nba.com/game/por-vs-min-0022201166
+1167,0022201167,2023-04-02,6:00 pm ET,DAL,ATL,Dallas Mavericks,Atlanta Hawks,https://www.nba.com/game/dal-vs-atl-0022201167
+1168,0022201168,2023-04-02,6:00 pm ET,WAS,NYK,Washington Wizards,New York Knicks,https://www.nba.com/game/was-vs-nyk-0022201168
+1169,0022201169,2023-04-02,6:00 pm ET,DET,ORL,Detroit Pistons,Orlando Magic,https://www.nba.com/game/det-vs-orl-0022201169
+1170,0022201170,2023-04-02,6:00 pm ET,SAS,SAC,San Antonio Spurs,Sacramento Kings,https://www.nba.com/game/sas-vs-sac-0022201170
+1171,0022201171,2023-04-02,7:00 pm ET,LAL,HOU,Los Angeles Lakers,Houston Rockets,https://www.nba.com/game/lal-vs-hou-0022201171
+1172,0022201172,2023-04-02,7:00 pm ET,PHX,OKC,Phoenix Suns,Oklahoma City Thunder,https://www.nba.com/game/phx-vs-okc-0022201172
+1173,0022201173,2023-04-02,8:00 pm ET,IND,CLE,Indiana Pacers,Cleveland Cavaliers,https://www.nba.com/game/ind-vs-cle-0022201173
+1174,0022201174,2023-04-02,8:00 pm ET,PHI,MIL,Philadelphia 76ers,Milwaukee Bucks,https://www.nba.com/game/phi-vs-mil-0022201174
+1175,0022201175,2023-04-02,8:30 pm ET,GSW,DEN,Golden State Warriors,Denver Nuggets,https://www.nba.com/game/gsw-vs-den-0022201175
+1176,0022201176,2023-04-04,7:00 pm ET,TOR,CHA,Toronto Raptors,Charlotte Hornets,https://www.nba.com/game/tor-vs-cha-0022201176
+1177,0022201177,2023-04-04,7:00 pm ET,MIA,DET,Miami Heat,Detroit Pistons,https://www.nba.com/game/mia-vs-det-0022201177
+1178,0022201178,2023-04-04,7:00 pm ET,CLE,ORL,Cleveland Cavaliers,Orlando Magic,https://www.nba.com/game/cle-vs-orl-0022201178
+1179,0022201179,2023-04-04,7:00 pm ET,MIL,WAS,Milwaukee Bucks,Washington Wizards,https://www.nba.com/game/mil-vs-was-0022201179
+1180,0022201180,2023-04-04,7:30 pm ET,MIN,BKN,Minnesota Timberwolves,Brooklyn Nets,https://www.nba.com/game/min-vs-bkn-0022201180
+1181,0022201181,2023-04-04,8:00 pm ET,BOS,PHI,Boston Celtics,Philadelphia 76ers,https://www.nba.com/game/bos-vs-phi-0022201181
+1182,0022201182,2023-04-04,8:00 pm ET,ATL,CHI,Atlanta Hawks,Chicago Bulls,https://www.nba.com/game/atl-vs-chi-0022201182
+1183,0022201183,2023-04-04,8:00 pm ET,DEN,HOU,Denver Nuggets,Houston Rockets,https://www.nba.com/game/den-vs-hou-0022201183
+1184,0022201184,2023-04-04,8:00 pm ET,POR,MEM,Portland Trail Blazers,Memphis Grizzlies,https://www.nba.com/game/por-vs-mem-0022201184
+1185,0022201185,2023-04-04,8:00 pm ET,SAC,NOP,Sacramento Kings,New Orleans Pelicans,https://www.nba.com/game/sac-vs-nop-0022201185
+1186,0022201186,2023-04-04,9:00 pm ET,LAL,UTA,Los Angeles Lakers,Utah Jazz,https://www.nba.com/game/lal-vs-uta-0022201186
+1187,0022201187,2023-04-04,10:00 pm ET,OKC,GSW,Oklahoma City Thunder,Golden State Warriors,https://www.nba.com/game/okc-vs-gsw-0022201187
+1188,0022201188,2023-04-04,10:00 pm ET,SAS,PHX,San Antonio Spurs,Phoenix Suns,https://www.nba.com/game/sas-vs-phx-0022201188
+1189,0022201189,2023-04-05,7:00 pm ET,BKN,DET,Brooklyn Nets,Detroit Pistons,https://www.nba.com/game/bkn-vs-det-0022201189
+1190,0022201190,2023-04-05,7:00 pm ET,NYK,IND,New York Knicks,Indiana Pacers,https://www.nba.com/game/nyk-vs-ind-0022201190
+1191,0022201191,2023-04-05,7:30 pm ET,WAS,ATL,Washington Wizards,Atlanta Hawks,https://www.nba.com/game/was-vs-atl-0022201191
+1192,0022201192,2023-04-05,7:30 pm ET,TOR,BOS,Toronto Raptors,Boston Celtics,https://www.nba.com/game/tor-vs-bos-0022201192
+1193,0022201193,2023-04-05,7:30 pm ET,CHI,MIL,Chicago Bulls,Milwaukee Bucks,https://www.nba.com/game/chi-vs-mil-0022201193
+1194,0022201194,2023-04-05,8:00 pm ET,MEM,NOP,Memphis Grizzlies,New Orleans Pelicans,https://www.nba.com/game/mem-vs-nop-0022201194
+1195,0022201195,2023-04-05,8:30 pm ET,SAC,DAL,Sacramento Kings,Dallas Mavericks,https://www.nba.com/game/sac-vs-dal-0022201195
+1196,0022201196,2023-04-05,10:00 pm ET,LAL,LAC,Los Angeles Lakers,LA Clippers,https://www.nba.com/game/lal-vs-lac-0022201196
+1197,0022201197,2023-04-06,7:00 pm ET,CLE,ORL,Cleveland Cavaliers,Orlando Magic,https://www.nba.com/game/cle-vs-orl-0022201197
+1198,0022201198,2023-04-06,7:30 pm ET,MIA,PHI,Miami Heat,Philadelphia 76ers,https://www.nba.com/game/mia-vs-phi-0022201198
+1199,0022201199,2023-04-06,8:00 pm ET,POR,SAS,Portland Trail Blazers,San Antonio Spurs,https://www.nba.com/game/por-vs-sas-0022201199
+1200,0022201200,2023-04-06,9:00 pm ET,OKC,UTA,Oklahoma City Thunder,Utah Jazz,https://www.nba.com/game/okc-vs-uta-0022201200
+1201,0022201201,2023-04-06,10:00 pm ET,DEN,PHX,Denver Nuggets,Phoenix Suns,https://www.nba.com/game/den-vs-phx-0022201201
+1202,0022201202,2023-04-07,7:00 pm ET,HOU,CHA,Houston Rockets,Charlotte Hornets,https://www.nba.com/game/hou-vs-cha-0022201202
+1203,0022201203,2023-04-07,7:00 pm ET,DET,IND,Detroit Pistons,Indiana Pacers,https://www.nba.com/game/det-vs-ind-0022201203
+1204,0022201204,2023-04-07,7:00 pm ET,MIA,WAS,Miami Heat,Washington Wizards,https://www.nba.com/game/mia-vs-was-0022201204
+1205,0022201205,2023-04-07,7:30 pm ET,PHI,ATL,Philadelphia 76ers,Atlanta Hawks,https://www.nba.com/game/phi-vs-atl-0022201205
+1206,0022201206,2023-04-07,7:30 pm ET,TOR,BOS,Toronto Raptors,Boston Celtics,https://www.nba.com/game/tor-vs-bos-0022201206
+1207,0022201207,2023-04-07,7:30 pm ET,ORL,BKN,Orlando Magic,Brooklyn Nets,https://www.nba.com/game/orl-vs-bkn-0022201207
+1208,0022201208,2023-04-07,8:00 pm ET,MEM,MIL,Memphis Grizzlies,Milwaukee Bucks,https://www.nba.com/game/mem-vs-mil-0022201208
+1209,0022201209,2023-04-07,8:00 pm ET,NYK,NOP,New York Knicks,New Orleans Pelicans,https://www.nba.com/game/nyk-vs-nop-0022201209
+1210,0022201210,2023-04-07,8:30 pm ET,CHI,DAL,Chicago Bulls,Dallas Mavericks,https://www.nba.com/game/chi-vs-dal-0022201210
+1211,0022201211,2023-04-07,10:00 pm ET,GSW,SAC,Golden State Warriors,Sacramento Kings,https://www.nba.com/game/gsw-vs-sac-0022201211
+1212,0022201212,2023-04-07,10:30 pm ET,PHX,LAL,Phoenix Suns,Los Angeles Lakers,https://www.nba.com/game/phx-vs-lal-0022201212
+1213,0022201213,2023-04-08,3:30 pm ET,DEN,UTA,Denver Nuggets,Utah Jazz,https://www.nba.com/game/den-vs-uta-0022201213
+1214,0022201214,2023-04-08,4:00 pm ET,MIN,SAS,Minnesota Timberwolves,San Antonio Spurs,https://www.nba.com/game/min-vs-sas-0022201214
+1215,0022201215,2023-04-08,4:00 pm ET,POR,LAC,Portland Trail Blazers,LA Clippers,https://www.nba.com/game/por-vs-lac-0022201215
+1216,0022201216,2023-04-09,1:00 pm ET,ATL,BOS,Atlanta Hawks,Boston Celtics,https://www.nba.com/game/atl-vs-bos-0022201216
+1217,0022201217,2023-04-09,1:00 pm ET,PHI,BKN,Philadelphia 76ers,Brooklyn Nets,https://www.nba.com/game/phi-vs-bkn-0022201217
+1218,0022201218,2023-04-09,1:00 pm ET,CHA,CLE,Charlotte Hornets,Cleveland Cavaliers,https://www.nba.com/game/cha-vs-cle-0022201218
+1219,0022201219,2023-04-09,1:00 pm ET,ORL,MIA,Orlando Magic,Miami Heat,https://www.nba.com/game/orl-vs-mia-0022201219
+1220,0022201220,2023-04-09,1:00 pm ET,IND,NYK,Indiana Pacers,New York Knicks,https://www.nba.com/game/ind-vs-nyk-0022201220
+1221,0022201221,2023-04-09,1:00 pm ET,MIL,TOR,Milwaukee Bucks,Toronto Raptors,https://www.nba.com/game/mil-vs-tor-0022201221
+1222,0022201222,2023-04-09,1:00 pm ET,HOU,WAS,Houston Rockets,Washington Wizards,https://www.nba.com/game/hou-vs-was-0022201222
+1223,0022201223,2023-04-09,1:00 pm ET,DET,CHI,Detroit Pistons,Chicago Bulls,https://www.nba.com/game/det-vs-chi-0022201223
+1224,0022201224,2023-04-09,3:30 pm ET,SAS,DAL,San Antonio Spurs,Dallas Mavericks,https://www.nba.com/game/sas-vs-dal-0022201224
+1225,0022201225,2023-04-09,3:30 pm ET,NOP,MIN,New Orleans Pelicans,Minnesota Timberwolves,https://www.nba.com/game/nop-vs-min-0022201225
+1226,0022201226,2023-04-09,3:30 pm ET,MEM,OKC,Memphis Grizzlies,Oklahoma City Thunder,https://www.nba.com/game/mem-vs-okc-0022201226
+1227,0022201227,2023-04-09,3:30 pm ET,SAC,DEN,Sacramento Kings,Denver Nuggets,https://www.nba.com/game/sac-vs-den-0022201227
+1228,0022201228,2023-04-09,3:30 pm ET,UTA,LAL,Utah Jazz,Los Angeles Lakers,https://www.nba.com/game/uta-vs-lal-0022201228
+1229,0022201229,2023-04-09,3:30 pm ET,LAC,PHX,LA Clippers,Phoenix Suns,https://www.nba.com/game/lac-vs-phx-0022201229
+1230,0022201230,2023-04-09,3:30 pm ET,GSW,POR,Golden State Warriors,Portland Trail Blazers,https://www.nba.com/game/gsw-vs-por-0022201230
