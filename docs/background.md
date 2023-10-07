@@ -42,7 +42,7 @@ create table nba_teams (
 \copy nba_teams from 'all_teams.tsv'
 ```
 
-With the data in PostgreSQL, we can not make some non-trivial queries to enhance the data.
+With the data in PostgreSQL, we can now make some non-trivial queries to enhance the data.
 
 
 They also have related sites like LockerVision. But that site is unloved and pathetic.

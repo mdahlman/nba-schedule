@@ -1,4 +1,4 @@
-# NBA Schedule 2018-2019
+# NBA Schedule 2023-2024
 [Home]({{ site.baseurl }}{% link index.md %})
 
 This is the most boring no-frills table possible. I love it.
@@ -12,7 +12,7 @@ This is the most boring no-frills table possible. I love it.
       <th class="home_team_header">Home Team</th>
     </tr>
   </thead>
-{% for game in site.data.NBA-Full-Schedule-no-frills-2018-2019 %}
+{% for game in site.data.NBA-Full-Schedule-no-frills-2023-2024 %}
   <tr>
     <td class="game_date g1">{{ game.game_date }}</td>
     <td class="game_time_et g1">{{ game.game_time_et }}</td>
