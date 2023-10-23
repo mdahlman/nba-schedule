@@ -46,6 +46,13 @@ ALTER TABLE public."NBA-Full-Schedule-no-frills-2023-2024" ADD row_num int NULL;
 /* This time I retrieved the url directly from the source. */
 ALTER TABLE public."NBA-Full-Schedule-no-frills-2023-2024" ADD preview_url text NULL;
 
+/* https://github.com/mdahlman/nba-schedule/issues/12
+ * Request for TV info
+ * It made sense to add local_tv and radio at the same time.
+ */
+ALTER TABLE public."NBA-Full-Schedule-no-frills-2023-2024" ADD local_tv text NULL;
+ALTER TABLE public."NBA-Full-Schedule-no-frills-2023-2024" ADD radio text NULL;
+
 
 --truncate table "NBA-Full-Schedule-no-frills-2023-2024" ;
 INSERT INTO "NBA-Full-Schedule-no-frills-2023-2024"
@@ -79,6 +86,21 @@ from (
 where "NBA-Full-Schedule-no-frills-2023-2024".game_id = subquery.game_id
 ;
 
+select * from "NBA-Full-Schedule-no-frills-2023-2024"
+order by row_num;
+
+select * from public.nba_temp_2023_2024
+order by row_num::int;
+
+update "NBA-Full-Schedule-no-frills-2023-2024" e
+set 
+    tv = t.tv
+    , local_tv = t.local_tv
+    , radio = t.radio
+from public.nba_temp_2023_2024 t
+where
+    e.row_num = t.row_num::int
+;
 
 -- drop table "NBA-Full-Schedule-frills-2023-2024" ;
 create table "NBA-Full-Schedule-frills-2023-2024" as
@@ -86,7 +108,6 @@ select
     row_num
   , s.game_id
   , preview_url as game_url
-  , tv
   , game_date 
   , game_time_et 
   , away_team
@@ -95,6 +116,9 @@ select
   , home_team_full_name
   , rank() over (partition by game_date order by game_id_int) as game_number_this_day
   , rank() over (partition by game_date, game_time_et order by game_id_int) as game_number_this_day_and_time
+  , tv
+  , local_tv
+  , radio
   , s.arena 
   , s.city
   , a.espn_abbr as away_team_espn_abbr
